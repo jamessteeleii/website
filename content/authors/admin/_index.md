@@ -5,7 +5,7 @@ role: Associate Professor of Sport and Exercise Science
 organizations:
 - name: Solent University, Southampton, UK and (Director) Steele Research Limited
   url: https://www.solent.ac.uk/
-bio: Blank.
+bio: James is Associate Professor of Sport and Exercise Science at Solent University, and Director of Steele Research Limited.  
 
 interests:
 - Open research and meta-science
@@ -42,8 +42,6 @@ email: ''
 highlight_name: yes
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+James is Associate Professor of Sport and Exercise Science at Solent University, and Director of Steele Research Limited. He has extensive research and consultancy experience in physical activity, exercise, and sport; working with elite athletes across a range of sports, the general population across the lifespan, and both those who are healthy and diseased. His experiences are varied and interdisciplinary with a focus on problem solving across domains; as such he has expertise in a wide range of research methodologies, study designs, and both quantitative, qualitative, and mixed method approaches to data analysis and synthesis. James has led across numerous large research projects both within academia and the public and private sectors, published and provided invited talks across a range of areas relating to physical activity, exercise, and sport, served on a number of national expert panels and working groups, is an editor and reviewer for several journals, and has been involved in the founding of several societies within the field.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
