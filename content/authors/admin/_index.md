@@ -5,7 +5,7 @@ role: Associate Professor of Sport and Exercise Science
 organizations:
 - name: Solent University, Southampton, UK and (Director) Steele Research Limited
   url: https://www.solent.ac.uk/
-bio: James is Associate Professor of Sport and Exercise Science at Solent University, and Director of Steele Research Limited.
+bio: James is Associate Professor of Sport and Exercise Science at Solent University, and Director of Steele Research Limited. He has extensive research and consultancy experience in physical activity, exercise, and sport; working with elite athletes across a range of sports, the general population across the lifespan, and both those who are healthy and diseased. His experiences are varied and interdisciplinary with a focus on problem solving across domains; as such he has expertise in a wide range of research methodologies, study designs, and both quantitative, qualitative, and mixed method approaches to data analysis and synthesis. James has led across numerous large research projects both within academia and the public and private sectors, published and provided invited talks across a range of areas relating to physical activity, exercise, and sport, served on a number of national expert panels and working groups, is an editor and reviewer for several journals, and has been involved in the founding of several societies within the field.
 
 interests:
 - Open research and meta-science
@@ -25,7 +25,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: jamessteelesolent@hotmail.co.uk
+  link: /#contact
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jamessteeleii
