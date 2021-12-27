@@ -11,16 +11,17 @@ role: Associate Professort of Sport and Exercise Science
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Stanford University
-  url: https://www.stanford.edu/
+  url: https://www.solent.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: James is Associate Professor of Sport and Exercise Science at Solent University, and Director of Steele Research Limited. He has extensive research and consultancy experience in physical activity, exercise, and sport; working with elite athletes across a range of sports, the general population across the lifespan, and both those who are healthy and diseased. His experiences are varied and interdisciplinary with a focus on problem solving across domains; as such he has expertise in a wide range of research methodologies, study designs, and both quantitative, qualitative, and mixed method approaches to data analysis and synthesis. James has led across numerous large research projects both within academia and the public and private sectors, published and provided invited talks across a range of areas relating to physical activity, exercise, and sport, served on a number of national expert panels and working groups, is an editor and reviewer for several journals, and has been involved in the founding of several societies within the field.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Open research and meta-science
+- Exploration, conceptual development, and descriptive research
+- Theory development, modelling, and testing
+- Substantive applications to sport, exercise, and phyiscal activity domains
 
 # Education to show in About widget
 education:
