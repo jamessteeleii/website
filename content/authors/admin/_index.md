@@ -1,35 +1,52 @@
 ---
-title: "James Steele"
-superuser: yes
-role: Associate Professor of Sport and Exercise Science
-organizations:
-- name: Solent University, Southampton, UK and (Director) Steele Research Limited
-  url: https://www.solent.ac.uk/
-bio: James is Associate Professor of Sport and Exercise Science at Solent University, and Director of Steele Research Limited.  
+# Display name
+title: James Steele
 
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position/tagline
+role: Associate Professort of Sport and Exercise Science
+
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: Stanford University
+  url: https://www.stanford.edu/
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+# Interests to show in About widget
 interests:
-- Open research and meta-science
-- Exploration, theory development, and testing
-- Applications to substantive disciplines
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
+
+# Education to show in About widget
 education:
   courses:
-  - course: PhD (title: Isolated Lumbar Extension Resistance Exercise as an Intervention for Chronic Low Back Pain)
-    institution: Solent University
-    year: 2010-2014
-  - course: Post Graduate Certificate in Research Methods
-    institution: Solent University
-    year: 2010-2011
-  - course: BSc (Hons) in Applied Sport Science (First Class)
-    institution: Solent University
-    year: 2007-2010
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
+
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/jamessteeleii
-- icon: graduation-cap
+  link: https://twitter.com/GeorgeCushen
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
@@ -38,10 +55,23 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
-email: ''
-highlight_name: yes
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
-James is Associate Professor of Sport and Exercise Science at Solent University, and Director of Steele Research Limited. He has extensive research and consultancy experience in physical activity, exercise, and sport; working with elite athletes across a range of sports, the general population across the lifespan, and both those who are healthy and diseased. His experiences are varied and interdisciplinary with a focus on problem solving across domains; as such he has expertise in a wide range of research methodologies, study designs, and both quantitative, qualitative, and mixed method approaches to data analysis and synthesis. James has led across numerous large research projects both within academia and the public and private sectors, published and provided invited talks across a range of areas relating to physical activity, exercise, and sport, served on a number of national expert panels and working groups, is an editor and reviewer for several journals, and has been involved in the founding of several societies within the field.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
