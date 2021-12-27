@@ -6,7 +6,7 @@ title: James Steele
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professort of Sport and Exercise Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
