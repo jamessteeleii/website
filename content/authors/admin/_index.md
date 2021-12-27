@@ -47,8 +47,14 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jamessteeleii
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/James_Steele4
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/vjrqk/
+- icon: google-scholar  
+  icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=kvSD7D4AAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
