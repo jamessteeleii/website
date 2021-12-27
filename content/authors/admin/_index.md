@@ -6,11 +6,11 @@ title: James Steele
 superuser: true
 
 # Role/position/tagline
-role: Associate Professort of Sport and Exercise Science
+role: Associate Professor of Sport and Exercise Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: Solent University, Southampton, UK
   url: https://www.solent.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
