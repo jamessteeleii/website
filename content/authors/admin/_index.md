@@ -28,13 +28,13 @@ education:
   courses:
   - course: PhD (Title: Isolated Lumbar Extension Resistance Exercise as an Intervention for Chronic Low Back Pain)
     institution: Solent University
-    year: 2010-2014
+    year: 2014
   - course: Post Graduate Certificate in Research Methods
     institution: Solent University
-    year: 2010-2011
+    year: 2011
   - course: BSc in Applied Sport Science (First class with honours)
     institution: Solent University
-    year: 2007-2010
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
