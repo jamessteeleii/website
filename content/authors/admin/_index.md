@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto: jamessteelesolent@hotmail.co.uk'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jamessteeleii
@@ -65,7 +65,7 @@ social:
   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jamessteelesolent@hotmail.co.uk"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
