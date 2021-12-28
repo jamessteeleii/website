@@ -16,6 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
+  placement: 1
   caption: "Courtesy of wombo (https://app.wombo.art/)"
   focal_point: "Center"
   preview_only: false
@@ -27,3 +28,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Welcome to my website... despite having a 'online presence' for the best part of the last decade, I've continually put off developing and maintaining my own website.
