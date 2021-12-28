@@ -46,6 +46,14 @@ experience:
     date_start: '2015-10-01'
     date_end: '2016-10-31' 
     
+  - title: Lecturer in Applied Sport Science
+    company: Solent University
+    company_url: ''
+    company_logo: solent
+    location: Southampton, UK
+    date_start: '2014-07-01'
+    date_end: '2016-05-31' 
+    
 design:
   columns: '2'
 ---
