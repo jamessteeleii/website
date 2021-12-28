@@ -38,6 +38,14 @@ experience:
     date_start: '2018-01-01'
     date_end: '2021-03-31'
     
+  - title: Research and Innovation Fellow
+    company: Solent University
+    company_url: ''
+    company_logo: solent
+    location: Southampton, UK
+    date_start: '2015-10-01'
+    date_end: '2016-10-31' 
+    
 design:
   columns: '2'
 ---
