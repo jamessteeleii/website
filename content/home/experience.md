@@ -22,28 +22,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Associate Professor of Sport and Exercise Science
+    company: Solent University
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: solent
+    location: Southampton, UK
+    date_start: '2016-05-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Principal Investigator
+    company: ukactive
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ukactive
+    location: London, UK
+    date_start: '2018-01-01'
+    date_end: '2021-03-31'
+    
+   - title: Research and Innovation Fellow
+    company: Solent University
+    company_url: ''
+    company_logo: solent
+    location: Southampton, UK
+    date_start: '2015-10-01'
+    date_end: '2016-10-31'
+    
+    - title: Research and Innovation Fellow
+    company: Solent University
+    company_url: ''
+    company_logo: solent
+    location: Southampton, UK
+    date_start: '2014-07-01'
+    date_end: '2016-05-01'
 
 design:
   columns: '2'
