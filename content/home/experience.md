@@ -29,7 +29,12 @@ experience:
     location: Southampton, UK
     date_start: '2016-05-01'
     date_end: ''
-    
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
         
 
 design:
