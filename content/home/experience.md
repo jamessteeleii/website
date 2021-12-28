@@ -28,7 +28,15 @@ experience:
     company_logo: solent
     location: Southampton, UK
     date_start: '2016-05-01'
-    date_end: ''
+    date_end: ''   
+
+  - title: Principal Investigator
+    company: ukactive
+    company_url: ''
+    company_logo: ukactive
+    location: London, UK
+    date_start: '2018-01-01'
+    date_end: '2021-03-31'
     
 design:
   columns: '2'
