@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jamessteelesolent@hotmail.co.uk'
+  link: 'mailto:james@steele-research.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jamessteeleii

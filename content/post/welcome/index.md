@@ -30,3 +30,7 @@ projects: []
 ---
 
 Welcome to my website... despite having a 'online presence' for the best part of the last decade, I've continually put off developing and maintaining my own website.
+
+So what can you expect from this site?
+
+For starters, it will act as a central hub linking towards all of my other online platforms and ways of being contacted ([email](mailto:james@steele-research.com), twitter, researchgate, open science framework, google scholar, github, linkedin etc.)
