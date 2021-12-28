@@ -30,8 +30,7 @@ experience:
     location: Southampton, UK
     date_start: '2016-05-01'
     date_end: ''
-    description: '' 
-        
+
   - title: Principal Investigator
     company: ukactive
     company_url: ''
@@ -39,8 +38,7 @@ experience:
     location: London, UK
     date_start: '2018-01-01'
     date_end: '2021-03-31'
-    description: '' 
-    
+
    - title: Research and Innovation Fellow
     company: Solent University
     company_url: ''
@@ -48,7 +46,6 @@ experience:
     location: Southampton, UK
     date_start: '2015-10-01'
     date_end: '2016-10-31'
-    description: '' 
 
     - title: Lecturer in Applied Sport Science
     company: Solent University
@@ -57,8 +54,7 @@ experience:
     location: Southampton, UK
     date_start: '2014-07-01'
     date_end: '2016-05-01'
-    description: '' 
-        
+
 
 design:
   columns: '2'
