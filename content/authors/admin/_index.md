@@ -21,7 +21,7 @@ interests:
 - Open research and meta-science
 - Exploration, conceptual development, and descriptive research
 - Theory development, modelling, and testing
-- Substantive applications to sport, exercise, and phyiscal activity domains
+- Substantive applications to sport, exercise, and physical activity domains
 
 # Education to show in About widget
 education:
