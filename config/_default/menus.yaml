@@ -23,10 +23,10 @@ main:
     url: '#contact'
     weight: 60
 
-    [[main]]
-  name = Consulting
-  url = '#consulting'  # The URL of your page.
-  weight = 50  # The position of your page in the menu.
+main:
+  name: = Consulting
+  url: = '#consulting'  # The URL of your page.
+  weight: = 50  # The position of your page in the menu.
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
