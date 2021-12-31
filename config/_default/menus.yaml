@@ -20,7 +20,7 @@ main:
   #   url: '#featured'
   #   weight: 50
   - name: Consulting
-    url: 'content/consulting/index.md'  # The URL of your page.
+    url: https://steele-research.com/consulting  # The URL of your page.
     weight: 50  # The position of your page in the menu.
   - name: Contact
     url: '#contact'
