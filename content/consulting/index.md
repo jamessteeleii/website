@@ -1,4 +1,5 @@
 ---
+type: widget_page
 title: Consulting
 summary: Learn about how I can support your research
 date: "2018-06-28T00:00:00Z"
