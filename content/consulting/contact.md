@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: Let's talk about how I can support you
 subtitle:
 
 content:
