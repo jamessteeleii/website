@@ -19,9 +19,9 @@ main:
   # - name: Publications
   #   url: '#featured'
   #   weight: 50
-  - name: = Consulting
-    url: = '#consulting'  # The URL of your page.
-    weight: = 50  # The position of your page in the menu.
+  - name: Consulting
+    url: 'content/consulting/index.md'  # The URL of your page.
+    weight: 50  # The position of your page in the menu.
   - name: Contact
     url: '#contact'
     weight: 60
