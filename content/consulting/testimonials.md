@@ -20,9 +20,11 @@ header:
 
 *"James is in our opinion one of a kind. He combines the best of two worlds, a deep academic expertise coupled with an open, flexible and friendly attitude. James has greatly helped fit20 in uncovering new scientific insights of the fit20 training method. I cannot recommend James highly enough."*
 
-{{< icon name="rob" pack="custom" >}} Rob Reuters, Chief Innovation Officer, fit20 Group
+![screen reader text](rob.jpg "caption") 
+Rob Reuters, Chief Innovation Officer, fit20 Group
 
 *"Over the years, James has provided me with invaluable insights regarding a range of methodological issues. This includes selecting the most appropriate study designs, primary and secondary outcomes, and statistical models. James is not only sharp, but a real pleasure to work with. I would highly recommend James' services for anything to do with research methodology."*
 
-{{< icon name="israel" pack="custom" >}} Dr Israel Halperin, Faculty Member, School of Public Health at the Sackler Faculty of Medicine, Tel Aviv University
+![screen reader text](israel.jpg "caption") 
+Dr Israel Halperin, Faculty Member, School of Public Health at the Sackler Faculty of Medicine, Tel Aviv University
 
