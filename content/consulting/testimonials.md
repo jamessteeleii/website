@@ -1,19 +1,15 @@
 ---
-title: Testimonials
-summary: 
-date: "2018-06-28T00:00:00Z"
-
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-
+title: "Testimonials"
+summary: null
+date: '2018-06-28T00:00:00Z'
+reading_time: no
+share: no
+profile: no
+comments: no
 weight: 20
-
-# Optional header image (relative to `assets/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: ''
+  image: ''
 ---
 
 ## Here's what people have to say
@@ -23,7 +19,7 @@ header:
 
 ***Rob Reuters, Chief Innovation Officer, fit20 Group**
 
-{{< figure src="israel.jpg" position=2 >}} *"Over the years, James has provided me with invaluable insights regarding a range of methodological issues. This includes selecting the most appropriate study designs, primary and secondary outcomes, and statistical models. James is not only sharp, but a real pleasure to work with. I would highly recommend James' services for anything to do with research methodology."*
+![screen reader text](israel.jpg) *"Over the years, James has provided me with invaluable insights regarding a range of methodological issues. This includes selecting the most appropriate study designs, primary and secondary outcomes, and statistical models. James is not only sharp, but a real pleasure to work with. I would highly recommend James' services for anything to do with research methodology."*
 
 **Dr Israel Halperin, Faculty Member, School of Public Health at the Sackler Faculty of Medicine, Tel Aviv University**
 
