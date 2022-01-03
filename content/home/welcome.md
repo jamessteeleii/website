@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-hero_media: hormelab.png
+hero_media: logo.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -17,6 +17,6 @@ design:
 
 <br>
 
-In Greek mythology the spirit *Horme* (/ˈhɔːrmiː/; Ancient Greek: Ὁρμή) personified energetic activity, impulse, or *effort* (to do a thing). But what is *effort*? What is it to perceive *effort*? 
+Welcome to the website for **Steele Research Ltd**. 
 
-Within *Horme Lab* we seek to explore and identify the nature of effort, and its perception.
+Take a look around, and if you are interested in discussing consulting, or have and queries or feedback, feel free to get in contact.
