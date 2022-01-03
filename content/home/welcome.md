@@ -17,6 +17,4 @@ design:
 
 <br>
 
-Welcome to the website for **Steele Research Ltd**. 
-
-Take a look around, and if you are interested in discussing consulting, or have and queries or feedback, feel free to get in contact.
+Welcome to the website for 
