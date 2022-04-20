@@ -30,5 +30,19 @@ header:
 Additionally Dr Steele represented our company very well in client meetings and has demonstrated excellent organisational skills, observing critical deadlines. I would certainly recommend Dr Steele for research projects and would happily work together again."*
 
 {{< figure src="jack.jpg" placement="2">}}
-**Jack Symons - Cheif Executive Officer, Gamban**
+**Jack Symons - Chief Executive Officer, Gamban**
+
+
+*"We reached out to James for some additional insight on the most appropriate statistical analysis methods for an evaluation. Not only did he conduct the analysis in an efficient and professional manner but was happy to discuss the techniques used and the findings to the external stakeholders. James has a fantastic attitude and a deep knowledge of statistical analysis and we could not recommend his services highly enough."*
+
+{{< figure src="sam.jpg" placement="2">}}
+**Dr Sam Tuvey - Evaluation Researcher, South West Academic Health Science Network**
+
+
+*"James has been one of the most popular presenters at Kieser Australia. We love that James delivers a pragmatic approach to research that can be applied immediately in the real world - our clinicians regularly refer back to conversations with James when in sessions with clients. One of the most impressive things about James' expertise is his delivery. We have had him present to senior, junior and non clinical team members and all of them are equally impressed."*
+
+{{< figure src="tim.jpg" placement="2">}}
+**Tim Dettmann - Director and Physiotherapist, Kieser Australia**
+
+
 
