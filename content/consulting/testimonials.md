@@ -26,3 +26,9 @@ header:
 {{< figure src="israel.jpg" placement="2">}}
 **Dr Israel Halperin, Faculty Member, School of Public Health at the Sackler Faculty of Medicine, Tel Aviv University**
 
+*"Working with Dr Steele has been a pleasure; what I noticed quickly was his innate ability to process information objectively and pragmatically. The result of this is that he’s able to identify the important points and rapidly feedback substantial findings.
+Additionally Dr Steele represented our company very well in client meetings and has demonstrated excellent organisational skills, observing critical deadlines. I would certainly recommend Dr Steele for research projects and would happily work together again."*
+
+{{< figure src="jack.jpg" placement="2">}}
+**Jack Symons - Cheif Executive Officer, Gamban**
+
