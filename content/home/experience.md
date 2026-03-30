@@ -22,13 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Head of Research
+    company: Kieser Australia
+    company_url: ''
+    company_logo: kieser
+    location: Southampton, UK
+    date_start: '2024-10-01'
+    date_end: '2025-09-01'
   - title: Associate Professor of Sport and Exercise
     company: Solent University
     company_url: ''
     company_logo: solent
     location: Southampton, UK
     date_start: '2016-05-01'
-    date_end: ''   
+    date_end: '2024-06-30'   
 
   - title: Principal Investigator
     company: ukactive
