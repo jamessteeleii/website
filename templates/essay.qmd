@@ -1,0 +1,14 @@
+---
+title: "Essay title"
+description: "A one-sentence summary for the writing index and search engines."
+author: "James Steele"
+date: today
+kind: "Essay"
+draft: true
+---
+
+Write the essay here.
+
+## A section
+
+Quarto supports citations, cross-references, equations, figures, tables, callouts, and executable code cells.

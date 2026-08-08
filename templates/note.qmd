@@ -1,0 +1,10 @@
+---
+title: "Note title"
+description: "A one-sentence summary for the writing index and search engines."
+author: "James Steele"
+date: today
+kind: "Note"
+draft: true
+---
+
+Write the note here.

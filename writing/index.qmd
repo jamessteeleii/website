@@ -1,0 +1,32 @@
+---
+title: ""
+title-block-style: none
+pagetitle: "Writing"
+description: "Short notes, longer essays, project updates, and developing ideas."
+page-layout: full
+listing:
+  id: writing-listing
+  contents:
+    - ../notes/**/index.qmd
+    - ../essays/**/index.qmd
+    - "!../notes/index.qmd"
+    - "!../essays/index.qmd"
+  type: default
+  sort: "date desc"
+  fields: [date, title, description, kind]
+  feed: true
+---
+
+```{=html}
+<header class="page-header shell">
+  <p class="eyebrow">Notes &amp; essays</p>
+  <h1>Writing</h1>
+  <p class="lede">Short notes, longer essays, project updates, and developing ideas.</p>
+</header>
+```
+
+```{=html}
+<section class="section shell list-section">
+<div id="writing-listing"><p class="empty-state">Nothing published here yet.</p></div>
+</section>
+```

@@ -1,49 +1,65 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# Steele Research
 
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
+The source for [steele-research.com](https://steele-research.com), authored with Quarto and deployed to GitHub Pages.
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+## Preview
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+Quarto is included with current versions of RStudio and can also be installed from [quarto.org](https://quarto.org/docs/download/).
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+```sh
+quarto preview
+```
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+The project uses port `1313`. Draft posts are visible in preview but excluded from production builds.
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://wowchemy.com/creators/).
+After changing `data/publications.json` or `data/videos.yaml`, regenerate the data-driven page fragments before previewing:
 
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+```sh
+python scripts/render_quarto_data.py
+```
 
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli) 
-- 💡 [Suggest an improvement](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+## Write a short note
 
-## We ask you, humbly, to support this open source movement
+Copy `templates/note.qmd` to a dated page bundle such as:
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+```text
+notes/2026/08/my-note/index.qmd
+```
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+Write in Quarto Markdown, leave `draft: true` while working, and remove that line or change it to `false` when ready to publish.
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+## Write a long-form essay
 
-<p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
+Copy `templates/essay.qmd` to a page bundle such as:
 
-## Demo image credits
+```text
+essays/2026/my-essay/index.qmd
+```
 
-- [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
-- [Course](https://unsplash.com/photos/JKUTrJ4vK00)
+Images, bibliographies, data, and other supporting files can live beside `index.qmd`. Quarto citations use `[@citation-key]`; add `bibliography: references.bib` to the document front matter when needed.
 
-## Latest news
-<!--START_SECTION:news-->
-* [What&#39;s new in v5.2?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.2.0&#x2F;)
-* [What&#39;s new in v5.1?](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.1.0&#x2F;)
-* [Version 5.0 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.0.0&#x2F;)
-* [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.0.0-beta.3&#x2F;)
-* [Version 5.0 Beta 2 (January 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.0.0-beta.2&#x2F;)
-<!--END_SECTION:news-->
+Executable R, Python, or Julia content is supported. The project uses `freeze: auto`, so render computational posts locally and commit the generated `_freeze/` output with the source.
+
+## Publish
+
+Pushing to `main` or `master` runs `.github/workflows/quarto.yaml`. GitHub installs Quarto, regenerates the research and video pages, renders `_site/`, and deploys it to GitHub Pages. The repository's **Settings → Pages → Build and deployment → Source** must be set to **GitHub Actions**.
+
+The generated `_site/` directory is ignored and should not be committed.
+
+## Custom domain
+
+The root `CNAME` file is copied into the rendered site. Configure `steele-research.com` in the repository's Pages settings before changing DNS away from Netlify, then enable HTTPS once GitHub has issued the certificate.
+
+## Structure
+
+- `index.qmd` — home page
+- `about/`, `consulting/`, `research/`, `videos/`, `writing/` — main sections
+- `notes/` — short posts
+- `essays/` — long-form posts
+- `templates/` — starting points for new posts
+- `data/` — publication and video catalogues
+- `css/main.css` — site design
+- `scripts/render_quarto_data.py` — builds static research/video fragments
+- `publications/` — locally hosted, shareable full texts
+
+The previous Wowchemy/Hugo site remains recoverable from Git history.

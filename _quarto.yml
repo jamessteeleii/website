@@ -1,0 +1,62 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - about/**/*.qmd
+    - consulting/**/*.qmd
+    - research/**/*.qmd
+    - videos/**/*.qmd
+    - writing/**/*.qmd
+    - notes/**/*.qmd
+    - essays/**/*.qmd
+  resources:
+    - CNAME
+    - data/**
+    - images/**
+    - js/**
+    - publications/**
+  preview:
+    port: 1313
+    browser: false
+
+website:
+  title: "Steele Research"
+  site-url: "https://steele-research.com"
+  description: "Research, writing, and educational resources from James Steele."
+  favicon: images/icon.png
+  search: false
+  open-graph: true
+  navbar:
+    logo: images/icon.png
+    logo-alt: ""
+    title: "Steele Research"
+    background: white
+    foreground: dark
+    right:
+      - text: Research
+        href: research/
+      - text: Videos
+        href: videos/
+      - text: Writing
+        href: writing/
+      - text: About
+        href: about/
+      - text: Consulting
+        href: consulting/
+
+format:
+  html:
+    theme: default
+    css: css/main.css
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-after-body: includes/site-footer.html
+
+execute:
+  freeze: auto
+
+metadata-files:
+  - _metadata.yml

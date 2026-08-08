@@ -1,0 +1,20 @@
+---
+title: ""
+title-block-style: none
+pagetitle: "Videos"
+description: "Talks and short lessons on research methods, philosophy of science, statistics, and exercise science."
+page-layout: full
+---
+
+```{=html}
+<header class="page-header shell">
+  <p class="eyebrow">Watch &amp; learn</p>
+  <h1>Videos</h1>
+  <p class="lede">Talks and short lessons on research methods, philosophy of science, statistics, and exercise science.</p>
+  <div class="profile-links">
+    <a href="https://www.youtube.com/@SteeleResearchLimited">Open the YouTube channel</a>
+  </div>
+</header>
+```
+
+{{< include ../includes/video-archive.html >}}

@@ -1,0 +1,53 @@
+---
+title: ""
+title-block-style: none
+pagetitle: "About"
+description: "James Steele is Head of Research at MacroFactor, an Adjunct Industry Associate Professor at RMIT University, and Director of Steele Research Ltd."
+page-layout: full
+---
+
+```{=html}
+<header class="page-header shell">
+  <p class="eyebrow">About</p>
+  <h1>About</h1>
+  <p class="lede">James Steele is Head of Research at MacroFactor, an Adjunct Industry Associate Professor at RMIT University, and Director of Steele Research Ltd.</p>
+</header>
+```
+
+::: {.section .shell-narrow .prose}
+
+I am a researcher working across exercise and nutrition science, research methodology, philosophy of science, and meta-science. I am currently **Head of Research at MacroFactor**, an **Adjunct Industry Associate Professor at RMIT University**, and Director of **Steele Research Ltd**, through which I continue to offer independent research consultancy.
+
+My work is broad, but connected by a concern with how research questions are framed, how concepts and theories are constructed, and how evidence should be generated and interpreted. Current interests include:
+
+- philosophy of science and the foundations of scientific research;
+- concept formation, theory construction, modelling, and severe testing;
+- meta-analysis, causal inference, measurement error, and intervention-effect heterogeneity;
+- open, reproducible, and computational research workflows; and
+- applications across resistance training, body composition, nutrition, physical activity, sport, and health.
+
+At MacroFactor I lead research intended to improve the evidence and models underlying nutrition and body-composition practice. My wider academic work ranges from large multi-site resistance-training trials and evidence synthesis to methodological and philosophical questions about what researchers can reasonably infer from data.
+
+I previously served as Associate Professor of Sport and Exercise Science at Solent University (2016–2024), Principal Investigator at the ukactive Research Institute (2018–2021), and Research and Innovation Fellow and Lecturer at Solent. Across those roles I led and contributed to funded projects with academic, public, and private-sector partners; supervised doctoral researchers; taught research methods; served on national expert groups; and worked as an editor and statistical reviewer.
+
+## Background
+
+My academic training includes a PhD in Clinical Exercise Science, a Postgraduate Certificate in Research Methods, and a first-class BSc (Hons) in Applied Sport Science. The publication archive on this site covers peer-reviewed articles, preprints, chapters, and other scholarly outputs. I also publish talks and research-methods teaching through the Steele Research video library.
+
+I am interested in research that is both more intellectually serious and more practically useful: stronger concepts, riskier theories, clearer inferential targets, better measurement, and analyses that acknowledge uncertainty instead of hiding it.
+
+## Beyond the formal biography
+
+Away from work, I spend time with my family, read widely, enjoy long walks and theme-park trips, and am routinely supervised by a cat named Kiki. A philosophy-of-science tattoo has also proved an effective conversation starter.
+
+## Research profiles
+
+- [ORCID](https://orcid.org/0000-0002-8003-0757)
+- [ResearchGate](https://www.researchgate.net/profile/James-Steele-14)
+- [Steele Research video channel](https://www.youtube.com/@SteeleResearchLimited)
+
+## Contact
+
+The simplest way to reach me is by email at [james@steele-research.com](mailto:james@steele-research.com).
+
+:::

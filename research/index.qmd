@@ -1,0 +1,22 @@
+---
+title: ""
+title-block-style: none
+pagetitle: "Research"
+description: "Peer-reviewed articles, preprints, chapters, and other scholarly work, with full-text links wherever an open version is available."
+page-layout: full
+include-after-body: ../includes/research-script.html
+---
+
+```{=html}
+<header class="page-header shell">
+  <p class="eyebrow">Research archive</p>
+  <h1>Research</h1>
+  <p class="lede">Peer-reviewed articles, preprints, chapters, and other scholarly work, with full-text links wherever an open version is available.</p>
+  <div class="profile-links" aria-label="External research profiles">
+    <a href="https://orcid.org/0000-0002-8003-0757">ORCID</a>
+    <a href="https://www.researchgate.net/profile/James-Steele-14">ResearchGate</a>
+  </div>
+</header>
+```
+
+{{< include ../includes/research-archive.html >}}

@@ -1,0 +1,61 @@
+---
+title: ""
+title-block-style: none
+pagetitle: "Consulting"
+description: "Independent support for research questions, study design, analysis, interpretation, and evidence synthesis."
+page-layout: full
+---
+
+```{=html}
+<header class="page-header shell">
+  <p class="eyebrow">Independent research support</p>
+  <h1>Consulting</h1>
+  <p class="lede">Independent support for research questions, study design, analysis, interpretation, and evidence synthesis.</p>
+</header>
+```
+
+::: {.section .shell-narrow .prose}
+
+I help individuals and organisations specify useful research questions and develop credible ways to answer them.
+
+That can mean working at the start of a project—clarifying the problem, exploring concepts, identifying outcomes, and selecting a study design—or joining later to support analysis, modelling, interpretation, or synthesis of an existing evidence base.
+
+## How I can help
+
+- Framing and refining research questions
+- Conceptual development and outcome selection
+- Study and evaluation design
+- Statistical analysis and modelling
+- Evidence review and synthesis
+- Interpretation and communication of findings
+- Independent methodological review
+
+My experience covers academic, public-sector, and private-sector projects across exercise, physical activity, sport, health, and adjacent fields. If a project needs expertise outside my own, I can often identify an appropriate person or resource through my network.
+
+## Start a conversation
+
+Email [james@steele-research.com](mailto:james@steele-research.com) with a short outline of the question or project. I will reply to arrange an initial conversation about the need, scope, and likely cost.
+
+## What collaborators have said
+
+> James is in our opinion one of a kind. He combines the best of two worlds, a deep academic expertise coupled with an open, flexible and friendly attitude. James has greatly helped fit20 in uncovering new scientific insights of the fit20 training method. I cannot recommend James highly enough.
+
+— **Rob Reuters**, Chief Innovation Officer, fit20 Group
+
+> Over the years, James has provided me with invaluable insights regarding a range of methodological issues. This includes selecting the most appropriate study designs, primary and secondary outcomes, and statistical models. James is not only sharp, but a real pleasure to work with. I would highly recommend James' services for anything to do with research methodology.
+
+— **Dr Israel Halperin**, School of Public Health, Tel Aviv University
+
+> Working with Dr Steele has been a pleasure; what I noticed quickly was his innate ability to process information objectively and pragmatically. The result of this is that he’s able to identify the important points and rapidly feedback substantial findings. Additionally Dr Steele represented our company very well in client meetings and has demonstrated excellent organisational skills, observing critical deadlines. I would certainly recommend Dr Steele for research projects and would happily work together again.
+
+— **Jack Symons**, Chief Executive Officer, Gamban
+
+> We reached out to James for some additional insight on the most appropriate statistical analysis methods for an evaluation. Not only did he conduct the analysis in an efficient and professional manner but was happy to discuss the techniques used and the findings to the external stakeholders. James has a fantastic attitude and a deep knowledge of statistical analysis and we could not recommend his services highly enough.
+
+— **Dr Sam Tuvey**, Evaluation Researcher
+
+> James has been one of the most popular presenters at Kieser Australia. We love that James delivers a pragmatic approach to research that can be applied immediately in the real world—our clinicians regularly refer back to conversations with James when in sessions with clients. One of the most impressive things about James' expertise is his delivery. We have had him present to senior, junior and non clinical team members and all of them are equally impressed.
+
+— **Tim Dettmann**, Director and Physiotherapist, Kieser Australia
+
+:::

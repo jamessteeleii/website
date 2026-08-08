@@ -1,0 +1,11 @@
+---
+title: "Notes"
+description: "Short observations, links, working ideas, and research updates."
+page-layout: article
+listing:
+  contents:
+    - "**/index.qmd"
+    - "!index.qmd"
+  sort: "date desc"
+  feed: true
+---

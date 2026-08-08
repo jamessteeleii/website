@@ -1,9 +1,13 @@
 # IDEs
 .idea/
+.Rproj.user/
+.Rhistory
 
-# Hugo
-/resources/
-public/
-jsconfig.json
+# Quarto
+/.quarto/
+/_site/
+
+# Local tooling
 node_modules/
-.Rproj.user
+
+**/*.quarto_ipynb

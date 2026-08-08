@@ -1,0 +1,38 @@
+---
+title: ""
+title-block-style: none
+pagetitle: "James Steele"
+description: "Research, writing, and educational resources from James Steele."
+page-layout: full
+---
+
+```{=html}
+<section class="hero">
+  <div class="shell hero-grid">
+    <div>
+      <p class="eyebrow">James Steele · Researcher &amp; consultant</p>
+      <h1>Research, evidence,<br>and better questions.</h1>
+    </div>
+    <div class="hero-copy">
+      <p>I work across exercise and nutrition science, research methods, philosophy of science, and meta-science—connecting rigorous thinking with useful applied research.</p>
+      <div class="actions">
+        <a class="button" href="research/">Explore the research</a>
+        <a class="text-link" href="about/">More about me <span aria-hidden="true">→</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+```
+
+{{< include includes/home-library.html >}}
+
+```{=html}
+<section class="statement">
+  <div class="shell statement-grid">
+    <p class="eyebrow">Current roles</p>
+    <blockquote>Head of Research at MacroFactor. Adjunct Industry Associate Professor at RMIT. Independent consultant.</blockquote>
+  </div>
+</section>
+```
+
+{{< include includes/home-latest.html >}}

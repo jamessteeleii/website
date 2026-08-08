@@ -1,0 +1,11 @@
+---
+title: "Essays"
+description: "Longer-form writing on research, evidence, exercise, physical activity, sport, and meta-science."
+page-layout: article
+listing:
+  contents:
+    - "**/index.qmd"
+    - "!index.qmd"
+  sort: "date desc"
+  feed: true
+---
