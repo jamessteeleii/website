@@ -11,10 +11,10 @@ page-layout: full
   <div class="shell hero-grid">
     <div>
       <p class="eyebrow">James Steele · Researcher &amp; consultant</p>
-      <h1>Research, evidence,<br>and better questions.</h1>
+      <h1>Research, evidence,<br> better questions, and better answers.</h1>
     </div>
     <div class="hero-copy">
-      <p>I work across exercise and nutrition science, research methods, philosophy of science, and meta-science—connecting rigorous thinking with useful applied research.</p>
+      <p>I work across sport, exercise, and nutrition science, research methods, philosophy of science, and meta-science—connecting rigorous thinking with useful applied research.</p>
       <div class="actions">
         <a class="button" href="research/">Explore the research</a>
         <a class="text-link" href="about/">More about me <span aria-hidden="true">→</span></a>
@@ -30,7 +30,7 @@ page-layout: full
 <section class="statement">
   <div class="shell statement-grid">
     <p class="eyebrow">Current roles</p>
-    <blockquote>Head of Research at MacroFactor. Adjunct Industry Associate Professor at RMIT. Independent consultant.</blockquote>
+    <blockquote>Head of Research at MacroFactor.<br> Adjunct Industry Associate Professor at RMIT University.<br> Independent consultant.</blockquote>
   </div>
 </section>
 ```

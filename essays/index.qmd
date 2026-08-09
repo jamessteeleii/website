@@ -1,6 +1,6 @@
 ---
 title: "Essays"
-description: "Longer-form writing on research, evidence, exercise, physical activity, sport, and meta-science."
+description: "Longer-form writing essays."
 page-layout: article
 listing:
   contents:
