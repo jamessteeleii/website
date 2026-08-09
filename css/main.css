@@ -99,7 +99,7 @@ h1 { margin-bottom: 0; font-size: clamp(3.25rem, 7.4vw, 7.25rem); }
 .prose pre { overflow-x: auto; padding: 20px; background: var(--ink); color: var(--paper); font-size: 0.9rem; }
 .prose hr { margin: 3em 0; border: 0; border-top: 1px solid var(--line); }
 
-.site-footer { padding-block: 72px; background: var(--paper-deep); border-top: 1px solid var(--line); }
+.site-footer { grid-column: 1 / -1; width: 100%; padding-block: 72px; background: var(--paper-deep); border-top: 1px solid var(--line); }
 .footer-grid { display: grid; grid-template-columns: 1fr auto; gap: 60px; }
 .footer-title { max-width: 600px; margin: 0 0 18px; font-family: var(--serif); font-size: clamp(1.7rem, 3.4vw, 3rem); line-height: 1.2; }
 .footer-meta { align-self: end; color: var(--muted); font-size: 0.82rem; text-align: right; }
