@@ -13,6 +13,7 @@ project:
   resources:
     - CNAME
     - data/**
+    - fonts/**
     - images/**
     - js/**
     - publications/**
