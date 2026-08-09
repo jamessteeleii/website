@@ -2,7 +2,7 @@
 title: "Note title"
 description: "A one-sentence summary for the writing index and search engines."
 author: "James Steele"
-date: today
+date: "YYYY-MM-DD"
 kind: "Note"
 draft: true
 ---
