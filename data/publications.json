@@ -2957,25 +2957,25 @@
   {
     "year": 2013,
     "date": "2013-02-12",
-    "title": "Intensity; in-ten-si-ty;noun. 1. Often used ambiguously within resistance training. 2. Is it time to drop the term altogether?",
+    "title": "Intensity; in-ten-si-ty; noun. 1. Often used ambiguously within resistance training. 2. Is it time to drop the term altogether?",
     "authors": "James Steele",
     "type": "article",
     "category": "article",
     "venue": "British Journal of Sports Medicine",
     "url": "https://doi.org/10.1136/bjsports-2012-092127",
-    "full_text": "",
+    "full_text": "/publications/steele_2013_intensity_noun.pdf",
     "open_access": false
   },
   {
     "year": 2013,
     "date": "2013-01-01",
-    "title": "EVIDENCE!BASED RESISTANCE TRAINING RECOMMENDATIONS FOR MUSCULAR HYPERTROPHY",
-    "authors": "James Fisher, James Steele",
+    "title": "Evidence-Based Resistance Training Recommendations for Muscular Hypertrophy",
+    "authors": "James Fisher, James Steele, Dave Smith",
     "type": "article",
     "category": "article",
-    "venue": "Southampton Solent University Digital Library",
+    "venue": "Medicina Sportiva",
     "url": "https://openalex.org/W2289146380",
-    "full_text": "http://ssudl.solent.ac.uk/3127/1/Evidence%20Based%20Resistance%20Training%20Recommendations.pdf",
+    "full_text": "/publications/fisher_et_al_2013_evidence_based_resistance_training_hypertrophy.pdf",
     "open_access": true
   },
   {
@@ -2997,9 +2997,21 @@
     "authors": "James Steele, James Fisher, Doug McGuff, Stewart Bruce‐Low, Dave Smith",
     "type": "article",
     "category": "article",
-    "venue": "Solent University Research Portal (Solent University)",
-    "url": "https://pure.solent.ac.uk/en/publications/1a682922-9a5f-4247-aa35-5d907ee04928",
-    "full_text": "https://pure.solent.ac.uk/en/publications/1a682922-9a5f-4247-aa35-5d907ee04928",
+    "venue": "Journal of Exercise Physiology Online",
+    "url": "http://www.asep.org/asep/asep/JEPonlineJUNE2012_Steele.pdf",
+    "full_text": "http://www.asep.org/asep/asep/JEPonlineJUNE2012_Steele.pdf",
+    "open_access": true
+  },
+  {
+    "year": 2012,
+    "date": "2012-02-01",
+    "title": "Is truth in authority or authority in truth? Limitations to the publication of scientific research",
+    "authors": "James Fisher, James Steele",
+    "type": "article",
+    "category": "article",
+    "venue": "Journal of Exercise Physiology Online",
+    "url": "http://www.asep.org/asep/asep/JEPonlineFebruary2012Fisher.pdf",
+    "full_text": "http://www.asep.org/asep/asep/JEPonlineFebruary2012Fisher.pdf",
     "open_access": true
   },
   {
@@ -3010,7 +3022,6 @@
     "type": "article",
     "category": "article",
     "venue": "Medicina Sportiva",
-    "url": "",
     "full_text": "/publications/fisher_et_al_2011_evidence_based_resistance_training.pdf",
     "open_access": true
   }
