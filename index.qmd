@@ -11,7 +11,7 @@ page-layout: full
   <div class="shell hero-grid">
     <div>
       <p class="eyebrow">James Steele · Researcher &amp; consultant</p>
-      <h1>Research, evidence,<br> better questions,<br> and better answers.</h1>
+      <h1>Better research starts with stronger foundations.</h1>
     </div>
     <div class="hero-copy">
       <p>I work across sport, exercise, and nutrition science, research methods, philosophy of science, and meta-science—connecting rigorous thinking with useful applied research.</p>
