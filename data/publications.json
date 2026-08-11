@@ -2903,19 +2903,19 @@
     "category": "article",
     "venue": "Current Medical Research and Opinion",
     "url": "https://doi.org/10.1185/03007995.2013.875465",
-    "full_text": "",
+    "full_text": "/publications/steele_et_al_2013_reappraisal_deconditioning_clbp.pdf",
     "open_access": true
   },
   {
-    "year": 2013,
-    "date": "2013-10-24",
+    "year": 2014,
+    "date": "2014-01-01",
     "title": "Scientific Rigour: a Heavy or Light Load to Carry?",
     "authors": "James Steele, James Fisher",
     "type": "article",
     "category": "article",
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-013-0113-2",
-    "full_text": "",
+    "full_text": "/publications/steele_fisher_2014_scientific_rigour_heavy_light_load.pdf",
     "open_access": false
   },
   {
@@ -2927,19 +2927,19 @@
     "category": "article",
     "venue": "British Journal of Sports Medicine",
     "url": "https://doi.org/10.1136/bjsports-2013-092197",
-    "full_text": "",
+    "full_text": "/publications/steele_et_al_2013_review_specificity_lumbar_extensors.pdf",
     "open_access": false
   },
   {
     "year": 2013,
     "date": "2013-04-10",
-    "title": "Letters",
+    "title": "Controlling Resistance Training Variables in Interventions for Chronic Nonspecific Low Back Pain",
     "authors": "James Steele, Stewart Bruce‐Low, Dave Smith",
     "type": "article",
     "category": "article",
     "venue": "Spine",
     "url": "https://doi.org/10.1097/brs.0b013e318294ed8c",
-    "full_text": "",
+    "full_text": "/publications/steele_et_al_2013_controlling_resistance_training_variables_clbp.pdf",
     "open_access": false
   },
   {
@@ -2951,7 +2951,7 @@
     "category": "article",
     "venue": "Spine",
     "url": "https://doi.org/10.1097/brs.0b013e318291b526",
-    "full_text": "",
+    "full_text": "/publications/steele_et_al_2013_rct_limited_rom_ilex_clbp.pdf",
     "open_access": true
   },
   {
@@ -2968,7 +2968,7 @@
   },
   {
     "year": 2013,
-    "date": "2013-01-01",
+    "date": "2013-12-01",
     "title": "Evidence-Based Resistance Training Recommendations for Muscular Hypertrophy",
     "authors": "James Fisher, James Steele, Dave Smith",
     "type": "article",
@@ -3022,6 +3022,7 @@
     "type": "article",
     "category": "article",
     "venue": "Medicina Sportiva",
+    "url": "",
     "full_text": "/publications/fisher_et_al_2011_evidence_based_resistance_training.pdf",
     "open_access": true
   }
