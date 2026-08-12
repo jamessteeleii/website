@@ -1,0 +1,31 @@
+---
+title: "Science is a Tower"
+description: "Janitorial science and the brickmakers."
+date: last-modified
+kind: "Note"
+categories: [Science, Philosophy of Science, Methods]
+draft: false
+---
+I recently returned from holiday in Es Canar, Ibiza where I spent my time mostly relaxing with Emma, enjoying the sun, the pool, the beach, taking walks, boat trips out, eating, drinking, but also reading. When away I tend to read a little non-fiction, usually whatever broader philosophical works I happen to be reading at the time[^1] is my morning coffee read. But the rest of the time I make sure to read fiction, usually science fiction or fantasy[^2].
+
+[^1]: I do try to explicitly avoid reading anything that is very directly tied to current work so as to switch off from it. But I do appreciate the freedom from this to think a bit more broadly and so hence still reading some non-fiction whilst away.
+
+[^2]: And, to be honest, often philosophically oriented... For the past few years I have had the Collected Ficciones (a book collecting all of his stories translated to English) of Jorge Luis Borges on the go and each time we take a holiday or trip I'll tend to read some of the stories in it. Someone has shared a pdf version of it [here](https://posthegemony.files.wordpress.com/2013/02/borges_collected-fictions.pdf) which is actually the version I have on my kindle (it's nicely optimised in terms of layout for reading on a kindle despite being a pdf).
+
+This holiday I was after something to scratch the itch that had been left after reading stories like those from [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang). I'd heard of, but had not delved into, the [SCP Foundation](https://en.wikipedia.org/wiki/SCP_Foundation) before, the collaborative fiction project covering the workings of its namesakes work in capturing, containing, and studying unknowns and anomalies such as paranormal, supernatural, and other mysterious phenomena. The author [qntm](https://qntm.org/), who had contributed broadly to this project, had popped up as a recommendation based on my enjoyment of Chiang's work. So I ventured to read some of his stories whilst on holiday this time. 
+
+I started with [Valuable Humans in Transit and Other Stories](https://qntm.org/vhitaos), and after that moved onto what appeared to be the most intriguing work to me: [There Is No Antimemetics Division](https://qntm.org/antimemetics). I enjoyed both thoroughly, and the latter so much that it sparked a radical idea for an experimental role-playing game scenario that I have developed and will be testing out with my regular group in the near future. But it was a short story in the former, "If You Are Reading This" which you can read [here](https://qntm.org/readin), that prompted me to pen this brief note with the main purpose of sharing a quote that struck a chord with me.
+
+Here's the quote:
+
+> "Trev put it like this: science is a tower which he and all other scientists are all trying to make taller. The lower levels are all filled in and sturdy, but the higher you go, the more gaps there are. The people right at the cutting edge looking for dark energy and Higgs bosons and symmetry violations are perched on the very top of the pile, hurling bricks into clear air to see what finds purchase. Meanwhile, Those Also Serve Who Stay Behind And Fill In The Gaps. They need filling. Trev called this janitorial science, because you're fixing up the incomplete job, the mess left behind by someone else."
+
+The quote appears to me to lean on the classic allegory from Bernard Forscher, [Chaos in the Brickyard](https://www.science.org/doi/10.1126/science.142.3590.339.a), but in this sense there is some semblance of structure wherein scientists are at least trying to build something out of their bricks. But, the latter part... the filling in of the gaps... the fixing up of the mess... the checking of foundations... the "janitorial science"... this is what struck a chord for me.
+
+Many in the latest methodological reform movement(s) (or whatever label you want to give to it) have drawn attention to the need for this kind of "boring" scientific work. Of detailing the logical structures of our concepts, careful descriptive work, replicable inference regarding the existence of stable phenomena, building of theories aimed at explaining these phenomena and then devising severe tests of their deductively entailed predictions, the checking of all the auxiliary theories and the assumptions inherent in our empirical work, the estimates we make, and the tests we perform. The work required in the whole length of the derivation chain is slow, and laborious, and to many... well, boring. But it's essential. 
+
+It's this kind of foundational[^3] work that I personally believe is far more important and meaningful than the typical "sexy science" that garners everyone's attention; both public and scientific attention. 
+
+Science is a tower, and we should be grateful for the janitors of the tower that clean up all the brickdust and other detritus left behind by the brickmakers.
+
+[^3]: And, even prior to that, the consideration of what philosophical assumptions, ontological, espistemological, axiological, we bring along for the ride. I have tried to stress the importance of this first and foremost in the opening chapter for a forthcoming textbook on research methods in the sport and exercise sciences. You can read a preprint version [here](https://sportrxiv.org/index.php/server/preprint/view/366).
