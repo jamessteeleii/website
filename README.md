@@ -53,7 +53,7 @@ These are the hand-edited sources:
 
 Most page prose is ordinary Quarto Markdown. Some page structures use raw HTML blocks so that the custom layout classes in `css/main.css` can be applied. Edit the words inside those blocks normally, but retain the surrounding tags and class names unless you are deliberately changing the layout.
 
-Do not directly edit `includes/home-library.html`, `includes/home-latest.html`, `includes/research-archive.html`, or `includes/video-archive.html`. They are generated from the publication and video data and will be overwritten.
+Do not directly edit `includes/home-library.html`, `includes/home-latest.html`, `includes/research-archive.html`, or `includes/video-archive.html`. They are generated from the publication, writing, and video sources and will be overwritten. The latest published notes and essays appear on the home page automatically; drafts do not.
 
 ## Publications
 

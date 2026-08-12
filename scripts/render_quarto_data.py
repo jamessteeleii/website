@@ -4,6 +4,9 @@ from __future__ import annotations
 
 import html
 import json
+import re
+import subprocess
+from datetime import date, datetime
 from pathlib import Path
 
 
@@ -45,6 +48,64 @@ def humanize(value: str) -> str:
     return value.replace("-", " ").replace("_", " ").strip().capitalize()
 
 
+def front_matter(path: Path) -> dict[str, str]:
+    """Read the simple scalar fields used by note and essay front matter."""
+    match = re.match(r"\A---\s*\n(.*?)\n---", path.read_text(encoding="utf-8"), re.DOTALL)
+    if not match:
+        return {}
+
+    fields: dict[str, str] = {}
+    for raw_line in match.group(1).splitlines():
+        if not raw_line or raw_line[0].isspace() or ":" not in raw_line:
+            continue
+        key, value = raw_line.split(":", 1)
+        fields[key.strip()] = value.strip().strip('"\'')
+    return fields
+
+
+def last_commit_date(path: Path) -> date:
+    """Resolve Quarto's `last-modified` date consistently locally and in CI."""
+    result = subprocess.run(
+        ["git", "log", "-1", "--format=%cs", "--", str(path.relative_to(ROOT))],
+        cwd=ROOT,
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+    value = result.stdout.strip()
+    if value:
+        return date.fromisoformat(value)
+    return datetime.fromtimestamp(path.stat().st_mtime).date()
+
+
+def published_writing() -> list[dict[str, object]]:
+    writing: list[dict[str, object]] = []
+    for section in ("notes", "essays"):
+        for path in (ROOT / section).glob("**/index.qmd"):
+            if path.parent == ROOT / section:
+                continue
+            fields = front_matter(path)
+            if not fields or fields.get("draft", "false").lower() == "true":
+                continue
+
+            raw_date = fields.get("date", "last-modified")
+            published = (
+                last_commit_date(path)
+                if raw_date == "last-modified"
+                else date.fromisoformat(raw_date)
+            )
+            writing.append(
+                {
+                    "title": fields.get("title", path.parent.name.replace("-", " ").title()),
+                    "description": fields.get("description", ""),
+                    "kind": fields.get("kind", section[:-1].capitalize()),
+                    "date": published,
+                    "url": f'{path.parent.relative_to(ROOT).as_posix()}/',
+                }
+            )
+    return sorted(writing, key=lambda item: item["date"], reverse=True)
+
+
 def research_item(work: dict, *, compact: bool = False) -> str:
     heading = "h3" if compact else "h2"
     title = esc(work["title"])
@@ -82,7 +143,11 @@ def research_item(work: dict, *, compact: bool = False) -> str:
     )
 
 
-def render(publications: list[dict], videos: list[dict[str, str]]) -> None:
+def render(
+    publications: list[dict],
+    videos: list[dict[str, str]],
+    writing: list[dict[str, object]],
+) -> None:
     years = list(dict.fromkeys(str(work["year"]) for work in publications))
     year_options = "".join(f'<option value="{esc(year)}">{esc(year)}</option>' for year in years)
     archive = "".join(research_item(work) for work in publications)
@@ -131,11 +196,41 @@ def render(publications: list[dict], videos: list[dict[str, str]]) -> None:
 </section>
 """.strip()
 
-    latest = "".join(research_item(work, compact=True) for work in publications[:5])
+    latest_research = "".join(research_item(work, compact=True) for work in publications[:5])
+    latest_writing = "".join(
+        (
+            '<article class="research-item home-latest-item">'
+            f'<div class="research-year"><time datetime="{item["date"].isoformat()}">'
+            f'{item["date"].strftime("%d %b %Y").lstrip("0")}</time></div>'
+            f'<div><h3><a href="{esc(item["url"])}">{esc(item["title"])}</a></h3>'
+            f'<p><span class="latest-kind">{esc(item["kind"])}</span>'
+            f'{" · " if item["description"] else ""}{esc(item["description"])}</p></div>'
+            "</article>"
+        )
+        for item in writing[:5]
+    )
+    latest_videos = "".join(
+        (
+            '<article class="research-item home-latest-item">'
+            f'<div class="research-year">{esc(video.get("duration"))}</div>'
+            f'<div><h3><a href="{esc(video["url"])}">{esc(video["title"])}</a></h3>'
+            f'<p><span class="latest-kind">{esc(video.get("category"))}</span></p></div>'
+            "</article>"
+        )
+        for video in videos[:5]
+    )
     home_latest = f"""
 <section class="section shell">
   <div class="section-heading"><div><p class="eyebrow">Recently published</p><h2>Latest research</h2></div><a class="text-link" href="research/">Full archive <span aria-hidden="true">→</span></a></div>
-  <div class="research-list compact-research-list">{latest}</div>
+  <div class="research-list compact-research-list">{latest_research}</div>
+</section>
+<section class="section shell home-latest-section">
+  <div class="section-heading"><div><p class="eyebrow">Notes &amp; essays</p><h2>Latest writing</h2></div><a class="text-link" href="writing/">All writing <span aria-hidden="true">→</span></a></div>
+  <div class="research-list compact-research-list">{latest_writing}</div>
+</section>
+<section class="section shell home-latest-section">
+  <div class="section-heading"><div><p class="eyebrow">Watch &amp; learn</p><h2>Latest videos</h2></div><a class="text-link" href="videos/">All videos <span aria-hidden="true">→</span></a></div>
+  <div class="research-list compact-research-list">{latest_videos}</div>
 </section>
 """.strip()
 
@@ -155,7 +250,7 @@ def render(publications: list[dict], videos: list[dict[str, str]]) -> None:
 def main() -> None:
     publications = json.loads((ROOT / "data" / "publications.json").read_text(encoding="utf-8"))
     videos = parse_simple_yaml(ROOT / "data" / "videos.yaml")
-    render(publications, videos)
+    render(publications, videos, published_writing())
 
 
 if __name__ == "__main__":

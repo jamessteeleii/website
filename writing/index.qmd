@@ -22,6 +22,9 @@ listing:
   <p class="eyebrow">Notes &amp; essays</p>
   <h1>Writing</h1>
   <p class="lede">Short notes, longer essays, project updates, and developing ideas.</p>
+  <div class="profile-links">
+    <a href="/writing/index.xml">Subscribe via RSS</a>
+  </div>
 </header>
 ```
 
