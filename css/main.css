@@ -47,8 +47,8 @@ img { max-width: 100%; height: auto; }
 .navbar-toggler { border: 0; border-radius: 0; }
 
 .hero {
-  padding: clamp(52px, 8vh, 96px) 0 clamp(64px, 10vh, 120px);
-  padding: clamp(52px, 8dvh, 96px) 0 clamp(64px, 10dvh, 120px);
+  padding: clamp(32px, 4vh, 52px) 0 clamp(52px, 7vh, 84px);
+  padding: clamp(32px, 4dvh, 52px) 0 clamp(52px, 7dvh, 84px);
   border-bottom: 1px solid var(--line);
 }
 .hero-grid { display: grid; grid-template-columns: minmax(0, 1.45fr) minmax(300px, 0.55fr); align-items: end; gap: clamp(48px, 8vw, 120px); }
@@ -87,8 +87,8 @@ h1 { margin-bottom: 0; font-size: clamp(3.25rem, min(7.4vw, 11vh), 8rem); }
 .statement blockquote { max-width: 850px; margin: 0; font-family: var(--serif); font-size: clamp(2rem, 4.6vw, 4.4rem); line-height: 1.14; letter-spacing: -0.025em; }
 
 .page-header {
-  padding: clamp(48px, 7vh, 84px) 0 clamp(42px, 6vh, 62px);
-  padding: clamp(48px, 7dvh, 84px) 0 clamp(42px, 6dvh, 62px);
+  padding: clamp(32px, 4vh, 52px) 0 clamp(34px, 5vh, 52px);
+  padding: clamp(32px, 4dvh, 52px) 0 clamp(34px, 5dvh, 52px);
   border-bottom: 1px solid var(--line);
 }
 .page-header h1, .article-header h1 { font-size: clamp(3.1rem, min(7vw, 10vh), 6.9rem); }
@@ -100,8 +100,8 @@ h1 { margin-bottom: 0; font-size: clamp(3.25rem, min(7.4vw, 11vh), 8rem); }
 .list-section { padding-top: 60px; }
 
 .article {
-  padding-block: clamp(52px, 8vh, 96px);
-  padding-block: clamp(52px, 8dvh, 96px);
+  padding-block: clamp(40px, 6vh, 72px);
+  padding-block: clamp(40px, 6dvh, 72px);
 }
 .article-header { margin-bottom: 60px; }
 .article-header h1 { margin-bottom: 0; }
@@ -174,7 +174,7 @@ h1 { margin-bottom: 0; font-size: clamp(3.25rem, min(7.4vw, 11vh), 8rem); }
   .navbar { min-height: 70px; }
   .navbar > .container-fluid { width: min(100% - 30px, 1180px); }
   .navbar-brand-logo img { width: 34px; height: 34px; }
-  .hero { padding-top: 66px; }
+  .hero { padding-top: 40px; }
   .hero h1 { font-size: clamp(2.9rem, 15vw, 4.2rem); }
   .section-heading { align-items: flex-start; flex-direction: column; }
   .writing-item { grid-template-columns: 1fr; gap: 14px; }
