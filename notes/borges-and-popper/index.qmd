@@ -1,0 +1,35 @@
+---
+title: "Borges and Popper"
+description: "A shared commonsense argument for realism"
+date: last-modified
+kind: "Note"
+categories: [Philosophy of Science, Realism, Literature, Borges, Popper]
+draft: false
+---
+
+Realism, or indeed any metaphysical or ontological positionality that we adopt, is not something we can prove. I tried to stress this in the introductory chapter to philosophy of science for a forthcoming textbook on research methods in the sport and exercise sciences[^1]:
+
+[^1]: You can read a preprint version of it [here](https://sportrxiv.org/index.php/server/preprint/view/366).
+
+> "In reflecting about your ontological position there is one thing to keep in mind; it is inherently assumptive. We cannot go out and empirically test these assumptions to have knowledge of whether they are ‘true’... It is worth stating clearly here that it is absolutely fine to embrace the subjectivity of your ontological position. You may hold a particular intuition about it; a belief, or a tendency to believe, or a feeling that something seems to be the case. It is also perfectly acceptable to be unsure about it and to reflect upon it from time to time. It is also no problem to adopt different positions because of this reflection over time or because in a particular context there are non-epistemic values(i.e., values not pertaining to knowledge or its generation such as moral or aesthetic values) that lead to a given choice regarding ontology."
+
+Now, to be clear, I am a realist though I am comfortable with the fact that this is something I cannot make any conclusive argument about. But, there are certain things which, at the very least, satisfy me in adopting this position. One of these is what could be called the argument from *common-sense*[^2]. In *Realism and the Aim of Science* Karl Popper, after reminding us of this fact of the inconclusivity of any arguments in this vein[^3], presents his argument:
+
+[^2]: Although I also like the idea of calling it the *charming* argument after how reviewer of Popper's *Realism and the Aim of Science*,  Anthony O'Hear, [described it](https://www.jstor.org/stable/2254816): "Popper finds that 'realism is so obviously true' that straightforward counter-arguments are trite and distasteful, though I must say that I found Popper's argument against solipsistic idealism charming."
+
+[^3]: He notes "...I always remember that in this kind of inquiry no arguments can be conclusive." and further "[t]he argument is of course inconclusive. I may perhaps underrate myself (and at the same time overrate myself) in my dream. Or the category of creation may not be applicable. All this is understood. Nevertheless, the argument satisfies me completely."
+
+> "My argument is this. I know that I have not created Bach's music, or Mozart's; that I have not created Rembrandt's pictures, or Botticelli's. I am quite certain that I never could do anything like it: I just do not have it in me. (I know this particularly well since I made many attempts to copy Bach; it made me more appreciative of his inventive power.) I know that I do not have the imagination to write anything like the Iliad or the Inferno or The Tempest. If possible, I am even less able to draw an average comic strip, or to invent a television advertisement, or to write some of the books on the justification of induction which I am compelled to read. But on the solipsistic hypothesis, all these creations would be those of my own dreams. They would be creatures of my own imagination. For there would be no other minds: there would be nothing but my mind. I know that this cannot be true."
+
+Another[^4], Jorge Luis Borges, made a strikingly similar argument in literary form in his short story *The Other*[^5]. In the story the older Borges, meeting his younger self, tries to prove that he is not merely being dreamed by the young man:
+
+[^4]: "The" Other?
+[^5]: As I have shared before omeone has shared a pdf version of  Borges Collected Ficciones [here](https://posthegemony.files.wordpress.com/2013/02/borges_collected-fictions.pdf) which is actually the version I have on my kindle (it’s nicely optimised in terms of layout for reading on a kindle despite being a pdf).
+
+> 'I was struck by a sudden idea. "I can prove to you this minute," I said, "that you aren't dreaming me. Listen to this line of
+poetry. So far as I can recall, you've never heard it before." I slowly intoned the famous line: "L'hydreunivers tordant son corpse caillé d'astres." I could sense his almost fear-stricken bafflement. He repeated the line softly, savoring each glowing word. "It's true," he stammered, "I could never write a line like that." Hugo had brought us together.'
+
+Whether one influenced the others argument is not clear as Popper had noted "...it is therefore not impossible that
+my simple argument for the existence of other minds has been used by others before (although I do not think it has)". This correspondence between the two could be mere coincidence. Either way, having begun re-reading *Realism and the Aim of Science* recently, the similarity struck me whilst reading *The Other* on holiday[^6]
+
+[^6]: Though actually I first noticed this correspondence when Dave and Tamler covered the story on an episode of [Very Bad Wizards](https://verybadwizards.com/episode/episode-332-talking-to-myself-the-other-by-jorge-luis-borges) earlier this year.
