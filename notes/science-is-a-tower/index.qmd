@@ -1,7 +1,7 @@
 ---
 title: "Science is a Tower"
 description: "Janitorial science and the brickmakers."
-date: 2026-12-08
+date: 2026-08-12
 kind: "Note"
 categories: [Science, Philosophy of Science, Methods]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "Borges and Popper"
 description: "A shared commonsense argument for realism"
-date: 2026-17-08
+date: 2026-08-17
 kind: "Note"
 categories: [Philosophy of Science, Realism, Literature, Borges, Popper]
 draft: false
