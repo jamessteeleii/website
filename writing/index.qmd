@@ -25,6 +25,7 @@ listing:
   <div class="profile-links">
     <a href="/writing/index.xml">Subscribe via RSS</a>
   </div>
+  <p class="rss-help">To subscribe, open the feed, copy its URL from your browser's address bar, then add it to your RSS reader of choice. Need a reader? <a href="https://chromewebstore.google.com/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp">RSS Feed Reader for Chrome</a> is one option.</p>
 </header>
 ```
 

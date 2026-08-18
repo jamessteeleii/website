@@ -36,6 +36,7 @@ page-layout: full
     <div class="updates-copy">
       <p>This website is now the home for updates on my work. I will no longer post new work on social media; outside of YouTube and research profiles such as ORCID and ResearchGate, updates will appear here.</p>
       <a class="button" href="/writing/index.xml">Subscribe via RSS</a>
+      <p class="rss-help">To subscribe, open the feed, copy its URL from your browser's address bar, then add it to your RSS reader of choice. Need a reader? <a href="https://chromewebstore.google.com/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp">RSS Feed Reader for Chrome</a> is one option.</p>
     </div>
   </div>
 </section>
