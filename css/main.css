@@ -105,6 +105,11 @@ h1 { margin-bottom: 0; font-size: clamp(3.25rem, min(7.4vw, 11vh), 8rem); }
 }
 .page-header .lede { max-width: 700px; }
 .lede { margin: 26px 0 0; color: var(--muted); font-family: var(--serif); font-size: clamp(1.25rem, 2.2vw, 1.55rem); line-height: 1.5; }
+.about-header { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(320px, 0.65fr); align-items: center; gap: clamp(48px, 8vw, 112px); }
+.about-headshot { margin: 0; overflow: hidden; aspect-ratio: 4 / 3; background: var(--paper-deep); }
+.about-headshot img { width: 100%; height: 100%; object-fit: cover; object-position: center 42%; }
+.about-garden { display: block; width: min(100%, 570px); margin: 1.8em auto 0; }
+.about-garden img { display: block; width: 100%; max-height: 760px; object-fit: cover; object-position: center 44%; }
 .list-section { padding-top: 60px; }
 
 .article {
@@ -172,6 +177,8 @@ h1 { margin-bottom: 0; font-size: clamp(3.25rem, min(7.4vw, 11vh), 8rem); }
 
 @media (max-width: 820px) {
   .hero-grid, .statement-grid, .updates-grid { grid-template-columns: 1fr; }
+  .about-header { grid-template-columns: 1fr; align-items: start; gap: 42px; }
+  .about-headshot { width: min(100%, 560px); }
   .hero-grid { align-items: start; }
   .hero-copy { max-width: 650px; }
   .writing-item { grid-template-columns: 120px 1fr; gap: 22px; }
@@ -187,6 +194,7 @@ h1 { margin-bottom: 0; font-size: clamp(3.25rem, min(7.4vw, 11vh), 8rem); }
   .navbar-brand-logo img { width: 34px; height: 34px; }
   .hero { padding-top: 40px; }
   .hero h1 { font-size: clamp(2.9rem, 15vw, 4.2rem); }
+  .about-header { gap: 32px; }
   .section-heading { align-items: flex-start; flex-direction: column; }
   .writing-item { grid-template-columns: 1fr; gap: 14px; }
   .writing-meta { flex-direction: row; gap: 12px; }

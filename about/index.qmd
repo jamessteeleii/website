@@ -7,10 +7,15 @@ page-layout: full
 ---
 
 ```{=html}
-<header class="page-header shell">
-  <p class="eyebrow">About</p>
-  <h1>About</h1>
-  <p class="lede">James Steele is Head of Research at MacroFactor, an Adjunct Industry Associate Professor at RMIT University, and Director of Steele Research Ltd.</p>
+<header class="page-header shell about-header">
+  <div class="about-header-copy">
+    <p class="eyebrow">About</p>
+    <h1>About</h1>
+    <p class="lede">James Steele is Head of Research at MacroFactor, an Adjunct Industry Associate Professor at RMIT University, and Director of Steele Research Ltd.</p>
+  </div>
+  <figure class="about-headshot">
+    <img src="../images/about-headshot.jpg" alt="Portrait of James Steele" width="2615" height="2376">
+  </figure>
 </header>
 ```
 
@@ -38,7 +43,13 @@ I am interested in research that is both more intellectually serious and as a re
 
 ## Beyond the formal biography
 
-Away from work, I spend time with my family and friends, play videogames and tabletop roleplaying and wargames, am a big anime fan, read widely (mostly sci-fi and fantasy for fiction, and philosophy for non-fiction), enjoy long walks, work out in my spit and sawdust garage gym, play golf, and whilst working from home am routinely supervised by my cat named Kiki (and when she's home, my wife Emma).
+Away from work, I spend time with my family and friends, play videogames and tabletop roleplaying and wargames, am a big anime fan, read widely (mostly sci-fi and fantasy for fiction, and philosophy for non-fiction), enjoy long walks, gardening, work out in my spit and sawdust garage gym, play golf, and whilst working from home am routinely supervised by my cat named Kiki (and when she's home, my wife Emma).
+
+```{=html}
+<figure class="about-garden">
+  <img src="../images/about-garden.jpeg" alt="James relaxing on a garden bench with Kiki the cat on his lap" width="1500" height="2000" loading="lazy">
+</figure>
+```
 
 ## External profiles
 
