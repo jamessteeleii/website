@@ -1,0 +1,234 @@
+---
+title: ""
+title-block-style: none
+pagetitle: "Declaration of interests"
+description: "A standing disclosure of James Steele's professional, financial, scholarly, and intellectual interests."
+page-layout: full
+---
+
+```{=html}
+<header class="page-header shell">
+  <p class="eyebrow">Transparency</p>
+  <h1>Declaration of interests</h1>
+  <p class="lede">A standing disclosure of the relationships and commitments that may help readers place my research and commentary in context.</p>
+</header>
+```
+
+::: {.section .shell-narrow .prose}
+
+*Last updated: 19 August 2026*
+
+## Purpose and scope[^1]
+
+[^1]: Inspired by [Stephen Senn's public declaration of interest](https://senns.uk/Declaration_Interest.htm) I decided that this should be added to my website.
+
+This is a good-faith standing disclosure. It is intentionally broader than the competing-interest statements attached to individual publications, although it cannot capture every relationship or every way in which my judgement may be influenced. Publication-specific statements remain the most relevant source for a particular piece of research.
+
+The organisations named here have not been asked to approve this statement. Unless I say otherwise, my publications, talks, website articles, and public comments are my own. They should not be read as statements made on behalf of an employer, client, academic institution, collaborator, or professional body, nor as evidence of that organisation's position.
+
+Interests are context, not a substitute for engaging with an argument or analysis on its merits. Readers are nevertheless entitled to consider them when assessing my choice of questions, assumptions, interpretation, and conclusions.
+
+## Current roles and sources of income
+
+### MacroFactor
+
+I am Head of Research at **MacroFactor**, a nutrition- and workouts-tracking and coaching application operated by Stronger by Science Technologies LLC. I am contracted through Steele Research Ltd. My work includes research intended to improve the evidence and models underlying nutrition and resistance-training practice. This creates a professional and financial interest in the quality, reputation, and success of MacroFactor and in research relevant to its subject matter.
+
+### Steele Research Ltd
+
+I am a director of **Steele Research Ltd** (also styled Steele Research Limited), through which I provide paid research consultancy. The company and I benefit professionally and financially from consultancy, commissioned research, analysis, teaching, and speaking work, and from the reputation and visibility created by my scholarly and public work.
+
+### Kieser Australia
+
+I provide contracted research services to **Kieser Australia** through Steele Research Ltd, having previously served as its Head of Research. Kieser provides clinical exercise and resistance-training services. This relationship is directly relevant to work involving its services, staff, members, facilities, or data, and more generally to claims about resistance training and supervised exercise.
+
+### RMIT University
+
+I am an **Adjunct Industry Associate Professor at RMIT University**. This is an academic affiliation without compensation and should not be taken to imply that RMIT endorses my work or views.
+
+## Other paid work, expenses, and support
+
+I have received honoraria and/or travel expenses for speaking at, or otherwise contributing to, events organised by:
+
+- **fit20 International**;
+- **Exercise School Portugal**;
+- **Discover Strength**;
+- the **American College of Sports Medicine**;
+- the **Kieser Training AG**;
+- the **Royal Society of Medicine**;
+- the **Federazione Italiana Fitness**; and
+- **The Company of Biologists**.
+
+In addition to the current relationships described above, the complete list of organisations for which I have previously provided contract work through **Steele Research Ltd** is:
+
+- **Gamban / Beanstalk**;
+- the **South West Academic Health Science Network**;
+- the **University of Wolverhampton**; and
+- **Nuritas**.
+
+Some research has been enabled by organisations meeting operational costs or contributing access, staff time, facilities, or data rather than awarding a grant to me. For example:
+
+- Kieser Australia has absorbed operational costs and provided the setting or data for research involving its members and services; and
+- Discover Strength has absorbed operational costs and provided staff time and the setting for multi-site resistance-training research.
+
+Where support is specific to a study, I aim to describe it in that study's funding, acknowledgement, data, and competing-interest statements.
+
+## Paid examining and academic advisory roles
+
+I have held the following paid academic roles outside my principal employment:
+
+- External Examiner for the **BSc (Hons) Sport and Exercise Science at the University of Wolverhampton** (2017–2021); and
+- External Subject Advisor for the **FdSc Sport and Exercise Science at Leicester College**, awarded by **De Montfort University** (2015–2018).
+
+These appointments created financial and professional relationships with the institutions concerned. They do not imply that those institutions endorse my other work or views.
+
+## Historical funding and commissioned research
+
+The following organisations funded or commissioned projects on which I was principal investigator, or were partners in an awarded project recorded in my CV. The amounts shown are the total project or contract values recorded there, not personal payments to me. They include awards administered through an employer as well as consultancy research. Unsuccessful applications are not included.
+
+### 2020
+
+- **Miha Bodytech** — £8,000 for a narrative review of electromyostimulation;
+- **Sense** — £36,477 for research into the needs of families with disabled children;
+- **Royal Osteoporosis Society** — £2,500 for research into leisure-sector provision for bone health and people with osteopenia or osteoporosis;
+- **England Golf** — £11,630 for research into golf participation, health, and wellbeing; and
+- **Research England** — £1,950 to support a rapid review of communication strategies for physical-activity guidelines and promotion.
+
+### 2019
+
+- **British Universities and Colleges Sport**, **AoC Sport**, and **Matrix Fitness** — £20,000 for the British Active Students Survey;
+- **England Golf** and **Mytime Active** — £10,000 for an evaluation of the Golf on Referral pilot;
+- **Sport England** — £672,000 for the This Mum Moves project;
+- **Premier Education** — £26,500 for an evaluation of its primary-school delivery;
+- **Sainsbury's** — £32,765 for the second year of an evaluation of Active Kids summer camps; and
+- **Serco** — £6,732 for research into fitness-instructor training needs for working with disabled people.
+
+### 2018
+
+- **AoC Sport** and **Matrix Fitness** — £15,000 for the British Active Students Survey;
+- **Sainsbury's** — £12,000 for the first year of an evaluation of Active Kids summer camps;
+- **Sport England** — £130,000 for development of a type 2 diabetes care pathway;
+- **Scottish Care Inspectorate** — £61,800 for an evaluation framework for Care About Physical Activity 2;
+- **Inspired Villages Group** — £25,701.60 for development and implementation of health assessments in later-living villages;
+- **Oomph! Wellness** and **Bournemouth University** — a £51,000 matched PhD studentship concerning a wellness intervention in care homes; and
+- **Oxygen Freejumping** — £12,000 for a study of children's energy expenditure and experiences during trampoline-park and sports-club sessions.
+
+### 2014–2016
+
+- **Solent University** internal research, innovation, and knowledge-exchange awards: £8,475 and £6,609.82 in 2016; £6,000 in 2015; and £1,737 in 2014; and
+- an **Innovate UK** innovation voucher with **Wellbalancer Ltd** — £6,453.20 in 2015 for research concerning a commercial device.
+
+My sector-facing work has also produced or contributed to public reports for organisations including **Gamban** and **Technogym**, as well as evaluation reports produced during my tenure at the **ukactive Research Institute** for organisations including **Sanofi**, **Buckinghamshire County Council**, **British Universities and Colleges Sport**, the **Scottish Care Inspectorate**, and **England Golf**. A historical relationship does not imply that the organisation influenced later work or agrees with my current views, but it may still be useful context where the subject matter overlaps.
+
+## Previous employment and institutional roles
+
+Previous roles that may remain relevant to my professional relationships and perspective include:
+
+- Head of Research at **Kieser Australia**;
+- Associate Professor of Sport and Exercise Science at **Solent University** (May 2016–August 2024);
+- Principal Investigator at the **ukactive Research Institute** (January 2018–March 2021);
+- Research and Innovation Fellow at **Solent University** (October 2015–October 2016);
+- Lecturer in Applied Sport Science at **Solent University** (July 2014–May 2016);
+- Associate Lecturer in sport and exercise at **Solent University** (October 2011–August 2013); and
+- part-time Research and Laboratory Assistant at **Solent University** (March–October 2010).
+
+Across academic, public-sector, and private-sector roles I have worked on funded and collaborative projects, supervised researchers, taught research methods, served on expert groups, and acted as an editor and statistical reviewer. Past relationships can remain relevant after a formal role ends, particularly where I continue to publish with former colleagues or on questions connected to that work.
+
+## Editorial, reviewing, and scholarly roles
+
+Though I no longer hold any journal editorial positions, having stepped down from all in early 2026, I do currently serve as a recommender for **Peer Community in Health and Movement Sciences** and **Peer Community in Registered Reports**. Historical editorial and reviewing roles include:
+
+- Editor, **Psicológica** (2023-2026);
+- Editor, **International Journal of Strength and Conditioning** (2022-2026);
+- Statistical Reviewer, **Sports Medicine** (from 2021);
+- Managing Editor and Section Editor, **Registered Reports in Kinesiology** (2020–2022);
+- Managing Editor and Section Editor, **Communications in Kinesiology** (2020–2022);
+- Associate Editor for exercise physiology, **Journal of Evolution and Health** (2013-2018[^2]);
+- Research Topic Editor for collections at **Frontiers in Neuroscience**, **Frontiers in Psychology**, and **Frontiers in Sports and Active Living**; and
+- Guest Editor for a special issue of **BioMed Research International**.
+
+[^2]: Though the journal website still lists me as editor it has been inactive for some time and I have not been involved in any editorial role since 2018
+
+When I am involved in the evaluation of work through one of these roles, the relevant journal or community's procedures and any article-specific declaration should be consulted. Editorial roles may also create an interest in the standing and success of the relevant journal, community, or initiative.
+
+I also review manuscripts, collaborate repeatedly with some researchers, and publish commentary about methods and research practice. These activities create professional relationships and prior intellectual commitments that readers may reasonably take into account.
+
+I previously used Publons actively, subsequently incorporated into Clarivate's Web of Science, to record some of my peer-review activity. I no longer maintain the record and it may be incomplete, but the historical information remains available on my [Web of Science reviewer profile](https://www.webofscience.com/wos/author/record/I-1944-2019). Reviewer assignments are normally confidential, so the profile may indicate journals for which I have reviewed but should not be used to infer that I reviewed a particular paper unless that review has been made public.
+
+## Invited talks and events
+
+Invitations to speak do not necessarily involve payment, but they create professional relationships, increase the visibility of my work, and may give me a reputational interest in the inviting organisation or event. Organisations and events that have invited me to speak include:
+
+- the **American College of Sports Medicine Annual Meeting**;
+- the **Exercise Summit**, Lisbon;
+- the **Resistance Exercise Conference**, Minneapolis;
+- events organised by the **Society for Transparency, Openness, and Replication in Kinesiology**;
+- the **Congresso Internacional de Treinamento de Força, Esporte e Medicina**;
+- **Edinburgh Napier University**;
+- the **British Association of Sport and Exercise Sciences**;
+- **Elevate**;
+- the **International Symposium — Scientific Advances in Strength Training**, São Paulo;
+- the **International Symposium — Training and Nutrition**, Belém and Vitória;
+- the **Kieser Training Medical Congress**;
+- the **Royal Society of Medicine Exercise Medicine Conference**;
+- the **Federazione Italiana Fitness**;
+- **The Company of Biologists**;
+- **fit20 International**; and
+- **Discover Strength**.
+
+## Media, interviews, and podcasts
+
+I have been invited to discuss my work through television, radio, podcasts, and other media. These appearances increase my public profile and may shape how readers encounter my research. They include:
+
+- an appearance on Channel 4's *How to Get Fit Fast*;
+- **BBC Sounds**;
+- the **Revive Stronger Podcast**;
+- the **Iron Culture Podcast**;
+- the **Better Movement Podcast**;
+- the **Discover Strength Podcast**;
+- the **Research in Exercise and Cancer Health (REACH) Podcast**;
+- the **High Intensity Business Podcast**;
+- the **Fazlifts Podcast**; and
+- **Age Stronger**.
+
+My research has also been featured or discussed by organisations including **The New York Times**, **The Washington Post**, **Outside**, **Runner's World**, and **Medium**. Media coverage does not imply a financial relationship or my agreement with the framing or conclusions of the resulting article.
+
+## Professional memberships and advisory work
+
+I am or have been a founding member of the **Society for Transparency, Openness, and Replication in Kinesiology** and the **Strength and Conditioning Society**; a professional member of the **American College of Sports Medicine** and the **British Association of Sport and Exercise Sciences**; and a **Fellow of the Higher Education Academy**. I was Solent University's local network lead for the **UK Reproducibility Network** in 2023–2024.
+
+Past expert and advisory work includes:
+
+- expert reviewing for the UK Physical Activity and Exercise Rapid Review Service;
+- membership of the expert group for communicating the UK Chief Medical Officers' physical-activity guidelines;
+- membership of the 2018 expert working group revising the adult guidelines;
+- membership of the steering group for an NIHR Dissemination Centre themed review on physical activity;
+- membership of a British Association of Sport and Exercise Sciences steering group for sport, exercise, and health analytics;
+- membership of an expert panel reviewing Public Health England's *Everybody Active, Every Day*; and
+- membership of Versus Arthritis physical-activity advisory and evaluation groups.
+
+These roles were generally undertaken because of my subject-matter expertise, but they can also create institutional relationships, reinforce particular professional perspectives, and give me a reputational interest in the resulting work.
+
+## Interests as a researcher, author, and consultant
+
+My career and consultancy are helped by publishing, being read and cited, giving talks, attracting collaborators and clients, and being regarded as knowledgeable in the areas in which I work. Findings or arguments that attract attention, support earlier work, strengthen a research programme, or demonstrate the value of particular methodological expertise may benefit me even where no direct payment is involved.
+
+I often publish with recurring collaborators and sometimes study practices or organisations with which I have worked. I may therefore have reputational interests in earlier results, theories, datasets, analytical choices, and collaborations. I try to manage these through transparent methods, open materials where possible, preregistration or Registered Reports where appropriate, and explicit study-level disclosures; none removes the interest itself.
+
+## Intellectual commitments
+
+I favour open, transparent, reproducible research; clear concept formation and inferential targets; explicit modelling of uncertainty; cumulative evidence synthesis; and theories capable of making precise, risky predictions. My writing is also informed by a broadly realist philosophy of science and by scepticism towards weakly specified constructs, purely procedural accounts of rigour, and claims that go beyond what a design or analysis can support.
+
+These are intellectual positions rather than financial conflicts, but they influence the questions I consider important, the methods I prefer, and how I interpret evidence. They may also make me more receptive to work that accords with those commitments and more critical of work that does not.
+
+## Study-specific declarations
+
+This page does not replace the funding and competing-interest statements attached to individual papers. Those statements should identify the relationships most directly relevant to the study, including employment or contracting arrangements, organisational data or facilities, in-kind support, author roles, and editorial involvement.
+
+My [research archive](../research/) links to publications and preprints, and my [ORCID record](https://orcid.org/0000-0002-8003-0757) provides an external scholarly profile.
+
+## Corrections and omissions
+
+I may have overlooked a relevant relationship, or a role may have changed since the date above. If you think this declaration is incomplete or inaccurate, please email [james@steele-research.com](mailto:james@steele-research.com). I will correct material errors and date substantive updates.
+
+:::

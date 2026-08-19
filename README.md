@@ -38,6 +38,7 @@ These are the hand-edited sources:
 |---|---|
 | Home-page wording and sections | `index.qmd` |
 | About page | `about/index.qmd` |
+| Detailed declaration of interests | `declaration-of-interests/index.qmd` |
 | Consulting page | `consulting/index.qmd` |
 | Research-page heading and introduction | `research/index.qmd` |
 | Video-page heading and introduction | `videos/index.qmd` |
