@@ -68,14 +68,32 @@ Do not directly edit `includes/home-library.html`, `includes/home-latest.html`, 
   "authors": "First Author, James Steele",
   "type": "article",
   "category": "article",
+  "topics": ["Resistance training", "Research methods & statistics"],
   "venue": "Journal name",
   "url": "https://doi.org/10.xxxx/example",
   "full_text": "",
+  "preprint_url": "https://doi.org/10.xxxx/preprint",
+  "peer_review_url": "https://doi.org/10.xxxx/peer-review",
+  "correction_url": "https://doi.org/10.xxxx/correction",
+  "presentation_url": "https://example.com/slides",
+  "video_url": "https://example.com/video",
   "open_access": false
 }
 ```
 
-To add a publication, copy an existing object, place it in the correct date order, and change its fields. To correct or remove a publication, search this file by DOI or title and edit or delete the complete object. Keep the commas between objects and leave the file as valid JSON.
+To add a publication, copy an existing object and change its fields. The generated archive automatically sorts objects by `date`, newest first, so their position in the JSON file does not control their displayed order. To correct or remove a publication, search this file by DOI or title and edit or delete the complete object. Keep the commas between objects and leave the file as valid JSON.
+
+When the source confirms only a month and year, use the first day of that month in `date` so the value remains sortable (for example, `"date": "2026-08-01"`) and add `"date_precision": "month"`. This records that the day is a technical placeholder rather than a claimed publication day.
+
+`topics` is a list, so one output can belong to several subject areas. Reuse the existing topic labels to keep the archive filter concise. Topics appear on each archive entry and are available in both the Topic dropdown and free-text search.
+
+When a preprint is subsequently published, update the existing object rather than adding a second one. Set `type` and `category` to `article`, put the publisher or article DOI in `url`, and retain the preprint DOI or landing page in `preprint_url`. The archive will then show one article entry with separate **Original URL** and **Preprint** buttons. Omit `preprint_url` when no preprint exists.
+
+For an article with openly available peer reviews and author responses, put the URL of the PCI evaluation or other complete review record in `peer_review_url`. The archive will add a **Peer review** button to the article entry. Omit `peer_review_url` when no open review record exists; do not add the reviews or responses as separate research outputs.
+
+When an article has an erratum or correction, put its DOI or landing page in `correction_url`. The archive will add a **Correction** button to the original article entry, so the correction does not need to appear as a separate research output.
+
+For a presentation with separately hosted slides or a recording, put the slide-deck URL in `presentation_url` and the recording URL in `video_url`. The archive will add **Slides** and **Video** buttons to the same presentation entry. Either field can be omitted when that version is unavailable.
 
 For a remotely hosted open copy, put its URL in `full_text`. To host an author-shareable PDF locally:
 
@@ -84,7 +102,7 @@ For a remotely hosted open copy, put its URL in `full_text`. To host an author-s
 3. Optionally add `full_text_label`, such as `"Author manuscript"` or `"Preprint PDF"`.
 4. Confirm that the version is one you are entitled to share before publishing it.
 
-`data/publication_overrides.json` preserves local full-text links and other corrections when the catalogue is rebuilt from OpenAlex data. If you add a local PDF or correction to `data/publications.json`, make the equivalent DOI-keyed entry in the overrides file so a future bulk rebuild does not discard it.
+`data/publication_overrides.json` preserves preprint links, local full-text links, and other corrections when the catalogue is rebuilt from OpenAlex data. If you add a preprint link, local PDF, or correction to `data/publications.json`, make the equivalent DOI-keyed entry in the overrides file so a future bulk rebuild does not discard it.
 
 After changing publication data, regenerate the displayed archive:
 

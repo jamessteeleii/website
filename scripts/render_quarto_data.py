@@ -115,24 +115,54 @@ def research_item(work: dict, *, compact: bool = False) -> str:
         details = f"<p>{source}</p>"
         attributes = ""
     else:
+        topics = [str(topic) for topic in work.get("topics", []) if str(topic).strip()]
         search = " ".join(
-            str(work.get(key, "")) for key in ("title", "authors", "venue")
+            [str(work.get(key, "")) for key in ("title", "authors", "venue")]
+            + topics
         ).lower()
         attributes = (
             ' data-research-item'
             f' data-year="{esc(work.get("year"))}"'
             f' data-type="{esc(work.get("category", "other"))}"'
+            f' data-topics="{esc("|".join(topics))}"'
             f' data-search="{esc(search)}"'
         )
         title_markup = title
         venue = f'{esc(work.get("venue"))} · ' if work.get("venue") else ""
-        links = [f'<a href="{esc(work["url"])}">Publication</a>']
+        links = (
+            [f'<a href="{esc(work["url"])}">Original URL</a>']
+            if work.get("url")
+            else []
+        )
         if work.get("full_text"):
             label = esc(work.get("full_text_label") or "Full text")
             links.append(f'<a href="{esc(local_link(work["full_text"]))}">{label}</a>')
+        preprint_url = work.get("preprint_url")
+        if preprint_url and preprint_url != work.get("url"):
+            links.append(f'<a href="{esc(local_link(preprint_url))}">Preprint</a>')
+        if work.get("peer_review_url"):
+            links.append(
+                f'<a href="{esc(local_link(work["peer_review_url"]))}">Peer review</a>'
+            )
+        if work.get("correction_url"):
+            links.append(
+                f'<a href="{esc(local_link(work["correction_url"]))}">Correction</a>'
+            )
+        if work.get("presentation_url"):
+            links.append(
+                f'<a href="{esc(local_link(work["presentation_url"]))}">Slides</a>'
+            )
+        if work.get("video_url"):
+            links.append(f'<a href="{esc(local_link(work["video_url"]))}">Video</a>')
+        topic_markup = (
+            f'<p class="research-topics"><span>Topics</span> {esc(" · ".join(topics))}</p>'
+            if topics
+            else ""
+        )
         details = (
             f'<p class="research-authors">{esc(work.get("authors"))}</p>'
             f'<p class="research-source">{venue}{esc(humanize(work.get("type", "other")))}</p>'
+            f'{topic_markup}'
             f'<div class="research-links">{"".join(links)}</div>'
         )
     return (
@@ -148,18 +178,36 @@ def render(
     videos: list[dict[str, str]],
     writing: list[dict[str, object]],
 ) -> None:
+    publications = sorted(
+        publications,
+        key=lambda work: str(work.get("date") or ""),
+        reverse=True,
+    )
     years = list(dict.fromkeys(str(work["year"]) for work in publications))
     year_options = "".join(f'<option value="{esc(year)}">{esc(year)}</option>' for year in years)
+    topics = sorted(
+        {
+            str(topic)
+            for work in publications
+            for topic in work.get("topics", [])
+            if str(topic).strip()
+        },
+        key=str.casefold,
+    )
+    topic_options = "".join(
+        f'<option value="{esc(topic)}">{esc(topic)}</option>' for topic in topics
+    )
     archive = "".join(research_item(work) for work in publications)
     research_html = f"""
 <section class="section shell research-archive">
   <div class="archive-intro">
-    <p><strong>{len(publications)} works</strong> matched through ORCID. DOI links lead to the publication record; full-text links point to indexed open copies or clearly labelled author-shareable versions.</p>
+    <p>Original, full-text, preprint, peer-review, correction, slide, and video links are grouped under a single output where available. Full text or preprint not available? Feel free to email and request: <a href="mailto:james@steele-research.com">james@steele-research.com</a>.</p>
   </div>
   <div class="library-controls" aria-label="Filter research outputs">
-    <label><span>Search</span><input id="research-search" type="search" placeholder="Title, author, or journal"></label>
+    <label><span>Search</span><input id="research-search" type="search" placeholder="Title, author, journal, or topic"></label>
     <label><span>Year</span><select id="research-year"><option value="">All years</option>{year_options}</select></label>
     <label><span>Type</span><select id="research-type"><option value="">All types</option><option value="article">Articles</option><option value="preprint">Preprints</option><option value="book">Books &amp; chapters</option><option value="other">Other</option></select></label>
+    <label><span>Topic</span><select id="research-topic"><option value="">All topics</option>{topic_options}</select></label>
   </div>
   <p id="research-count" class="result-count" aria-live="polite"></p>
   <div class="research-list" id="research-list">{archive}</div>

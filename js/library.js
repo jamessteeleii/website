@@ -3,8 +3,9 @@
   const search = document.querySelector('#research-search');
   const year = document.querySelector('#research-year');
   const type = document.querySelector('#research-type');
+  const topic = document.querySelector('#research-topic');
   const count = document.querySelector('#research-count');
-  if (!items.length || !search || !year || !type || !count) return;
+  if (!items.length || !search || !year || !type || !topic || !count) return;
 
   const filter = () => {
     const query = search.value.trim().toLowerCase();
@@ -12,7 +13,8 @@
     for (const item of items) {
       const match = (!query || item.dataset.search.includes(query))
         && (!year.value || item.dataset.year === year.value)
-        && (!type.value || item.dataset.type === type.value);
+        && (!type.value || item.dataset.type === type.value)
+        && (!topic.value || item.dataset.topics.split('|').includes(topic.value));
       item.hidden = !match;
       if (match) visible += 1;
     }
@@ -22,6 +24,6 @@
   search.addEventListener('input', filter);
   year.addEventListener('change', filter);
   type.addEventListener('change', filter);
+  topic.addEventListener('change', filter);
   filter();
 })();
-

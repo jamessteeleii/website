@@ -1,26 +1,90 @@
 [
   {
     "year": 2026,
-    "date": "2026-05-28",
+    "date": "2026-08-19",
     "title": "Awareness and Use of Open Research Practices: An International Survey of Researchers Across Disciplines",
     "authors": "Charlotte Rebecca Pennington, Emma Norris, Magda Skubera, Yalige Ba, Ryssa Moffat, Olavo Bohrer Amaral, Matus Adamkovic, Arca Adıgüzel, Rafaela A. Almeida, Jessie Baldwin, Nick Ballou, Luiza Marques Prates Behrens, Michael Bertram, Ingvild E. Bjerke, Simon E. Blackwell, Agata Bochyńska, Michiel de Boer, Ivan Buljan, Cristian B. Canales-Aguirre, Harry Carey, Vladimira Cavojova, William P. Cawthorn, Simon Christ, Krzysztof Cipora, Alden Conner, Federica Conte, Davide Crepaldi, David Alexander Ellis, Timothy M. Errington, Emily Kate Farran, Gordon Feld, Raquel Meister Ko. Freitag, Paulina Gebauer, Sarah Gunn, Helena Hartmann, Vicky Hellon, Gabriela Hofer, Malika Ihle, Ayumi Ikeda, Andrew Jones, Sara Graça Jorge, Yusuph A. Kafula, Tamara Kalandadze, Veli-Matti Karhulahti, Halil Emre Kocalar, Malgorzata Lagisz, Margherita Lanz, Félix P. Leiva, Marco Tullio Liuzza, Marcel Martončik, Hiroshi Matsui, Maria Montefinese, David Moreau, D.P. Morgan, Shinichi Nakagawa, Helen Niemeyer, Gustav Nilsonne, Carmen Penido, Sofia Persson, Elena Serena Piccardi, Rima-Maria Rahal, Jakub Rajčáni, Ben Ridley, Michele Scandola, Felix D. Schönbrodt, Sandy Schumann, Mojtaba Soltanlou, James Steele, Suzanne Stewart, Eli S.J. Thoré, Luka Ursić, Michelangelo Vianello, Vootele Voikar, Nicholas C. Wu, Yuki Yamada, Cemre Yilmaz, Naoto Yoshimura, Mircea Zloteanu, Marija Franka Žuljević, Marcus Robert Munafo, Kait Clark",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Metascience & open science",
+      "Research methods & statistics"
+    ],
+    "venue": "Royal Society Open Science",
+    "url": "https://doi.org/10.1098/rsos.260462",
+    "full_text": "https://doi.org/10.1098/rsos.260462",
+    "preprint_url": "https://osf.io/edzxf_v3",
+    "open_access": true
+  },
+  {
+    "year": 2026,
+    "date": "2026-07-21",
+    "title": "Little evidence for meaningful additive intervention effect heterogeneity of resistance training upon strength and hypertrophy",
+    "authors": "James Steele",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31234/osf.io/edzxf_v2",
-    "full_text": "",
+    "topics": [
+      "Muscle hypertrophy",
+      "Research methods & statistics",
+      "Resistance training",
+      "Strength & power"
+    ],
+    "venue": "SportRχiv",
+    "url": "https://doi.org/10.51224/sportrxiv.783",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/783/2118",
+    "open_access": true
+  },
+  {
+    "year": 2026,
+    "date": "2026-06-17",
+    "title": "Within- and between-day test-retest reliability and agreement of isometric and isokinetic, multi-joint, upper- and lower-body strength testing",
+    "authors": "Michael G. Nash, James Steele, James Fisher",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Measurement & reliability",
+      "Strength & power"
+    ],
+    "venue": "The Journal of Sport and Exercise Science",
+    "url": "https://jses.net/within-and-between-day-intrarater-reliability-and-agreement-of-isometric-and-isokinetic-multi-joint-upper-and-lower-body-strength-testing/",
+    "full_text": "https://jses.net/wp-content/uploads/2026/07/JSES_Nash-et-al._Volume-10-Issue-1-Article-4.pdf",
+    "preprint_url": "https://doi.org/10.51224/srxiv.465",
+    "open_access": true
+  },
+  {
+    "year": 2025,
+    "date": "2025-06-11",
+    "title": "The effects of supervision on effort during resistance training: A Bayesian analysis of previous observational data and an experimental study of private strength clinic members",
+    "authors": "James Steele, James Fisher, Tim Dettmann",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Metascience & open science",
+      "Research methods & statistics",
+      "Resistance training",
+      "Strength & power"
+    ],
+    "venue": "Communications in Kinesiology",
+    "url": "https://storkjournals.org/index.php/cik/article/view/8030",
+    "full_text": "https://storkjournals.org/index.php/cik/article/view/8030/6419",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/521/version/860",
+    "peer_review_url": "https://healthmovsci.peercommunityin.org/articles/rec?id=194",
     "open_access": true
   },
   {
     "year": 2026,
     "date": "2026-05-26",
-    "title": "Names of resistance exercises",
+    "title": "Names of resistance exercises: Text analysis of survey responses",
     "authors": "James L. Nuzzo, James Steele",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
+    "topics": [
+      "Resistance training"
+    ],
+    "venue": "SportRχiv ",
     "url": "https://doi.org/10.51224/sportrxiv.872",
-    "full_text": "",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/872/1856",
     "open_access": true
   },
   {
@@ -30,21 +94,29 @@
     "authors": "James Steele, David Gschneidner, Luke Carlson, James Fisher",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
+    "topics": [
+      "Muscle hypertrophy",
+      "Resistance training"
+    ],
+    "venue": "SportRχiv ",
     "url": "https://doi.org/10.51224/sportrxiv.810",
-    "full_text": "",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/810/1789",
     "open_access": true
   },
   {
     "year": 2026,
-    "date": "2026-03-27",
-    "title": "Little evidence for meaningful additive intervention effect heterogeneity of resistance training upon strength and hypertrophy",
-    "authors": "James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.51224/sportrxiv.783",
-    "full_text": "",
+    "date": "2026-02-05",
+    "title": "Introducing a new \"Preliminary Report\" submission category for small-sample intervention studies: viewpoints from external experts",
+    "authors": "Sophia Nimphius, Nicole Heussen, James Steele, Matthew Weston, Ian Shrier, Zachary O. Binney, Joshua J. Bon, David N. Borg",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Metascience & open science",
+      "Research methods & statistics"
+    ],
+    "venue": "Science and Medicine in Football",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/24733938.2026.2624922",
+    "full_text": "https://www.tandfonline.com/doi/epdf/10.1080/24733938.2026.2624922?needAccess=true",
     "open_access": true
   },
   {
@@ -52,22 +124,13 @@
     "date": "2025-12-16",
     "title": "Data Steward Stories: Dr James Steele",
     "authors": "Steele, James, Pearman-Kanza, Samantha, Saul, Louise",
-    "type": "report",
+    "type": "interview",
     "category": "other",
+    "topics": [
+      "Metascience & open science"
+    ],
     "venue": "Open MIND",
     "url": "https://doi.org/10.5281/zenodo.17951152",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2025,
-    "date": "2025-12-12",
-    "title": "Author response of: The effects of supervision on effort during resistance training: A Bayesian analysis of previous observational data and an experimental study of private strength clinic members. Round#3",
-    "authors": "James Steele, James Fisher, Tim Dettmann",
-    "type": "peer-review",
-    "category": "other",
-    "venue": "Peer community in health & movement sciences.",
-    "url": "https://doi.org/10.24072/pci.healthmovsci.100194.ar3",
     "full_text": "",
     "open_access": true
   },
@@ -78,9 +141,16 @@
     "authors": "Richard Kirwan, Leigh Peele, Gregory L. Nuckols, Georgia Kohlhoff, Hannah E. Cabre, Alyssa Olenick, James Steele",
     "type": "preprint",
     "category": "preprint",
+    "topics": [
+      "Body composition & nutrition",
+      "Clinical exercise & rehabilitation",
+      "Evidence synthesis",
+      "Exercise physiology",
+      "Women & sex differences"
+    ],
     "venue": "medRxiv",
     "url": "https://doi.org/10.64898/2025.12.03.25341536",
-    "full_text": "https://www.medrxiv.org/content/medrxiv/early/2025/12/05/2025.12.03.25341536.full.pdf",
+    "preprint_url": "https://www.medrxiv.org/content/medrxiv/early/2025/12/05/2025.12.03.25341536.full.pdf",
     "open_access": true
   },
   {
@@ -90,34 +160,15 @@
     "authors": "David Gschneidner, Luke Carlson, James Steele, James Fisher",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Muscle hypertrophy",
+      "Resistance training"
+    ],
     "venue": "Journal of Sports Sciences",
     "url": "https://doi.org/10.1080/02640414.2025.2567805",
     "full_text": "",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/485",
     "open_access": false
-  },
-  {
-    "year": 2025,
-    "date": "2025-09-22",
-    "title": "Author response of: The effects of supervision on effort during resistance training: A Bayesian analysis of previous observational data and an experimental study of private strength clinic members. Round#2",
-    "authors": "James Steele, James Fisher, Tim Dettmann",
-    "type": "peer-review",
-    "category": "other",
-    "venue": "Peer community in health & movement sciences.",
-    "url": "https://doi.org/10.24072/pci.healthmovsci.100194.ar2",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2025,
-    "date": "2025-09-11",
-    "title": "Correction: Estimating the Replicability of Sports and Exercise Science Research",
-    "authors": "Jennifer Murphy, Aaron R. Caldwell, Cristian Mesquida, Aera J M Ladell, Alberto Encarnación‐Martínez, Alexandre Tual, Andrew Denys, Bailey Cameron, Bas Van Hooren, Ben Parr, Bianca DeLucia, Billy Mason, Brad Clark, Brendan Egan, Calum Brown, Carl J. Ade, Chiarella Sforza, Christopher B. Taber, Christopher Kirk, Christopher McCrum, Cian OKeeffe Tighe, Ciara Byrne, Claudia Brunetti, Cyril Forestier, Daniel Martin, Danny Taylor, David Diggin, Dearbhla Gallagher, Deborah L. King, Elizabeth Rogers, Eric C. Bennett, Eric T. Lopatofsky, Gemma Dunn, Gérome C. Gauchard, Guillaume Mornieux, Ignacio Catalá-Vilaplana, Ines Caetan, Inmaculada Aparicio, Jack Barnes, Jake Blaisdell, James Steele, Jared R. Fletcher, Jasmin Hutchinson, Jason S. Au, Jason P. Oliemans, Javad Bakhshinejad, Joaquin A. Barrios, Jose Ignacio Priego‐Quesada, Joseph Rager, Julia B. Capone, Julie S J Walton, Kailey Stevens, Katie M. Heinrich, Kelly L. Wu, Kenneth Meijer, Laura Richards, Lauren B. L. Jutlah, Le Tong, Lee Bridgeman, Leo Banet, Leonard Mbiyu, Lucy Sefton, Margaux de Chanaleilles, Maria Charisi, Matthew Beerse, Matthew J. Major, Maya Caon, Mel Bargh, K. Michael Rowley, Miguel Vaca Moran, Nicholas Croker, Nicolas C. Hanen, Nicole Montague, Noel Brick, Oliver R. Runswick, Paul Willems, Pedro Pérez‐Soriano, Rebecca Blake, Rebecca J. Jones, Rachel Quinn, Roberto Sanchís-Sanchís, Rodrigo Rabello, Roisin Bolger, Roy Shohat, Sadie Cotton, Samantha Chua, Samuel Norwood, Samuel Vimeau, Sandro Dias, Sissel Pedersen, Spencer S. Skaper, Taylor Coyle, Terun Desai, Thomas Gee, Tobias Edwards, Torsten Pohl, Vanessa R. Yingling, V. L. Ribeiro, Youri Duchene, Zacharias Papadakis",
-    "type": "erratum",
-    "category": "other",
-    "venue": "Sports Medicine",
-    "url": "https://doi.org/10.1007/s40279-025-02309-z",
-    "full_text": "https://link.springer.com/content/pdf/10.1007/s40279-025-02309-z.pdf",
-    "open_access": true
   },
   {
     "year": 2025,
@@ -126,9 +177,12 @@
     "authors": "Zac P. Robinson, James Steele, Eric R. Helms, Eric T. Trexler, Michael E. Hall, Chun-Jung Huang, Joshua C. Pelland, Jacob F. Remmert, Seth R. Hinson, Scott A. Mikula, Alexandre A. Hamaïde, Michael C. Zourdos",
     "type": "preprint",
     "category": "preprint",
+    "topics": [
+      "Resistance training"
+    ],
     "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
     "url": "https://doi.org/10.1101/2025.07.24.666533",
-    "full_text": "https://www.biorxiv.org/content/biorxiv/early/2025/07/31/2025.07.24.666533.full.pdf",
+    "preprint_url": "https://www.biorxiv.org/content/biorxiv/early/2025/07/31/2025.07.24.666533.full.pdf",
     "open_access": true
   },
   {
@@ -138,9 +192,15 @@
     "authors": "Lee Bridgeman, Bailey Cameron, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Measurement & reliability",
+      "Sports performance",
+      "Strength & power"
+    ],
     "venue": "International Journal of Strength and Conditioning",
     "url": "https://doi.org/10.47206/ijsc.v5i1.415",
     "full_text": "https://journal.iusca.org/index.php/Journal/article/download/415/500",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/431/version/551",
     "open_access": true
   },
   {
@@ -150,9 +210,14 @@
     "authors": "Dorian Varović, Milo Wolf, Brad J. Schöenfeld, James Steele, Jozo Grgić, Pavle Mikulić",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Muscle hypertrophy"
+    ],
     "venue": "International Journal of Sports Medicine",
     "url": "https://doi.org/10.1055/a-2615-4935",
     "full_text": "",
+    "preprint_url": "https://doi.org/10.51224/srxiv.464",
     "open_access": false
   },
   {
@@ -162,9 +227,12 @@
     "authors": "James Steele, Myles N. Moore, Pramuk Mahanma, David Scott, Robin M. Daly",
     "type": "preprint",
     "category": "preprint",
+    "topics": [
+      "Resistance training"
+    ],
     "venue": "medRxiv",
     "url": "https://doi.org/10.1101/2025.06.24.25330195",
-    "full_text": "https://www.medrxiv.org/content/medrxiv/early/2025/06/26/2025.06.24.25330195.full.pdf",
+    "preprint_url": "https://www.medrxiv.org/content/medrxiv/early/2025/06/26/2025.06.24.25330195.full.pdf",
     "open_access": true
   },
   {
@@ -174,9 +242,14 @@
     "authors": "Jennifer Murphy, Aaron R. Caldwell, Cristian Mesquida, Aera J M Ladell, Alberto Encarnación‐Martínez, Alexandre Tual, Andrew Denys, Bailey Cameron, Bas Van Hooren, Ben Parr, Bianca DeLucia, Billy Mason, Brad Clark, Brendan Egan, Calum Brown, Carl J. Ade, Chiarella Sforza, Christopher B. Taber, Christopher Kirk, Christopher McCrum, Cian OKeeffe Tighe, Ciara Byrne, Claudia Brunetti, Cyril Forestier, Daniel Martin, Danny Taylor, David Diggin, Dearbhla Gallagher, Deborah L. King, Elizabeth Rogers, Eric C. Bennett, Eric T. Lopatofsky, Gemma Dunn, Gérome C Gauchar, Guillaume Mornieux, Ignacio Catalá-Vilaplana, Ines Caetan, Inmaculada Aparicio, Jack Barnes, Jake Blaisdell, James Steele, Jared R. Fletcher, Jasmin Hutchinson, Jason S. Au, Jason P Oliemans, Javad Bakhshinejad, Joaquin A. Barrios, Jose Ignacio Priego‐Quesada, Joseph Rager, J. Capon, Julie S J Walton, Kailey Stevens, Katie M. Heinrich, Kelly L. Wu, Kenneth Meijer, Laura Richards, Lauren B. L. Jutlah, Le Tong, Lee Bridgeman, Leo Banet, Leonard Mbiyu, Lucy Sefton, Margaux de Chanaleilles, Maria Charisi, Matthew Beerse, Matthew J. Major, Maya Caon, Mel Bargh, K. Michael Rowley, Miguel Vaca Moran, Nicholas Croker, Nicolas C Hanen, Nicole Montague, Noel Brick, Oliver R. Runswick, Paul Willems, Pedro Pérez‐Soriano, Rebecca Blake, Rebecca J. Jones, Rachel Quinn, Roberto Sanchís-Sanchís, Rodrigo Rabello, Roisin Bolger, Roy Shohat, Sadie Cotton, Samantha Chua, Samuel Norwood, Samuel Vimeau, Sandro Dias, Sissel Pedersen, Spencer S Skaper, Taylor Coyle, Terun Desai, Thomas Gee, Tobias Edwards, Torsten Pohl, Vanessa R. Yingling, V. L. Ribeiro, Youri Duchene, Zacharias Papadakis",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Metascience & open science",
+      "Research methods & statistics"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-025-02201-w",
     "full_text": "https://link.springer.com/content/pdf/10.1007/s40279-025-02201-w.pdf",
+    "correction_url": "https://doi.org/10.1007/s40279-025-02309-z",
     "open_access": true
   },
   {
@@ -186,21 +259,15 @@
     "authors": "Bailey Cameron, James Steele, Lee Bridgeman",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Measurement & reliability",
+      "Sports performance",
+      "Strength & power"
+    ],
     "venue": "International Journal of Strength and Conditioning",
     "url": "https://doi.org/10.47206/ijsc.v5i1.406",
     "full_text": "https://journal.iusca.org/index.php/Journal/article/download/406/492",
-    "open_access": true
-  },
-  {
-    "year": 2025,
-    "date": "2025-05-20",
-    "title": "Author response of: The effects of supervision on effort during resistance training: A Bayesian analysis of previous observational data and an experimental study of private strength clinic members. Round#1",
-    "authors": "James Steele, James Fisher, Tim Dettmann",
-    "type": "peer-review",
-    "category": "other",
-    "venue": "Peer community in health & movement sciences.",
-    "url": "https://doi.org/10.24072/pci.healthmovsci.100194.ar1",
-    "full_text": "",
+    "preprint_url": "https://doi.org/10.51224/srxiv.430",
     "open_access": true
   },
   {
@@ -210,21 +277,14 @@
     "authors": "Chloe H. Maguire, James Steele, Lee Bridgeman",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Sports performance",
+      "Strength & power"
+    ],
     "venue": "International Journal of Strength and Conditioning",
     "url": "https://doi.org/10.47206/ijsc.v5i1.337",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2025,
-    "date": "2025-02-19",
-    "title": "The effects of supervision on effort during resistance training",
-    "authors": "James Steele, James Fisher, Tim Dettmann",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.51224/srxiv.521",
-    "full_text": "",
+    "full_text": "https://journal.iusca.org/index.php/Journal/article/view/337/474",
+    "preprint_url": "https://doi.org/10.51224/SRXIV.369",
     "open_access": true
   },
   {
@@ -234,6 +294,12 @@
     "authors": "Bernardo Sousa‐Pinto, Ignacio Neumann, Rafael José Vieira, Antonio Bognanni, Manuel Marques‐Cruz, Sara Gil‐Mata, Simone Mordue, Clareece R. Nevill, Gianluca Baio, Paul Whaley, Guido Schwarzer, James Steele, Gavin Stewart, Holger J. Schünemann, Luís Filipe Azevedo",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Evidence synthesis",
+      "Measurement & reliability",
+      "Research methods & statistics"
+    ],
     "venue": "Journal of Clinical Epidemiology",
     "url": "https://doi.org/10.1016/j.jclinepi.2025.111725",
     "full_text": "https://eprints.lancs.ac.uk/id/eprint/228155/1/Sousa-Pinto_et_al_2025.pdf",
@@ -242,13 +308,35 @@
   {
     "year": 2025,
     "date": "2025-01-26",
-    "title": "How much help do you need?",
+    "title": "How much help do you need? Perceptions vs. actual effort of trainee and trainer during forced repetitions",
     "authors": "Jürgen Gießing, James Steele, James Fisher",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
+    "topics": [
+      "Behaviour & perception"
+    ],
+    "venue": "SportRχiv",
     "url": "https://doi.org/10.51224/srxiv.506",
-    "full_text": "https://sportrxiv.org/index.php/server/preprint/download/506/1090/1013",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/download/506/1090/1013",
+    "open_access": true
+  },
+  {
+    "year": 2025,
+    "date": "2025-01-17",
+    "title": "Cumulative Evidence Synthesis and Consideration of \"Research Waste\" Using Bayesian Methods: An example updating a previous meta-analysis of self-talk interventions for sport/motor performance",
+    "authors": "Hannah Corcoran, James Steele",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Metascience & open science",
+      "Research methods & statistics"
+    ],
+    "venue": "Communications in Kinesiology",
+    "url": "https://doi.org/10.51224/cik.2024.74",
+    "full_text": "https://storkjournals.org/index.php/cik/article/download/74/152",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/348",
+    "peer_review_url": "https://healthmovsci.peercommunityin.org/articles/rec?id=44",
     "open_access": true
   },
   {
@@ -258,93 +346,32 @@
     "authors": "Simon Skau, James Steele, Kristoffer Sundberg",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
+    "topics": [
+      "Metascience & open science",
+      "Research methods & statistics"
+    ],
+    "venue": "PsyArXiv",
     "url": "https://doi.org/10.31234/osf.io/yur67",
-    "full_text": "https://osf.io/yur67/download",
+    "preprint_url": "https://osf.io/yur67/download",
     "open_access": true
   },
   {
     "year": 2024,
-    "date": "2024-12-16",
-    "title": "Cumulative Evidence Synthesis and Consideration of “Research Waste” Using Bayesian Methods",
-    "authors": "Hannah Corcoran, James Steele",
+    "date": "2024-11-16",
+    "title": "Machine-Based Resistance Training Improves Functional Capacity in Older Adults: A Systematic Review and Meta-Analysis",
+    "authors": "Archie Kirk, James Steele, James Fisher",
     "type": "article",
     "category": "article",
-    "venue": "Communications in Kinesiology",
-    "url": "https://doi.org/10.51224/cik.2024.74",
-    "full_text": "https://storkjournals.org/index.php/cik/article/download/74/152",
-    "open_access": true
-  },
-  {
-    "year": 2024,
-    "date": "2024-12-12",
-    "title": "The effects of lengthened-partial range of motion resistance training of the limbs on arm and thigh muscle cross-sectional area",
-    "authors": "David Gschneidner, Luke Carlson, James Steele, James Fisher",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.51224/srxiv.485",
-    "full_text": "https://sportrxiv.org/index.php/server/preprint/download/485/1040",
-    "open_access": true
-  },
-  {
-    "year": 2024,
-    "date": "2024-10-07",
-    "title": "Within- and between-day test-retest reliability and agreement of isometric and isokinetic, multi-joint, upper- and lower-body strength testing",
-    "authors": "Michael G. Nash, James Steele, James Fisher",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.51224/srxiv.465",
-    "full_text": "https://sportrxiv.org/index.php/server/preprint/download/465/977/915",
-    "open_access": true
-  },
-  {
-    "year": 2024,
-    "date": "2024-10-07",
-    "title": "Regional Hypertrophy with Resistance Training—Does Muscle Length Matter?",
-    "authors": "Dorian Varović, Milo Wolf, James Steele, Brad J. Schöenfeld, Jozo Grgić, Pavle Mikulić",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.51224/srxiv.464",
-    "full_text": "https://sportrxiv.org/index.php/server/preprint/download/464/988",
-    "open_access": true
-  },
-  {
-    "year": 2024,
-    "date": "2024-08-09",
-    "title": "Diffusion-Bonded Unitized Anode Assemblies for PEM Electrolysis Stacks",
-    "authors": "James Steele, Sean Gosselin, Alexander B. Papandrew",
-    "type": "conference-abstract",
-    "category": "other",
-    "venue": "ECS Meeting Abstracts",
-    "url": "https://doi.org/10.1149/ma2024-01341870mtgabs",
-    "full_text": "",
-    "open_access": false
-  },
-  {
-    "year": 2024,
-    "date": "2024-07-15",
-    "title": "Validity and Reliability of the My Jump Lab Artificial Intelligence Application",
-    "authors": "Lee Bridgeman, Bailey Cameron, James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.51224/srxiv.431",
-    "full_text": "https://sportrxiv.org/index.php/server/preprint/download/431/907/848",
-    "open_access": true
-  },
-  {
-    "year": 2024,
-    "date": "2024-07-07",
-    "title": "Reliability and Validity of Different Methods for Measuring Countermovement Jump Height",
-    "authors": "Bailey Cameron, James Steele, Lee Bridgeman",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.51224/srxiv.430",
-    "full_text": "https://sportrxiv.org/index.php/server/preprint/download/430/903/846",
+    "topics": [
+      "Ageing",
+      "Evidence synthesis",
+      "Resistance training",
+      "Strength & power"
+    ],
+    "venue": "Journal of Functional Morphology and Kinesiology",
+    "url": "https://doi.org/10.3390/jfmk9040239",
+    "full_text": "https://www.mdpi.com/2411-5142/9/4/239/pdf?version=1731983616",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/download/428/905",
     "open_access": true
   },
   {
@@ -354,22 +381,18 @@
     "authors": "Zac P. Robinson, Joshua C. Pelland, Jacob F. Remmert, Martin C. Refalo, Ivan Jukić, James Steele, Michael C. Zourdos",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Muscle hypertrophy",
+      "Research methods & statistics",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-024-02069-2",
     "full_text": "",
+    "preprint_url": "https://doi.org/10.51224/srxiv.295",
     "open_access": false
-  },
-  {
-    "year": 2024,
-    "date": "2024-07-02",
-    "title": "Machine-based resistance training improves functional capacity in older adults",
-    "authors": "Archie Kirk, James Steele, James Fisher",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.51224/srxiv.428",
-    "full_text": "https://sportrxiv.org/index.php/server/preprint/download/428/905",
-    "open_access": true
   },
   {
     "year": 2024,
@@ -378,9 +401,29 @@
     "authors": "Zac P. Robinson, Eric R. Helms, Eric T. Trexler, James Steele, Michael E. Hall, Chun-Jung Huang, Michael C. Zourdos",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Research methods & statistics",
+      "Resistance training"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-024-02050-z",
     "full_text": "",
+    "preprint_url": "https://doi.org/10.51224/srxiv.340",
+    "open_access": true
+  },
+  {
+    "year": 2024,
+    "date": "2024-02-24",
+    "title": "The validity of a non-invasive blood lactate sensor",
+    "authors": "James Wright, Rodney Lane, Rebecca Blake, Lee Bridgeman, Jack Tyson, James Steele",
+    "type": "preprint",
+    "category": "preprint",
+    "topics": [
+      "Measurement & reliability"
+    ],
+    "venue": "SportRχiv",
+    "url": "https://sportrxiv.org/index.php/server/preprint/view/381/version/500",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/381/801",
     "open_access": true
   },
   {
@@ -390,9 +433,12 @@
     "authors": "Nan Wang, David Joachim Grüning, Constantijn L van der Burght, Eiko I. Fried, James Steele, Simon Columbus, Hu Chuan-Peng",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
+    "topics": [
+      "Research methods & statistics"
+    ],
+    "venue": "PsyArXiv",
     "url": "https://doi.org/10.31234/osf.io/hyfbn",
-    "full_text": "https://osf.io/hyfbn/download",
+    "preprint_url": "https://osf.io/hyfbn/download",
     "open_access": true
   },
   {
@@ -400,11 +446,16 @@
     "date": "2024-02-21",
     "title": "metainc: Assessment of Inconsistency in Meta-Analysis using Decision Thresholds",
     "authors": "Bernardo Sousa‐Pinto, Rafael José Vieira, Manuel Marques‐Cruz, James Steele, Guido Schwarzer",
-    "type": "dataset",
+    "type": "R package",
     "category": "other",
-    "venue": "",
+    "topics": [
+      "Evidence synthesis",
+      "Measurement & reliability",
+      "Research methods & statistics"
+    ],
+    "venue": "CRAN",
     "url": "https://doi.org/10.32614/cran.package.metainc",
-    "full_text": "https://cran.r-project.org/web/packages/metainc/metainc.pdf",
+    "full_text": "",
     "open_access": true
   },
   {
@@ -414,9 +465,16 @@
     "authors": "Bernardo Norte, James Steele, James Wright",
     "type": "review",
     "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Exercise physiology",
+      "Sports performance",
+      "Strength & power"
+    ],
     "venue": "International Journal of Strength and Conditioning",
     "url": "https://doi.org/10.47206/ijsc.v4i1.271",
     "full_text": "https://journal.iusca.org/index.php/Journal/article/download/271/336",
+    "preprint_url": "https://doi.org/10.51224/srxiv.311",
     "open_access": true
   },
   {
@@ -424,11 +482,28 @@
     "date": "2024-01-12",
     "title": "Foundations of Scientific Research in the Sport and Exercise Sciences",
     "authors": "James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
+    "type": "book chapter",
+    "category": "book",
+    "topics": [
+      "Metascience & open science"
+    ],
+    "venue": "Research Methods in Sport and Exercise Science: An Open Access Primer",
     "url": "https://doi.org/10.51224/srxiv.366",
-    "full_text": "https://sportrxiv.org/index.php/server/preprint/download/366/747/688",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/download/366/747/688",
+    "open_access": true
+  },
+  {
+    "year": 2024,
+    "date": "2024-01-11",
+    "title": "Guide to Effect Sizes and Confidence Intervals",
+    "authors": "Matthew B. Jané, Qinyu Xiao, Siu Kit Yeung, Mattan S. Ben-Shachar, Aaron R Caldwell, Denis Cousineau, Daniel J. Dunleavy, Mahmoud Elsherif, Blair T. Johnson, David Moreau, Paul Riesthuis, Lukas Röseler, James Steele, Felipe Fontana Vieira, Mircea Zloteanu, Gilad Feldman",
+    "type": "book",
+    "category": "book",
+    "topics": [
+      "Research methods & statistics"
+    ],
+    "venue": "",
+    "url": "https://matthewbjane.quarto.pub/guide-to-effect-sizes-and-confidence-intervals/",
     "open_access": true
   },
   {
@@ -438,21 +513,34 @@
     "authors": "Christopher Latella, Daniel van den Hoek, Milo Wolf, Patroklos Androulakis‐Korakakis, James Fisher, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Ageing",
+      "Resistance training",
+      "Sports performance",
+      "Strength & power"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-023-01962-6",
     "full_text": "",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/218",
     "open_access": true
   },
   {
     "year": 2023,
-    "date": "2023-10-19",
-    "title": "Optimizing Research Methodology for the Detection of Individual Response Variation in Resistance Training",
-    "authors": "Zac P. Robinson, Eric R. Helms, Eric T. Trexler, James Steele, Michael E. Hall, Chun-Jung Huang, Michael C. Zourdos",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.51224/srxiv.340",
+    "date": "2023-12-01",
+    "date_precision": "month",
+    "title": "Meta-analysis of variation in sport and exercise science: Examples of application within resistance training research",
+    "authors": "James Steele, James Fisher, Dave Smith, Brad J. Schöenfeld, Yefeng Yang, Shinichi Nakagawa",
+    "type": "review",
+    "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Resistance training"
+    ],
+    "venue": "Journal of Sports Sciences",
+    "url": "https://doi.org/10.1080/02640414.2023.2286748",
     "full_text": "",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/214",
     "open_access": true
   },
   {
@@ -462,6 +550,10 @@
     "authors": "Ciaran M. Fairman, Otis L. Owens, Kristina L. Kendall, James Steele, Alec Schumpp, Christopher Latella, Morgan T. Jones, Lauren Marcotte, John M. Dawson, C. M. J. Peddle-McIntyre, Karen Kane McDonnell",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Resistance training"
+    ],
     "venue": "Pilot and Feasibility Studies",
     "url": "https://doi.org/10.1186/s40814-023-01405-z",
     "full_text": "https://link.springer.com/content/pdf/10.1186/s40814-023-01405-z.pdf",
@@ -474,21 +566,31 @@
     "authors": "James L. Nuzzo, Matheus D. Pinto, Kazunori Nosaka, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-023-01937-7",
     "full_text": "https://link.springer.com/content/pdf/10.1007/s40279-023-01937-7.pdf",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/291",
     "open_access": true
   },
   {
     "year": 2023,
-    "date": "2023-09-02",
-    "title": "Meta-analysis of variation in sport and exercise science: Examples of application within resistance training research",
-    "authors": "James Steele, James Fisher, Dave Smith, Brad J. Schöenfeld, Yefeng Yang, Shinichi Nakagawa",
-    "type": "review",
+    "date": "2023-10-05",
+    "title": "The role of teleoaffective profiles in practice adaptation",
+    "authors": "Fiona Spotswood, James Steele, Patroklos Androulakis‐Korakakis, Alex Lucas",
+    "type": "article",
     "category": "article",
-    "venue": "Journal of Sports Sciences",
-    "url": "https://doi.org/10.1080/02640414.2023.2286748",
-    "full_text": "https://e-space.mmu.ac.uk/633536/1/Revised-Pre-print---Meta-Analysis-of-Variation-in-Sport-and-Exercise-Science%20%281%29.pdf",
+    "topics": [
+      "Behaviour & perception"
+    ],
+    "venue": "Marketing Theory",
+    "url": "https://journals.sagepub.com/doi/10.1177/14705931231207310",
+    "full_text": "https://journals.sagepub.com/doi/pdf/10.1177/14705931231207310?download=true",
+    "preprint_url": "https://doi.org/10.31235/osf.io/ug4kq",
     "open_access": true
   },
   {
@@ -496,11 +598,31 @@
     "date": "2023-08-30",
     "title": "The Myth of \"Periodisation\"",
     "authors": "James Steele, James Fisher, Jeremy P. Loenneke, Samuel L. Buckner",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.51224/srxiv.323",
-    "full_text": "https://sportrxiv.org/index.php/server/preprint/download/323/652/596",
+    "type": "book chapter",
+    "category": "book",
+    "topics": [
+      "Sports performance"
+    ],
+    "venue": "Myths of Sports Performance",
+    "url": "https://www.sequoia-books.com/catalog/sport/",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/download/323/652/596",
+    "open_access": true
+  },
+  {
+    "year": 2023,
+    "date": "2023-08-01",
+    "title": "Perceptions of capacity, fatigue, and their psychophysics: Examining construct equivalence and the relationship between actual capacity and perception of capacity during resisted elbow flexion tasks",
+    "authors": "James Steele, Matheus D. Pinto, Ken Kazunori Nosaka, James L. Nuzzo",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Exercise physiology"
+    ],
+    "venue": "Psicológica",
+    "url": "https://digital.csic.es/handle/10261/286371",
+    "full_text": "https://digital.csic.es/bitstream/10261/286371/6/Steele_2023_FINAL.pdf",
+    "preprint_url": "https://doi.org/10.31234/osf.io/46vn5",
     "open_access": true
   },
   {
@@ -510,33 +632,34 @@
     "authors": "Jonathan Murphy, Emma Hodson‐Tole, Andrew D. Vigotsky, Jim R. Potvin, James Fisher, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Exercise physiology",
+      "Resistance training"
+    ],
     "venue": "Journal of Electromyography and Kinesiology",
     "url": "https://doi.org/10.1016/j.jelekin.2023.102810",
-    "full_text": "",
+    "full_text": "https://www.sciencedirect.com/science/article/pii/S105064112300069X/pdfft?md5=0831b7438cc41c24b7b2b7c8535105d5&pid=1-s2.0-S105064112300069X-main.pdf",
+    "preprint_url": "https://doi.org/10.1101/2021.04.08.438966",
     "open_access": true
   },
   {
     "year": 2023,
-    "date": "2023-07-18",
-    "title": "Physiological and Performance Adaptations to Interval Training in Endurance-Trained Cyclists",
-    "authors": "Bernardo Norte, James Steele, James Wright",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.51224/srxiv.311",
-    "full_text": "https://sportrxiv.org/index.php/server/preprint/download/311/626/569",
-    "open_access": true
-  },
-  {
-    "year": 2023,
-    "date": "2023-05-16",
-    "title": "Exploring the Dose-Response Relationship Between Estimated Resistance Training Proximity to Failure, Strength Gain, and Muscle Hypertrophy",
-    "authors": "Zac P. Robinson, Joshua C. Pelland, Jacob F. Remmert, Martin C. Refalo, Ivan Jukić, James Steele, Michael C. Zourdos",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.51224/srxiv.295",
-    "full_text": "",
+    "date": "2023-06-14",
+    "title": "Editorial: Effort-based decision-making and cognitive fatigue",
+    "authors": "Michel Audiffren, Rémi L Capa, Nicolas Silvestrini, James Steele, Sabrina Ravel, Benjamin Pageaux",
+    "type": "editorial",
+    "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Clinical exercise & rehabilitation",
+      "Evidence synthesis",
+      "Exercise physiology",
+      "Measurement & reliability",
+      "Resistance training"
+    ],
+    "venue": "Frontiers in Neuroscience",
+    "url": "https://doi.org/10.3389/fnins.2023.1230022",
+    "full_text": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1230022/pdf",
     "open_access": true
   },
   {
@@ -546,9 +669,15 @@
     "authors": "James L. Nuzzo, Matheus D. Pinto, Kazunori Nosaka, James Steele",
     "type": "review",
     "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Research methods & statistics",
+      "Strength & power"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-023-01851-y",
     "full_text": "https://link.springer.com/content/pdf/10.1007/s40279-023-01851-y.pdf",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/197",
     "open_access": true
   },
   {
@@ -558,18 +687,30 @@
     "authors": "Milo Wolf, Patroklos Androulakis‐Korakakis, James Fisher, Brad J. Schöenfeld, James Steele",
     "type": "review",
     "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Muscle hypertrophy",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "International Journal of Strength and Conditioning",
     "url": "https://doi.org/10.47206/ijsc.v3i1.182",
     "full_text": "https://journal.iusca.org/index.php/Journal/article/download/182/250",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/198",
     "open_access": true
   },
   {
     "year": 2023,
     "date": "2023-02-17",
-    "title": "“I Felt I Was Actually Inside the Movie” An Exploratory Study into Children’s Views of Staging a Physically Active Experience, with Implications for Future Interventions",
+    "title": "\"I Felt I Was Actually Inside the Movie\" An Exploratory Study into Children’s Views of Staging a Physically Active Experience, with Implications for Future Interventions",
     "authors": "Emily Budzynski‐Seymour, Michelle Jones, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Physical activity & public health",
+      "Youth"
+    ],
     "venue": "International Journal of Environmental Research and Public Health",
     "url": "https://doi.org/10.3390/ijerph20043624",
     "full_text": "https://www.mdpi.com/1660-4601/20/4/3624/pdf?version=1677071369",
@@ -582,9 +723,12 @@
     "authors": "James Steele",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
+    "topics": [
+      "Measurement & reliability"
+    ],
+    "venue": "PsyArXiv",
     "url": "https://doi.org/10.31234/osf.io/6pvht",
-    "full_text": "https://psyarxiv.com/6pvht/download",
+    "preprint_url": "https://psyarxiv.com/6pvht/download",
     "open_access": true
   },
   {
@@ -594,21 +738,30 @@
     "authors": "M. Shaw, Steve Thompson, Per Aslak Myranuet, Håvard Tonheim, Johnny Nielsen, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "International Journal of Strength and Conditioning",
     "url": "https://doi.org/10.47206/ijsc.v3i1.161",
     "full_text": "https://journal.iusca.org/index.php/Journal/article/download/161/234",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/201",
     "open_access": true
   },
   {
     "year": 2022,
-    "date": "2022-11-27",
-    "title": "Perceptions of capacity, fatigue, and their psychophysics: Examining construct equivalence and the relationship between actual capacity and perception of capacity during resisted elbow flexion tasks",
-    "authors": "James Steele, Matheus D. Pinto, Ken Kazunori Nosaka, James L. Nuzzo",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31234/osf.io/46vn5",
-    "full_text": "https://osf.io/46vn5/download",
+    "date": "2022-11-01",
+    "title": "Measurement of sporting abilities using item response theory: an introduction and example using passing ability in soccer",
+    "authors": "James Steele, Sam Freeman, Wes Fogden, Chris Neville",
+    "type": "poster",
+    "category": "other",
+    "topics": [
+      "Measurement & reliability",
+      "Sports performance"
+    ],
+    "venue": "British Association of Sport and Exercise Science Annual Conference",
+    "url": "https://doi.org/10.13140/RG.2.2.14778.98246",
     "open_access": true
   },
   {
@@ -618,19 +771,66 @@
     "authors": "Maxime Bergevin, James Steele, Marie Payen de la Garanderie, Camille Féral-Basin, Samuele Marcora, Pierre Rainville, Jeffrey G. Caron, Benjamin Pageaux",
     "type": "review",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Evidence synthesis",
+      "Exercise physiology",
+      "Measurement & reliability",
+      "Research methods & statistics"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-022-01762-4",
-    "full_text": "https://cris.unibo.it/bitstream/11585/919682/3/h_11585_919682_aam.pdf",
+    "full_text": "",
+    "preprint_url": "https://www.biorxiv.org/content/10.1101/2021.12.23.474027v2",
+    "open_access": true
+  },
+  {
+    "year": 2022,
+    "date": "2022-09-30",
+    "title": "Replicating lumbar extensor fatigue equivalent to soccer using isolated resistance exercise",
+    "authors": "Craig Perrin, Dave Smith, James Steele",
+    "type": "preprint",
+    "category": "preprint",
+    "topics": [
+      "Exercise physiology",
+      "Low back pain",
+      "Resistance training",
+      "Sports performance"
+    ],
+    "venue": "",
+    "url": "https://sportrxiv.org/index.php/server/preprint/view/204/version/251",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/204/375",
+    "open_access": true
+  },
+  {
+    "year": 2022,
+    "date": "2022-09-24",
+    "title": "The effects of soccer simulation on isolated lumbar extension force and trunk flexor force",
+    "authors": "Craig Perrin, Dave Smith, James Steele",
+    "type": "preprint",
+    "category": "preprint",
+    "topics": [
+      "Low back pain",
+      "Sports performance",
+      "Strength & power"
+    ],
+    "venue": "",
+    "url": "https://sportrxiv.org/index.php/server/preprint/view/199/version/245",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/199/367",
     "open_access": true
   },
   {
     "year": 2022,
     "date": "2022-09-29",
     "title": "Exploring the Value of Double Marking in Dissertation Assessments: Classical Test Theory and Item Response Theory Approaches",
-    "authors": "James Steele, M. Shaw",
+    "authors": "James Steele, Matthew Shaw",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
+    "topics": [
+      "Measurement & reliability",
+      "Research methods & statistics"
+    ],
+    "venue": "EdArXiv",
     "url": "https://doi.org/10.35542/osf.io/ug7yb",
     "full_text": "",
     "open_access": true
@@ -642,9 +842,13 @@
     "authors": "Luke Carlson, David Gschneidner, James Steele, James Fisher",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Body composition & nutrition"
+    ],
     "venue": "Research Quarterly for Exercise and Sport",
     "url": "https://doi.org/10.1080/02701367.2022.2097625",
     "full_text": "",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/167",
     "open_access": true
   },
   {
@@ -654,9 +858,15 @@
     "authors": "Emily Budzynski‐Seymour, Michelle Jones, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Physical activity & public health",
+      "Youth"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-022-01722-y",
     "full_text": "",
+    "preprint_url": "https://osf.io/preprints/sportrxiv/eufrd_v1",
     "open_access": false
   },
   {
@@ -666,9 +876,17 @@
     "authors": "James Steele, Tomer Malleron, Itai Har-Nir, Patroklos Androulakis‐Korakakis, Milo Wolf, James Fisher, Israel Halperin",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Evidence synthesis",
+      "Muscle hypertrophy",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-022-01717-9",
     "full_text": "",
+    "preprint_url": "https://doi.org/10.51224/srxiv.109",
     "open_access": false
   },
   {
@@ -678,9 +896,14 @@
     "authors": "James Steele, James Fisher, Jürgen Gießing, Patroklos Androulakis‐Korakakis, Milo Wolf, Bram Kroeske, Rob Reuters",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Research Quarterly for Exercise and Sport",
     "url": "https://doi.org/10.1080/02701367.2022.2070592",
     "full_text": "",
+    "preprint_url": "https://doi.org/10.31236/osf.io/eq485",
     "open_access": true
   },
   {
@@ -690,9 +913,15 @@
     "authors": "Ciaran M. Fairman, Otis L. Owens, Kristina L. Kendall, James Steele, Christopher Latella, Margaret T. Jones, Lauren Marcotte, C. M. J. Peddle-McIntyre, Karen Kane McDonnell",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Exercise physiology",
+      "Resistance training"
+    ],
     "venue": "Pilot and Feasibility Studies",
     "url": "https://doi.org/10.1186/s40814-022-01065-5",
     "full_text": "https://pilotfeasibilitystudies.biomedcentral.com/track/pdf/10.1186/s40814-022-01065-5",
+    "preprint_url": "https://doi.org/10.21203/rs.3.rs-907846/v1",
     "open_access": true
   },
   {
@@ -702,6 +931,11 @@
     "authors": "Anoop Balachandran, James Steele, Daniel Angielczyk, Mark Belio, Brad J. Schöenfeld, Norberto Quiles, Nicole Askin, Ahmed M Abou-Setta",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Ageing",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "JAMA Network Open",
     "url": "https://doi.org/10.1001/jamanetworkopen.2022.11623",
     "full_text": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2792175/balachandran_2022_oi_220346_1651687174.65039.pdf",
@@ -714,9 +948,16 @@
     "authors": "James Fisher, James Steele, Milo Wolf, Patroklos Androulakis‐Korakakis, David J. Smith, Jürgen Gießing",
     "type": "review",
     "category": "article",
+    "topics": [
+      "Body composition & nutrition",
+      "Evidence synthesis",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "International Journal of Strength and Conditioning",
     "url": "https://doi.org/10.47206/ijsc.v2i1.101",
     "full_text": "https://journal.iusca.org/index.php/Journal/article/download/101/184",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/18/version/24",
     "open_access": true
   },
   {
@@ -726,9 +967,16 @@
     "authors": "Samuel T. Orange, Adam Hritz, Liam T. Pearson, Owen Jeffries, Thomas W. Jones, James Steele",
     "type": "review",
     "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Resistance training",
+      "Sports performance",
+      "Strength & power"
+    ],
     "venue": "Journal of Sports Sciences",
     "url": "https://doi.org/10.1080/02640414.2022.2059320",
     "full_text": "https://www.tandfonline.com/doi/pdf/10.1080/02640414.2022.2059320?needAccess=true",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/14/version/19",
     "open_access": true
   },
   {
@@ -738,6 +986,9 @@
     "authors": "James Fisher, James Steele, Dave Smith",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Resistance training"
+    ],
     "venue": "Journal of sport and health science/Journal of Sport and Health Science",
     "url": "https://doi.org/10.1016/j.jshs.2022.03.002",
     "full_text": "https://www.sciencedirect.com/science/article/pii/S2095254622000400/pdf",
@@ -750,45 +1001,34 @@
     "authors": "Luke Carlson, David Gschneidner, James Steele, James Fisher",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Physiology & Behavior",
     "url": "https://doi.org/10.1016/j.physbeh.2022.113748",
     "full_text": "https://www.sciencedirect.com/science/article/pii/S0031938422000555/pdf",
-    "open_access": true
-  },
-  {
-    "year": 2022,
-    "date": "2022-02-16",
-    "title": "Editorial: Understanding & Improving Performance in Strength Sports",
-    "authors": "James Steele, Justin Keogh, Jeremy P. Loenneke",
-    "type": "editorial",
-    "category": "article",
-    "venue": "Frontiers in Sports and Active Living",
-    "url": "https://doi.org/10.3389/fspor.2022.807941",
-    "full_text": "https://www.frontiersin.org/articles/10.3389/fspor.2022.807941/pdf",
+    "preprint_url": "https://sportrxiv.org/index.php/server/preprint/view/94/version/105",
     "open_access": true
   },
   {
     "year": 2022,
     "date": "2022-01-24",
-    "title": "Are we lifting heavy enough? Self-selected loads in resistance exercise",
-    "authors": "James Steele, Tomer Malleron, Itai Har-Nir, Patroklos Androulakis‐Korakakis, Milo Wolf, James Fisher, Israel Halperin",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.51224/srxiv.109",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2021,
-    "date": "2021-12-15",
-    "title": "The role of teleoaffective profiles in practice adaptation",
-    "authors": "Fiona Spotswood, James Steele, Patroklos Androulakis‐Korakakis, Alex Lucas",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31235/osf.io/ug4kq",
-    "full_text": "https://osf.io/ug4kq/download",
+    "title": "Editorial: Understanding & Improving Performance in Strength Sports",
+    "authors": "James Steele, Justin Keogh, Jeremy P. Loenneke",
+    "type": "editorial",
+    "category": "article",
+    "topics": [
+      "Exercise physiology",
+      "Research methods & statistics",
+      "Resistance training",
+      "Sports performance",
+      "Strength & power"
+    ],
+    "venue": "Frontiers in Sports and Active Living",
+    "url": "https://doi.org/10.3389/fspor.2022.807941",
+    "full_text": "https://www.frontiersin.org/articles/10.3389/fspor.2022.807941/pdf",
     "open_access": true
   },
   {
@@ -798,9 +1038,14 @@
     "authors": "Jürgen Gießing, Björn Eichmann, Wolfgang Kemmler, Wayne L. Westcott, Richard A. Winett, Kevin Busuttil, James Steele, James Fisher",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Resistance training"
+    ],
     "venue": "Physiology & Behavior",
     "url": "https://doi.org/10.1016/j.physbeh.2021.113677",
     "full_text": "",
+    "preprint_url": "https://doi.org/10.51224/srxiv.13",
     "open_access": false
   },
   {
@@ -810,9 +1055,35 @@
     "authors": "James Steele, Daniel L. Plotkin, Derrick W. Van Every, Avery Rosa, Hugo Zambrano, Benjiman Mendelovits, Mariella Carrasquillo-Mercado, Jozo Grgić, Brad J. Schöenfeld",
     "type": "review",
     "category": "article",
+    "topics": [
+      "Body composition & nutrition",
+      "Evidence synthesis",
+      "Research methods & statistics"
+    ],
     "venue": "Sports",
     "url": "https://doi.org/10.3390/sports9110155",
     "full_text": "https://www.mdpi.com/2075-4663/9/11/155/pdf?version=1637203765",
+    "preprint_url": "https://doi.org/10.31236/osf.io/zye8h",
+    "open_access": true
+  },
+  {
+    "year": 2021,
+    "date": "2021-11-01",
+    "title": "The Influence of Public Health England’s Change4Life Disney Branded 10-minute Shake Ups on Children’s Post Activity Affective Response",
+    "authors": "Emily Budzynski‐Seymour, Michelle Jones, James Steele",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Metascience & open science",
+      "Physical activity & public health",
+      "Youth"
+    ],
+    "venue": "Communications in Kinesiology",
+    "url": "https://storkjournals.org/index.php/cik/article/view/7612",
+    "full_text": "https://storkjournals.org/index.php/cik/article/view/7612/6005",
+    "preprint_url": "https://doi.org/10.31236/osf.io/ftv8y",
+    "peer_review_url": "https://storkjournals.org/index.php/cik/article/view/7612/6007",
     "open_access": true
   },
   {
@@ -822,46 +1093,15 @@
     "authors": "Marcelo Henrique Silva, Claudio André Barbosa de Lira, James Steele, James Fisher, João Felipe Mota, Aline Corado Gomes, Paulo Gentil",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Journal of Sports Sciences",
     "url": "https://doi.org/10.1080/02640414.2021.2005282",
     "full_text": "",
+    "preprint_url": "https://doi.org/10.31236/osf.io/gkxaf",
     "open_access": false
-  },
-  {
-    "year": 2021,
-    "date": "2021-10-18",
-    "title": "role of supervision in resistance training",
-    "authors": "James Fisher, James Steele, Milo Wolf, Patroklos Androulakis‐Korakakis, Dave Smith, Jürgen Gießing",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.51224/srxiv.18",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2021,
-    "date": "2021-10-01",
-    "title": "Study Protocol: A Hybrid Delivery of Home-Based Cluster Set Resistance Training for Individuals Previously Treated for Lung Cancer",
-    "authors": "Ciaran M. Fairman, Otis L. Owens, Kristina L. Kendall, James Steele, Christopher Latella, Morgan T. Jones, Lauren Marcotte, Carolyn J. Peddle‐McIntyre, Karen Kane McDonnell",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "Research Square",
-    "url": "https://doi.org/10.21203/rs.3.rs-907846/v1",
-    "full_text": "https://www.researchsquare.com/article/rs-907846/latest.pdf",
-    "open_access": true
-  },
-  {
-    "year": 2021,
-    "date": "2021-09-21",
-    "title": "Effects of Adding High Intensity of Effort Resistance Training to Routine Care in Persons With Type II Diabetes",
-    "authors": "Jürgen Gießing, Björn Eichmann, Wolfgang Kemmler, Wayne Westcott, Richard A. Winett, Kevin Busuttil, James Steele, James P. Fisher",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.51224/srxiv.13",
-    "full_text": "",
-    "open_access": true
   },
   {
     "year": 2021,
@@ -870,93 +1110,120 @@
     "authors": "Israel Halperin, Tomer Malleron, Itai Har-Nir, Patroklos Androulakis‐Korakakis, Milo Wolf, James Fisher, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Measurement & reliability",
+      "Research methods & statistics",
+      "Resistance training"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-021-01559-x",
     "full_text": "https://link.springer.com/content/pdf/10.1007/s40279-021-01559-x.pdf",
+    "preprint_url": "https://doi.org/10.31236/osf.io/x256f",
     "open_access": true
   },
   {
     "year": 2021,
-    "date": "2021-08-30",
+    "date": "2021-08-06",
     "title": "The Minimum Effective Training Dose Required for 1RM Strength in Powerlifters",
     "authors": "Patroklos Androulakis‐Korakakis, Nick Michalopoulos, James Fisher, Justin Keogh, Jeremy P. Loenneke, Eric R. Helms, Milo Wolf, Greg Nuckols, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Resistance training",
+      "Sports performance",
+      "Strength & power"
+    ],
     "venue": "Frontiers in Sports and Active Living",
     "url": "https://doi.org/10.3389/fspor.2021.713655",
     "full_text": "https://www.frontiersin.org/articles/10.3389/fspor.2021.713655/pdf",
+    "preprint_url": "https://doi.org/10.31236/osf.io/wubps",
     "open_access": true
   },
   {
     "year": 2021,
     "date": "2021-08-16",
     "title": "Resistance Training Recommendations to Maximize Muscle Hypertrophy in an Athletic Population: Position Stand of the IUSCA",
-    "authors": "Brad J. Schöenfeld, James Fisher, Jozo Grgić, Cody T. Haun, Eric R. Helms, Stuart M. Phillips, James Steele, Andrew D. Vigotsky",
+    "authors": "Brad J. Schoenfeld, James Fisher, Jozo Grgić, Cody T. Haun, Eric R. Helms, Stuart M. Phillips, James Steele, Andrew D. Vigotsky",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Muscle hypertrophy",
+      "Resistance training",
+      "Sports performance",
+      "Strength & power"
+    ],
     "venue": "International Journal of Strength and Conditioning",
     "url": "https://doi.org/10.47206/ijsc.v1i1.81",
     "full_text": "https://journal.iusca.org/index.php/Journal/article/download/81/140",
     "open_access": true
   },
   {
-    "year": 2021,
-    "date": "2021-07-05",
-    "title": "Can Earth’s Mightiest Heroes Help Children Be Physically Active? Exploring the Immersive Qualities of Les Mills’ and Marvel’s “Move Like the Avengers” Video",
-    "authors": "Emily Budzynski‐Seymour, Michelle Jones, James Steele",
+    "year": 2020,
+    "date": "2020-10-14",
+    "title": "A Rapid Review of Communication Strategies for Physical Activity Guidelines and Physical Activity Promotion: A Review of Worldwide Strategies",
+    "authors": "Emily Budzynski‐Seymour, Karen Milton, Hayley Mills, Matthew Wade, Charlie Foster, Dane Vishnubala, Beelin Baxter, Chloë Williamson, James Steele",
     "type": "article",
     "category": "article",
-    "venue": "International Journal of Environmental Research and Public Health",
-    "url": "https://doi.org/10.3390/ijerph18137184",
-    "full_text": "https://www.mdpi.com/1660-4601/18/13/7184/pdf?version=1625473848",
-    "open_access": true
-  },
-  {
-    "year": 2021,
-    "date": "2021-07-01",
-    "title": "How hard should you train? A meta-analysis of studies comparing body composition changes between interval training and moderate intensity continuous training",
-    "authors": "James Steele, Daniel Plotkin, Derrick W. Van Every, Avery Rosa, Hugo Zambrano, Benjiman Mendelovits, Mariella Mercado, Jozo Grgić, Brad J. Schöenfeld",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31236/osf.io/zye8h",
-    "full_text": "https://osf.io/zye8h/download",
-    "open_access": true
-  },
-  {
-    "year": 2021,
-    "date": "2021-06-11",
-    "title": "A “Physically Active Experience” – Setting the Stage for a New Approach to Engage Children in Physical Activity.",
-    "authors": "Emily Budzynski‐Seymour, James Steele, Michelle Jones",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31236/osf.io/eufrd",
-    "full_text": "https://osf.io/eufrd/download",
+    "topics": [
+      "Evidence synthesis",
+      "Physical activity & public health"
+    ],
+    "venue": "Journal of Physical Activity and Health",
+    "url": "https://journals.humankinetics.com/view/journals/jpah/18/8/article-p1014.xml",
+    "full_text": "",
+    "preprint_url": "https://osf.io/bhrky/download",
     "open_access": true
   },
   {
     "year": 2021,
     "date": "2021-06-03",
-    "title": "The impact of signposting and group support pathways on a community-based physical activity intervention grounded in motivational interviewing",
-    "authors": "Matthew Wade, Nicola Brown, James Steele, Stephen Mann, Barbara L. Dancy, Sandra Winter, Anne Majumdar",
+    "title": "Where next for the design, delivery, and evaluation of community-based physical activity prescription? Emerging lessons from the United Kingdom",
+    "authors": "Emily J. Oliver, Ben Buckley, Caroline Dodd-Reynolds, John Downey, Coral Hanson, Hannah Henderson, James Steele, Matthew Wade, Paula Watson",
     "type": "article",
     "category": "article",
-    "venue": "Journal of Public Health",
-    "url": "https://doi.org/10.1093/pubmed/fdab198",
-    "full_text": "",
+    "topics": [
+      "Body composition & nutrition",
+      "Physical activity & public health"
+    ],
+    "venue": "Applied Physiology, Nutrition, and Metabolism",
+    "url": "https://doi.org/10.1139/apnm-2021-0101",
+    "full_text": "https://durham-repository.worktribe.com/OutputFile/1269194",
     "open_access": true
   },
   {
     "year": 2021,
-    "date": "2021-05-13",
-    "title": "The minimum effective training dose required to increase 1RM strength in powerlifters",
-    "authors": "Patroklos Androulakis‐Korakakis, Nick Michalopoulos, James Fisher, Justin Keogh, Jeremy P. Loenneke, Eric R. Helms, Milo Wolf, Gregory Lee Nuckols, James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31236/osf.io/wubps",
-    "full_text": "https://osf.io/wubps/download",
+    "date": "2021-07-05",
+    "title": "Can Earth’s Mightiest Heroes Help Children Be Physically Active? Exploring the Immersive Qualities of Les Mills’ and Marvel’s \"Move Like the Avengers\" Video",
+    "authors": "Emily Budzynski‐Seymour, Michelle Jones, James Steele",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Physical activity & public health",
+      "Youth"
+    ],
+    "venue": "International Journal of Environmental Research and Public Health",
+    "url": "https://doi.org/10.3390/ijerph18137184",
+    "full_text": "https://www.mdpi.com/1660-4601/18/13/7184/pdf?version=1625473848",
+    "preprint_url": "https://doi.org/10.31236/osf.io/jp2fz",
+    "open_access": true
+  },
+  {
+    "year": 2021,
+    "date": "2021-06-12",
+    "title": "The impact of signposting and group support pathways on a community-based physical activity intervention grounded in motivational interviewing",
+    "authors": "Matthew Wade, Nicola Brown, James Steele, Stephen Mann, Barbara L. Dancy, Sandra Winter, Anne Majumdar",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Physical activity & public health"
+    ],
+    "venue": "Journal of Public Health",
+    "url": "https://doi.org/10.1093/pubmed/fdab198",
+    "full_text": "",
+    "preprint_url": "https://doi.org/10.31236/osf.io/gq78r",
     "open_access": true
   },
   {
@@ -966,6 +1233,12 @@
     "authors": "Christopher Latella, Carolyn J. Peddle‐McIntyre, Lauren Marcotte, James Steele, Kristina L. Kendall, Ciaran M. Fairman",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Exercise physiology",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-021-01455-4",
     "full_text": "",
@@ -978,6 +1251,10 @@
     "authors": "Liam Mason, Andy Kirkland, James Steele, James Wright",
     "type": "review",
     "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Sports performance"
+    ],
     "venue": "The Journal of Sports Medicine and Physical Fitness",
     "url": "https://doi.org/10.23736/s0022-4707.20.11205-2",
     "full_text": "http://dspace.stir.ac.uk/bitstream/1893/31915/1/Mason%20et%20al%202020.pdf",
@@ -990,6 +1267,9 @@
     "authors": "James Steele, Matthew Wade, Robert Copeland, Stuart Stokes, Rachel Stokes, Steven Mann",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Physical activity & public health"
+    ],
     "venue": "International Journal of Environmental Research and Public Health",
     "url": "https://doi.org/10.3390/ijerph18094831",
     "full_text": "https://www.mdpi.com/1660-4601/18/9/4831/pdf?version=1620351011",
@@ -1002,21 +1282,30 @@
     "authors": "James Steele, Patroklos Androulakis‐Korakakis, Luke Carlson, David Williams, Stuart M. Phillips, Dave Smith, Brad J. Schöenfeld, Jeremy P. Loenneke, Richard A. Winett, Takashi Abe, Stéphane Dufour, Martino V. Franchi, Fabio Sarto, Tommy R. Lundberg, Paulo Gentil, Thue Kvorning, Jürgen Gießing, Milan Sedliak, Antonio Paoli, Fiona Spotswood, Alex Lucas, James Fisher",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Physical activity & public health",
+      "Resistance training"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-021-01438-5",
     "full_text": "https://link.springer.com/content/pdf/10.1007/s40279-021-01438-5.pdf",
+    "preprint_url": "https://doi.org/10.31236/osf.io/b8s7e",
     "open_access": true
   },
   {
     "year": 2021,
-    "date": "2021-04-09",
-    "title": "Motor unit recruitment patterns of the quadriceps differ between continuous high- and low-torque isometric knee extension to momentary failure",
-    "authors": "Jonathan Murphy, Emma Hodson‐Tole, Andrew D. Vigotsky, Jim R. Potvin, James Fisher, James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-    "url": "https://doi.org/10.1101/2021.04.08.438966",
-    "full_text": "https://www.biorxiv.org/content/biorxiv/early/2021/04/09/2021.04.08.438966.full.pdf",
+    "date": "2021-03-17",
+    "title": "Delivery Approaches Within Exercise Referral Schemes: A Survey of Current Practice in England",
+    "authors": "Nikita Rowley, James Steele, Steve Mann, Alfonso Jimenez, Elizabeth Horton",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Physical activity & public health"
+    ],
+    "venue": "Journal of Physical Activity and Health",
+    "url": "https://doi.org/10.1123/jpah.2020-0388",
+    "full_text": "",
     "open_access": true
   },
   {
@@ -1026,30 +1315,31 @@
     "authors": "David G. Behm, Shahab Alizadeh, Saman Hadjizedah Anvar, Courtney Hanlon, Emma Ramsay, Mohamed Mamdouh Ibrahim Mahmoud, Joseph Whitten, James Fisher, Olaf Prieske, Hélmi Chaabène, Urs Granacher, James Steele",
     "type": "review",
     "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Exercise physiology",
+      "Research methods & statistics",
+      "Strength & power"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-021-01456-3",
     "full_text": "",
+    "preprint_url": "https://doi.org/10.31236/osf.io/w7x3v",
     "open_access": true
   },
   {
     "year": 2021,
-    "date": "2021-02-27",
-    "title": "Comparison of the effects of HIIT versus MICT on measures of body composition: A systematic review and meta-analysis of training outcomes",
-    "authors": "Brad J. Schöenfeld, Daniel L. Plotkin, Derrick W. Van Every, James Steele, Mariella Mercado, Benjiman Mendelovits, Avery Rosa, Hugo Zambrano, Jozo Grgić",
-    "type": "review",
-    "category": "article",
-    "venue": "Open MIND",
-    "url": "https://doi.org/10.17605/osf.io/dq784",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2021,
-    "date": "2021-02-26",
+    "date": "2021-01-19",
     "title": "Efficacy of Whole-Body Electromyostimulation (WB-EMS) on Body Composition and Muscle Strength in Non-athletic Adults. A Systematic Review and Meta-Analysis",
     "authors": "Wolfgang Kemmler, Mahdieh Shojaa, James Steele, Joshua Berger, Michael Fröhlich, Daniel Schoene, Simon von Stengel, Heinz Kleinöder, Matthias Kohl",
     "type": "review",
     "category": "article",
+    "topics": [
+      "Body composition & nutrition",
+      "Evidence synthesis",
+      "Low back pain",
+      "Strength & power"
+    ],
     "venue": "Frontiers in Physiology",
     "url": "https://doi.org/10.3389/fphys.2021.640657",
     "full_text": "https://www.frontiersin.org/articles/10.3389/fphys.2021.640657/pdf",
@@ -1057,11 +1347,18 @@
   },
   {
     "year": 2021,
-    "date": "2021-02-12",
+    "date": "2021-02-28",
     "title": "Physical activity and sedentary time in children and adolescents with asthma: A systematic review and meta‐analysis",
     "authors": "Kelly A. Mackintosh, Melitta A. McNarry, Sveinung Berntsen, James Steele, Ellen Sejersted, Thomas Westergren",
     "type": "review",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Evidence synthesis",
+      "Physical activity & public health",
+      "Research methods & statistics",
+      "Youth"
+    ],
     "venue": "Scandinavian Journal of Medicine and Science in Sports",
     "url": "https://doi.org/10.1111/sms.13937",
     "full_text": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sms.13937",
@@ -1069,111 +1366,39 @@
   },
   {
     "year": 2021,
-    "date": "2021-01-27",
-    "title": "Long-term time-course of strength adaptation to minimal dose resistance training: Retrospective longitudinal growth modelling of a large cohort through training records",
-    "authors": "James Steele, James Fisher, Jürgen Gießing, Patroklos Androulakis‐Korakakis, Milo Wolf, Bram Kroeske, Rob Reuters",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31236/osf.io/eq485",
-    "full_text": "https://osf.io/eq485/download",
+    "date": "2021-12-31",
+    "title": "Effectiveness of Structured Physical Activity Interventions Through the Evaluation of Physical Activity Levels, Adoption, Retention, Maintenance, and Adherence Rates: A Systematic Review and Meta-Analysis",
+    "authors": "Nadja Willinger, James Steele, Lou Atkinson, Gary Liguori, Alfonso Jiménez, Steven Mann, Elizabeth Horton",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Physical activity & public health"
+    ],
+    "venue": "Journal of Physical Activity and Health",
+    "url": "https://doi.org/10.1123/jpah.2019-0349",
+    "full_text": "",
+    "preprint_url": "https://doi.org/10.31236/osf.io/a5fc2",
     "open_access": true
   },
   {
     "year": 2020,
-    "date": "2020-12-23",
-    "title": "“Just One More Rep!” – Ability to Predict Proximity to Task Failure in Resistance Trained Persons",
+    "date": "2020-12-04",
+    "title": "\"Just One More Rep!\" – Ability to Predict Proximity to Task Failure in Resistance Trained Persons",
     "authors": "Cedrik Armes, Henry Standish-Hunt, Patroklos Androulakis‐Korakakis, Nick Michalopoulos, Tsvetelina Georgieva, Alex Hammond, James Fisher, Paulo Gentil, Jürgen Gießing, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Measurement & reliability",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Frontiers in Psychology",
     "url": "https://doi.org/10.3389/fpsyg.2020.565416",
     "full_text": "https://www.frontiersin.org/articles/10.3389/fpsyg.2020.565416/pdf",
+    "preprint_url": "https://doi.org/10.31236/osf.io/af6dv",
     "open_access": true
-  },
-  {
-    "year": 2020,
-    "date": "2020-11-10",
-    "title": "The impact of participant pathways on the effectiveness of a community-based physical activity intervention grounded in motivational interviewing",
-    "authors": "Matthew Wade, Nicola J. Brown, James Steele, Steven Mann, Bernadette Dancy, Stacy Winter, Anne Majumdar",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31219/osf.io/2sxc3",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2020,
-    "date": "2020-10-21",
-    "title": "The effects of supervision within resistance training: A systematic review and meta-analysis of training outcomes.",
-    "authors": "James Fisher, James Steele, Patroklos Androulakis‐Korakakis, Milo Wolf, Dave Smith",
-    "type": "review",
-    "category": "article",
-    "venue": "Open MIND",
-    "url": "https://doi.org/10.17605/osf.io/ketb2",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2020,
-    "date": "2020-10-14",
-    "title": "A Rapid Review of Communication Strategies for Physical Activity Guidelines and Physical Activity Promotion: A Review of Worldwide Strategies",
-    "authors": "Emily Budzynski‐Seymour, Karen Milton, Hayley Mills, Matthew Wade, Charlie Foster, Dane Vishnubala, Beelin Baxter, Chloë Williamson, James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31236/osf.io/bhrky",
-    "full_text": "https://osf.io/bhrky/download",
-    "open_access": true
-  },
-  {
-    "year": 2020,
-    "date": "2020-09-28",
-    "title": "Non-local muscle fatigue effects on muscle strength, power, and endurance in healthy individuals: A systematic review and meta-analysis",
-    "authors": "David G. Behm, Shahab Alizadeh, Saman Hadjizedah Anvar, Courtney Hanlon, Emma Ramsay, Mohamed Mamdouh Ibrahim Mahmoud, Joseph Whitten, James Fisher, Olaf Prieske, Hélmi Chaabène, Urs Granacher, James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31236/osf.io/w7x3v",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2020,
-    "date": "2020-09-18",
-    "title": "Non-Local Muscle Fatigue: A Systematic Review and Meta-Analysis",
-    "authors": "David G. Behm, Shahab Alizadeh, Saman Hadjizedah Anvar, Courtney Hanlon, Emma Ramsay, Mohamed Mamdouh Ibrahim Mahmoud, Joseph Whitten, James Steele, James Fisher, Olaf Prieske",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://osf.io/cs9e2/",
-    "full_text": "",
-    "open_access": false
-  },
-  {
-    "year": 2020,
-    "date": "2020-09-12",
-    "title": "Isometric Mid-Thigh Pull and Athletic Performance Measures",
-    "authors": "Liam Mason, Andrew Kirkland, James Wright, James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://osf.io/zu4y9/",
-    "full_text": "",
-    "open_access": false
-  },
-  {
-    "year": 2020,
-    "date": "2020-09-01",
-    "title": "The impact of public-health measures to limit the spread of Coronavirus on training behaviours of individuals previously participating in resistance training: A cross-sectional survey study",
-    "authors": "James Steele, Patroklos Androulakis‐Korakakis, Luke Carlson, David Williams, Stuart M. Phillips, Dave Smith, Brad J. Schöenfeld, Jeremy P. Loenneke, Richard A. Winett, Takashi Abe, Stéphane Dufour, Martino V. Franchi, Fabio Sarto, Tommy R. Lundberg, Paulo Gentil, Thue Kvorning, Jürgen Gießing, Milan Sedliak, Fiona Spotswood, Alex Lucas, James P. Fisher",
-    "type": "article",
-    "category": "article",
-    "venue": "",
-    "url": "https://openalex.org/W3087283245",
-    "full_text": "",
-    "open_access": false
   },
   {
     "year": 2020,
@@ -1182,6 +1407,13 @@
     "authors": "Emily Budzynski‐Seymour, Samuel Tuvey, Juliet Paterson, Michelle Jones, James Steele",
     "type": "preprint",
     "category": "preprint",
+    "topics": [
+      "Behaviour & perception",
+      "Body composition & nutrition",
+      "Evidence synthesis",
+      "Physical activity & public health",
+      "Youth"
+    ],
     "venue": "PsyArXiv",
     "url": "https://doi.org/10.31234/osf.io/kh37d",
     "full_text": "",
@@ -1189,14 +1421,36 @@
   },
   {
     "year": 2020,
-    "date": "2020-09-01",
+    "date": "2020-09-30",
     "title": "Estimates of Stress Between the Hamstring Muscles",
     "authors": "Craig Perrin, D. R. Smith, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Strength & power"
+    ],
     "venue": "Muscles Ligaments and Tendons Journal",
     "url": "https://doi.org/10.32098/mltj.03.2020.12",
     "full_text": "http://www.mltj.online/wp-content/uploads/2020/10/436-441.pdf",
+    "preprint_url": "https://doi.org/10.31236/osf.io/mekz7",
+    "open_access": true
+  },
+  {
+    "year": 2020,
+    "date": "2020-09-18",
+    "title": "One-year surveillance of body mass index and cardiorespiratory fitness in UK primary school children in North West England and the impact of school deprivation level",
+    "authors": "Steven Mann, Matthew Wade, Michelle Jones, Gavin Sandercock, Chris Beedie, James Steele",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Body composition & nutrition",
+      "Exercise physiology",
+      "Youth"
+    ],
+    "venue": "Archives of Disease in Childhood",
+    "url": "https://adc.bmj.com/content/105/10/999",
+    "full_text": "",
+    "preprint_url": "https://doi.org/10.31236/osf.io/jd9pv",
     "open_access": true
   },
   {
@@ -1206,6 +1460,12 @@
     "authors": "Davide Grigoletto, Giuseppe Marcolin, Elena Borgatti, Fabio Zonin, James Steele, Paulo Gentil, Luan Galvão, Antonio Paoli",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Exercise physiology",
+      "Sports performance",
+      "Strength & power",
+      "Women & sex differences"
+    ],
     "venue": "Journal of Human Kinetics",
     "url": "https://doi.org/10.2478/hukin-2020-0010",
     "full_text": "https://www.sciendo.com/pdf/10.2478/hukin-2020-0010",
@@ -1218,22 +1478,17 @@
     "authors": "Paulo Gentil, Emily Budzynski‐Seymour, Daniel Souza, James Steele, James Fisher, Martim Bottaro",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Measurement & reliability",
+      "Muscle hypertrophy",
+      "Research methods & statistics",
+      "Resistance training"
+    ],
     "venue": "Journal of Clinical and Translational Research",
     "url": "https://doi.org/10.18053/jctres.06.202002.004",
     "full_text": "/publications/gentil-et-al-2020-evaluating-resistance-training-results.pdf",
     "full_text_label": "Full text (CC 4.0)",
-    "open_access": true
-  },
-  {
-    "year": 2020,
-    "date": "2020-07-24",
-    "title": "The Influence of Public Health England’s Change4Life Disney Branded 10-minute Shake Ups on Children’s Post Activity Affective Response.",
-    "authors": "Emily Budzynski‐Seymour, Michelle Jones, James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31236/osf.io/ftv8y",
-    "full_text": "https://osf.io/ftv8y/download",
     "open_access": true
   },
   {
@@ -1243,46 +1498,81 @@
     "authors": "Andrew D. Vigotsky, Gregory Lee Nuckols, James P Fisher, James Heathers, James Krieger, Brad Jon Schoenfeld, Jürgen Giessing, James Steele",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
+    "topics": [
+      "Metascience & open science"
+    ],
+    "venue": "SportRχiv",
     "url": "https://doi.org/10.31236/osf.io/sg3wm",
     "full_text": "https://osf.io/sg3wm/download",
     "open_access": true
   },
   {
     "year": 2020,
-    "date": "2020-07-17",
-    "title": "Using the Change4Life Disney Branded 10-minute Shake Ups During the COVID-19 ‘Lockdown’",
-    "authors": "Emily Budzynski‐Seymour, James Steele, Michelle Jones",
+    "date": "2020-06-06",
+    "title": "\"You’ve got a Friend in Me\" A Case for using Entertainment Education and Gamification Elements in Children’s Physical Activity Sessions: Creating an Immersive Environment to Increase Engagement",
+    "authors": "Emily Budzynksi-Seymour, Michelle Jones, James Steele",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31219/osf.io/q8jz4",
-    "full_text": "",
+    "topics": [
+      "Physical activity & public health",
+      "Youth"
+    ],
+    "venue": "JMIR Preprints",
+    "url": "https://doi.org/10.2196/preprints.21497",
+    "full_text": "https://s3.ca-central-1.amazonaws.com/assets.jmir.org/assets/preprints/preprint-21497-submitted.pdf",
     "open_access": true
   },
   {
     "year": 2020,
     "date": "2020-07-07",
-    "title": "“Lift Big–Get Big”: The Impact of Images of Hyper-Muscular Bodies and Training Information",
-    "authors": "Elio Martino, James Fisher, Brian Wink, Dave Smith, James Steele",
+    "title": "The Association of Golf Participation With Health and Wellbeing: A Comparative Study",
+    "authors": "Graeme Sorbie, Ashley K. Richardson, Jonathan Glen, Scott Hardie, Sharhidd Taliep, Mathew Wade, Lizzie Broughton, Steven Mann, James Steele, David Lavallee",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Physical activity & public health",
+      "Sports performance"
+    ],
     "venue": "Research Quarterly for Exercise and Sport",
     "url": "https://doi.org/10.1080/02701367.2020.1752357",
     "full_text": "",
+    "preprint_url": "https://doi.org/10.31236/osf.io/7pbfc",
     "open_access": false
   },
   {
     "year": 2020,
+    "date": "2020-06-01",
+    "title": "\"Lift Big–Get Big\": The Impact of Images of Hyper-Muscular Bodies and Training Information",
+    "authors": "Elio Martino, James Fisher, Brian Wink, Dave Smith, James Steele",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Physical activity & public health",
+      "Resistance training",
+      "Sports performance"
+    ],
+    "venue": "International Journal of Golf Science",
+    "url": "https://www.golfsciencejournal.org/article/12915-the-association-of-golf-participation-with-health-and-wellbeing-a-comparative-study",
+    "full_text": "https://www.golfsciencejournal.org/article/12915-the-association-of-golf-participation-with-health-and-wellbeing-a-comparative-study.pdf",
+    "open_access": true
+  },
+  {
+    "year": 2020,
     "date": "2020-07-01",
-    "title": "Effects Of High Intensity Resistance Training Protocols On Cardiovascular Parameters In Hypertensive Women",
-    "authors": "Arthur Ferreira do Vale, Juliana Alves Carneiro, Paulo César Brandão Veiga Jardim, Thiago Veiga Jardim, James Steele, James Fisher, Paulo Gentil",
-    "type": "conference-abstract",
-    "category": "other",
-    "venue": "Medicine & Science in Sports & Exercise",
-    "url": "https://doi.org/10.1249/01.mss.0000671616.89757.bd",
+    "title": "Physical activity, mental and personal wellbeing, social isolation, and perceptions of academic attainment and employability in university students: Pooled analysis of the Scottish and British Active Students Surveys",
+    "authors": "Emily Budzynski‐Seymour, Rebecca Conway, Matthew Wade, Alex Lucas, Michelle Jones, Steven Mann, James Steele",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Physical activity & public health"
+    ],
+    "venue": "Journal of Physical Activity and Health",
+    "url": "https://doi.org/10.1123/jpah.2019-0431",
     "full_text": "",
-    "open_access": false
+    "preprint_url": "https://doi.org/10.31236/osf.io/xaum3",
+    "open_access": true
   },
   {
     "year": 2020,
@@ -1291,22 +1581,13 @@
     "authors": "James Steele",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
+    "topics": [
+      "Behaviour & perception"
+    ],
+    "venue": "PsyArXiv",
     "url": "https://doi.org/10.31234/osf.io/kbyhm",
     "full_text": "https://psyarxiv.com/kbyhm/download",
     "open_access": true
-  },
-  {
-    "year": 2020,
-    "date": "2020-06-01",
-    "title": "What is (perception of) effort? Objective and subjective effort during task performance",
-    "authors": "James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "PsyArXiv",
-    "url": "https://doi.org/10.31234/osf.io/kbyhm",
-    "full_text": "",
-    "open_access": false
   },
   {
     "year": 2020,
@@ -1315,6 +1596,9 @@
     "authors": "Zachary Zenko, James Steele, John P. Mills",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Metascience & open science"
+    ],
     "venue": "Communications in Kinesiology",
     "url": "https://doi.org/10.51224/cik0001",
     "full_text": "http://storkjournals.org/index.php/cik/article/download/26/2",
@@ -1327,6 +1611,11 @@
     "authors": "Georgina Waller, Melissa Dolby, James Steele, James Fisher",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Body composition & nutrition",
+      "Strength & power"
+    ],
     "venue": "PeerJ",
     "url": "https://doi.org/10.7717/peerj.9144",
     "full_text": "",
@@ -1339,6 +1628,9 @@
     "authors": "Joshua Farrow, James Steele, David G. Behm, Martin Skivington, James Fisher",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Exercise physiology"
+    ],
     "venue": "Research Quarterly for Exercise and Sport",
     "url": "https://doi.org/10.1080/02701367.2020.1734521",
     "full_text": "",
@@ -1351,9 +1643,15 @@
     "authors": "Nikita Rowley, James Steele, Matthew Wade, Robert Copeland, Steve Mann, Gary Liguori, Elizabeth Horton, Alfonso Jiménez",
     "type": "review",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Evidence synthesis",
+      "Physical activity & public health"
+    ],
     "venue": "Journal of Physical Activity and Health",
     "url": "https://doi.org/10.1123/jpah.2019-0435",
     "full_text": "https://pure.coventry.ac.uk/ws/files/29466785/Binder2.pdf",
+    "preprint_url": "https://doi.org/10.31236/osf.io/ckdwn",
     "open_access": true
   },
   {
@@ -1363,18 +1661,26 @@
     "authors": "John Moore, Zoe Merchant, Kirsty Rowlinson, Karen McEwan, Matthew Evison, G Faulkner, Javed Sultan, Jamie S. McPhee, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation"
+    ],
     "venue": "European Journal of Surgical Oncology",
-    "url": "https://pure.solent.ac.uk/en/publications/implementing-a-system-wise-cancer-prehabilitation-programme-great",
+    "url": "https://doi.org/10.1016/j.ejso.2020.04.042",
     "full_text": "",
     "open_access": false
   },
   {
     "year": 2020,
-    "date": "2020-04-28",
+    "date": "2020-06-05",
     "title": "Does increasing an athletes’ strength improve sports performance? A critical review with suggestions to help answer this, and other, causal questions in sport science",
     "authors": "James Steele, James Fisher, Derek A. Crawford",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Research methods & statistics",
+      "Sports performance",
+      "Strength & power"
+    ],
     "venue": "Journal of Trainology",
     "url": "https://doi.org/10.17338/trainology.9.1_20",
     "full_text": "https://www.jstage.jst.go.jp/article/trainology/9/1/9_32/_pdf",
@@ -1382,76 +1688,52 @@
   },
   {
     "year": 2020,
-    "date": "2020-04-23",
-    "title": "The impact of government recommended/implemented measures to limit the spread of Coronavirus (COVID-19) on training practices of resistance trained individuals",
-    "authors": "James Steele, James Fisher, Patroklos Androulakis-Korakakis, Brad J. Schöenfeld, Richard A. Winett, David Williams, Luke Carlson, Stuart Phillips, Dave Smith, Jeremy Loenneke, Takashi Abe, Stéphane Dufour, Martino V Franchi, Tommy Lundberg, Paulo Gentil, Thue Kvorning, Jürgen Giessing, Milan Sedliak, Antonio Paoli, Fiona Spotswood, Alex Lucas, Fabio Sarto, Milo Wolf, Nick Michalopoulos",
-    "type": "other",
-    "category": "other",
-    "venue": "Open MIND",
-    "url": "https://doi.org/10.17605/osf.io/xhryf",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2020,
     "date": "2020-04-21",
-    "title": "Parkrun and the Claim of “Elitism” in Paid-Entry Run/Walk Events",
+    "title": "Parkrun and the Claim of \"Elitism\" in Paid-Entry Run/Walk Events",
     "authors": "James L. Nuzzo, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Physical activity & public health"
+    ],
     "venue": "American Journal of Health Promotion",
     "url": "https://doi.org/10.1177/0890117120920447",
     "full_text": "",
     "open_access": false
   },
   {
-    "year": 2020,
-    "date": "2020-02-13",
-    "title": "Stress between the hamstring muscles",
-    "authors": "Craig Perrin, Dave Smith, James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31236/osf.io/mekz7",
-    "full_text": "/publications/perrin-smith-steele-2020-hamstring-stress-preprint.pdf",
-    "full_text_label": "Preprint PDF",
+    "year": 2017,
+    "date": "2017-02-01",
+    "title": "Isolated Lumbar Extension Resistance Training Improves Strength, Pain, and Disability, but Not Spinal Height or Shrinkage (“Creep”) in Participants with Chronic Low Back Pain",
+    "authors": "James Steele, Stewart Bruce-Low, Dave Smith, David Jessop, Neil Osborne",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Low back pain",
+      "Measurement & reliability",
+      "Resistance training",
+      "Strength & power"
+    ],
+    "venue": "Cartilage",
+    "url": "https://doi.org/10.1177/1947603517695614?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle",
+    "full_text": "",
     "open_access": true
   },
   {
     "year": 2020,
-    "date": "2020-02-07",
-    "title": "This Mum Moves: understanding the impact of an educational intervention supporting women to be active during and after pregnancy",
-    "authors": "Katrina Taylor, A. Foad, James Steele, Rachel Lawson",
-    "type": "dataset",
-    "category": "other",
-    "venue": "http://isrctn.com/",
-    "url": "https://doi.org/10.1186/isrctn10024963",
-    "full_text": "",
-    "open_access": false
-  },
-  {
-    "year": 2020,
-    "date": "2020-01-18",
+    "date": "2020-03-19",
     "title": "The strength-endurance continuum revisited:a critical commentary of the recommendation ofdifferent loading ranges for different muscular adaptations",
     "authors": "James Fisher, James Steele, Patroklos Androulakis‐Korakakis, Dave Smith, Paulo Gentil, Jürgen Gießing",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Strength & power"
+    ],
     "venue": "Journal of Trainology",
     "url": "https://doi.org/10.17338/trainology.9.1_1",
     "full_text": "https://www.jstage.jst.go.jp/article/trainology/9/1/9_1/_pdf",
     "open_access": true
-  },
-  {
-    "year": 2019,
-    "date": "2019-12-31",
-    "title": "Eeleven. Innovation Diffusion and Traveling Waves",
-    "authors": "James Steele",
-    "type": "book-chapter",
-    "category": "book",
-    "venue": "",
-    "url": "https://doi.org/10.1525/9780520943360-012",
-    "full_text": "",
-    "open_access": false
   },
   {
     "year": 2019,
@@ -1460,6 +1742,12 @@
     "authors": "Patroklos Androulakis‐Korakakis, James Fisher, James Steele",
     "type": "review",
     "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Resistance training",
+      "Sports performance",
+      "Strength & power"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-019-01236-0",
     "full_text": "https://pure.solent.ac.uk/ws/files/24506816/The_minimum_effective_training_dose_for_1RM_strength.pdf",
@@ -1472,9 +1760,34 @@
     "authors": "Matthew Wade, Steven Mann, Robert Copeland, James Steele",
     "type": "review",
     "category": "article",
+    "topics": [
+      "Body composition & nutrition",
+      "Clinical exercise & rehabilitation",
+      "Evidence synthesis",
+      "Physical activity & public health"
+    ],
     "venue": "Journal of Epidemiology & Community Health",
     "url": "https://doi.org/10.1136/jech-2019-212674",
-    "full_text": "https://pure.solent.ac.uk/en/publications/d14bc3f6-374b-4b76-b2f6-212a131d467a",
+    "full_text": "",
+    "preprint_url": "https://doi.org/10.31236/osf.io/yebmr",
+    "open_access": true
+  },
+  {
+    "year": 2019,
+    "date": "2019-04-02",
+    "title": "Heart rate, energy expenditure, and affective responses from children participating in trampoline park sessions compared with traditional extra-curricular sports clubs",
+    "authors": "Emily Budzynski‐Seymour, Matthew Wade, Rachel Lawson, Alex Lucas, James Steele",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Exercise physiology",
+      "Youth"
+    ],
+    "venue": "The Journal of Sports Medicine and Physical Fitness",
+    "url": "https://doi.org/10.23736/S0022-4707.18.09351-9",
+    "full_text": "",
+    "preprint_url": "https://doi.org/10.31236/osf.io/t6vpz",
     "open_access": true
   },
   {
@@ -1484,6 +1797,12 @@
     "authors": "Emily Budzynski‐Seymour, Samuel Turvey, Juliet Paterson, Michelle Jones, James Steele",
     "type": "preprint",
     "category": "preprint",
+    "topics": [
+      "Behaviour & perception",
+      "Evidence synthesis",
+      "Physical activity & public health",
+      "Youth"
+    ],
     "venue": "",
     "url": "https://doi.org/10.31234/osf.io/kh37d",
     "full_text": "",
@@ -1491,50 +1810,20 @@
   },
   {
     "year": 2019,
-    "date": "2019-09-10",
-    "title": "Comparisons of Resistance Training and “Cardio” Exercise Modalities as Countermeasures to Microgravity-Induced Physical Deconditioning: New Perspectives and Lessons Learned From Terrestrial Studies",
+    "date": "2019-08-26",
+    "title": "Comparisons of Resistance Training and \"Cardio\" Exercise Modalities as Countermeasures to Microgravity-Induced Physical Deconditioning: New Perspectives and Lessons Learned From Terrestrial Studies",
     "authors": "James Steele, Patroklos Androulakis‐Korakakis, Craig Perrin, James Fisher, Paulo Gentil, Christopher B. Scott, André Rosenberger",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Exercise physiology",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Frontiers in Physiology",
     "url": "https://doi.org/10.3389/fphys.2019.01150",
     "full_text": "https://www.frontiersin.org/articles/10.3389/fphys.2019.01150/pdf",
-    "open_access": true
-  },
-  {
-    "year": 2019,
-    "date": "2019-09-03",
-    "title": "Supplemental materials for: A cluster randomised controlled trial to assess the impact of physical education training upon movement competency outcomes",
-    "authors": "James Steele",
-    "type": "supplementary-materials",
-    "category": "other",
-    "venue": "OSF Preprints (OSF Preprints)",
-    "url": "https://osf.io/6sgdu",
-    "full_text": "",
-    "open_access": false
-  },
-  {
-    "year": 2019,
-    "date": "2019-08-16",
-    "title": "Physical activity, mental and personal wellbeing, social isolation, and perceptions of academic attainment and employability in university students: Pooled analysis of the Scottish and British Active Students Surveys",
-    "authors": "Emily Budzynski‐Seymour, Rebecca Conway, Matthew Wade, Alex Lucas, Michelle Jones, Steven Mann, James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31236/osf.io/xaum3",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2019,
-    "date": "2019-08-16",
-    "title": "Effectiveness of Structured Physical Activity (PA) Interventions through the evaluation of PA levels, Adoption, Retention, Maintenance and Adherence Rates – A Systematic Review",
-    "authors": "Nadja Willinger, James Steele, Lou Atkinson, Gary Liguori, Alfonso Jiménez, Steven Mann, Elizabeth Horton",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31236/osf.io/a5fc2",
-    "full_text": "",
+    "preprint_url": "https://doi.org/10.31236/osf.io/s2nr7",
     "open_access": true
   },
   {
@@ -1544,9 +1833,15 @@
     "authors": "Alexander Hammond, Craig Perrin, James Steele, Jürgen Gießing, Paulo Gentil, James Fisher",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Low back pain",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "PeerJ",
     "url": "https://doi.org/10.7717/peerj.7337",
     "full_text": "",
+    "preprint_url": "https://doi.org/10.7287/peerj.preprints.27599",
     "open_access": true
   },
   {
@@ -1556,7 +1851,11 @@
     "authors": "Emily Budzynski‐Seymour, James Fisher, Jürgen Gießing, Paulo Gentil, James Steele",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
+    "topics": [
+      "Measurement & reliability",
+      "Muscle hypertrophy"
+    ],
+    "venue": "SportRχiv",
     "url": "https://doi.org/10.31236/osf.io/ujktq",
     "full_text": "",
     "open_access": true
@@ -1568,58 +1867,30 @@
     "authors": "Steven Mann, Alex Lucas, Matthew Wade, Jack Shakespeare, Emily Budzynski‐Seymour, Rebecca Conway, James Steele",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
+    "topics": [
+      "Youth"
+    ],
+    "venue": "SportRχiv",
     "url": "https://doi.org/10.31236/osf.io/nxpr2",
     "full_text": "",
     "open_access": true
   },
   {
     "year": 2019,
-    "date": "2019-06-12",
-    "title": "Evidence of a Ceiling Effect for Training Volume in Muscle Hypertrophy and Strength in Trained Men—Less is More?",
-    "authors": "Matheus Barbalho, Víctor Silveira Coswig, James Steele, James Fisher, Jürgen Gießing, Paulo Gentil",
+    "date": "2019-07-05",
+    "title": "A mixed-studies systematic review and meta-analysis of school-based interventions to promote physical activity and/or reduce sedentary time in children",
+    "authors": "Michelle Jones, Emmanuel Defever, Ayland Lestinger, James Steele, Kelly A. Mackintosh",
     "type": "article",
     "category": "article",
-    "venue": "International Journal of Sports Physiology and Performance",
-    "url": "https://doi.org/10.1123/ijspp.2018-0914",
-    "full_text": "",
-    "open_access": false
-  },
-  {
-    "year": 2019,
-    "date": "2019-06-01",
-    "title": "Training for Strength vs. Training for Sport Performance",
-    "authors": "James Steele",
-    "type": "conference-abstract",
-    "category": "other",
-    "venue": "Medicine & Science in Sports & Exercise",
-    "url": "https://doi.org/10.1249/01.mss.0000562745.28256.e1",
-    "full_text": "",
-    "open_access": false
-  },
-  {
-    "year": 2019,
-    "date": "2019-06-01",
-    "title": "Examining the Effects of Exercise Referral Schemes on Changes in Physical Activity Levels.",
-    "authors": "Nikita Rowley, James Steele, Steve Mann, Gary Liguori, Alfonso Jiménez, Elizabeth Horton",
-    "type": "article",
-    "category": "article",
-    "venue": "Medicine & Science in Sports & Exercise",
-    "url": "https://doi.org/10.1249/01.mss.0000560887.44102.02",
-    "full_text": "",
+    "topics": [
+      "Evidence synthesis",
+      "Physical activity & public health",
+      "Youth"
+    ],
+    "venue": "Journal of Sport and Health Science",
+    "url": "https://doi.org/10.1016/j.jshs.2019.06.009",
+    "full_text": "https://www.sciencedirect.com/science/article/pii/S2095254619300808/pdfft?md5=fc66e0155103b04f97b8b52b8bed53a0&pid=1-s2.0-S2095254619300808-main.pdf",
     "open_access": true
-  },
-  {
-    "year": 2019,
-    "date": "2019-06-01",
-    "title": "Evidence Of A Ceiling Effect For Training Volume In Muscle Hypertrophy And Strength In Trained Men",
-    "authors": "Matheus Barbalho, Víctor Silveira Coswig, James Steele, James Fisher, Jürgen Gießing, Paulo Gentil",
-    "type": "conference-abstract",
-    "category": "other",
-    "venue": "Medicine & Science in Sports & Exercise",
-    "url": "https://doi.org/10.1249/01.mss.0000560623.06842.fa",
-    "full_text": "",
-    "open_access": false
   },
   {
     "year": 2019,
@@ -1628,32 +1899,13 @@
     "authors": "Arthur Ferreira do Vale, Juliana C. Alves, Paulo César Brandão Veiga Jardim, Thiago Veiga Jardim, James Steele, James P. Fisher, Paulo Gentil",
     "type": "conference-abstract",
     "category": "other",
+    "topics": [
+      "Exercise physiology",
+      "Resistance training",
+      "Women & sex differences"
+    ],
     "venue": "Medicine & Science in Sports & Exercise",
     "url": "https://doi.org/10.1249/01.mss.0000561986.36944.8b",
-    "full_text": "",
-    "open_access": false
-  },
-  {
-    "year": 2019,
-    "date": "2019-05-30",
-    "title": "Supplemental materials for preprint: “Just one more rep!” – Ability to predict proximity to momentary failure in resistance trained persons: A deception study of predictive ability during the gestalt experience of resistance training.",
-    "authors": "James Steele",
-    "type": "supplementary-materials",
-    "category": "other",
-    "venue": "Open MIND",
-    "url": "https://doi.org/10.17605/osf.io/s9yqk",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2019,
-    "date": "2019-05-09",
-    "title": "RETRACTED ARTICLE: Single joint exercises do not provide benefits in performance and anthropometric changes in recreational bodybuilders",
-    "authors": "Matheus Barbalho, Víctor Silveira Coswig, Rodolfo Raiol, James Fisher, James Steele, Antonino Bianco, Paulo Gentil",
-    "type": "article",
-    "category": "article",
-    "venue": "European Journal of Sport Science",
-    "url": "https://doi.org/10.1080/17461391.2019.1611932",
     "full_text": "",
     "open_access": false
   },
@@ -1662,34 +1914,14 @@
     "date": "2019-04-24",
     "title": "Scales and Accompanying Scripts for Assessing Perceived Effort and Perceived Discomfort as Differentiated Perceptions",
     "authors": "James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "OSF Preprints (OSF Preprints)",
+    "type": "materials",
+    "category": "other",
+    "topics": [
+      "Behaviour & perception",
+      "Metascience & open science"
+    ],
+    "venue": "Open Science Framework",
     "url": "https://doi.org/10.17605/osf.io/ufvy8",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2019,
-    "date": "2019-04-15",
-    "title": "Effort and duration matched ‘High Intensity Interval Training’ using cycle ergometry compared to leg press resistance training",
-    "authors": "Marcelo Henrique Silva, Cláudio André Barbosa de Lira, James Steele, James Fisher, João Felipe Mota, Aline Corado Gomes, Paulo Gentil",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31236/osf.io/gkxaf",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2019,
-    "date": "2019-04-02",
-    "title": "Heart rate, energy expenditure, and affective responses from children participating in trampoline park sessions compared with traditional extra-curricular sports clubs",
-    "authors": "Emily Budzynski‐Seymour, Matthew Wade, Rachel Lawson, Alex Lucas, James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31236/osf.io/t6vpz",
     "full_text": "",
     "open_access": true
   },
@@ -1700,22 +1932,14 @@
     "authors": "Alexander Gonçalves, Paulo Gentil, James Steele, Jürgen Gießing, Antonio Paoli, James Fisher",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "European Journal of Translational Myology",
     "url": "https://doi.org/10.4081/ejtm.2019.8052",
     "full_text": "https://www.pagepressjournals.org/index.php/bam/article/download/8052/7981",
     "open_access": true
-  },
-  {
-    "year": 2019,
-    "date": "2019-02-14",
-    "title": "Is interval training the magic bullet for fat loss? A systematic review and meta-analysis comparing moderate-intensity continuous training with high-intensity interval training (HIIT)",
-    "authors": "Ricardo Borges Viana, João Pedro Araújo Naves, Víctor Silveira Coswig, Claudio André Barbosa de Lira, James Steele, James Fisher, Paulo Gentil",
-    "type": "review",
-    "category": "article",
-    "venue": "British Journal of Sports Medicine",
-    "url": "https://doi.org/10.1136/bjsports-2018-099928",
-    "full_text": "",
-    "open_access": false
   },
   {
     "year": 2019,
@@ -1724,6 +1948,10 @@
     "authors": "Estêvão Rios Monteiro, Pablo B. Costa, Victor Gonçalves Corrêa Neto, Barbara J. Hoogenboom, James Steele, Jefferson da Silva Novaes",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Exercise physiology",
+      "Strength & power"
+    ],
     "venue": "The Journal of Strength and Conditioning Research",
     "url": "https://doi.org/10.1519/jsc.0000000000003077",
     "full_text": "",
@@ -1736,7 +1964,13 @@
     "authors": "Samuel Tuvey, James Steele, Elizabeth Horton, Xián Mayo, Gary Liguori, Steven Mann, Nadja Willinger, Alfonso Jiménez",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
+    "topics": [
+      "Evidence synthesis",
+      "Exercise physiology",
+      "Physical activity & public health",
+      "Youth"
+    ],
+    "venue": "SportRχiv",
     "url": "https://doi.org/10.31236/osf.io/4j2sa",
     "full_text": "",
     "open_access": true
@@ -1748,6 +1982,9 @@
     "authors": "Estêvão Rios Monteiro, Jefferson da Silva Novaes, Mark Tyler Cavanaugh, Barbara J. Hoogenboom, James Steele, Jakob L. Vingren, Jakob Škarabot",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Exercise physiology"
+    ],
     "venue": "Journal of Bodywork and Movement Therapies",
     "url": "https://doi.org/10.1016/j.jbmt.2019.01.008",
     "full_text": "https://pure.solent.ac.uk/en/publications/0a944eb3-f0f4-4904-856d-20362b7f2012",
@@ -1760,21 +1997,13 @@
     "authors": "James L. Nuzzo, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Physical activity & public health",
+      "Research methods & statistics"
+    ],
     "venue": "Bulletin of the World Health Organization",
     "url": "https://doi.org/10.2471/blt.19.236398",
     "full_text": "https://doi.org/10.2471/blt.19.236398",
-    "open_access": true
-  },
-  {
-    "year": 2019,
-    "date": "2019-01-12",
-    "title": "The effect of exercise referral schemes upon health and wellbeing: Initial observational insights using individual patient data meta-analysis from The National Referral database",
-    "authors": "Matthew Wade, Steven Mann, Robert Copeland, James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31236/osf.io/yebmr",
-    "full_text": "",
     "open_access": true
   },
   {
@@ -1784,7 +2013,10 @@
     "authors": "James Steele, Matthew Wade, Marie Polley, Robert Copeland, Stuart Stokes, Steven Mann",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
+    "topics": [
+      "Physical activity & public health"
+    ],
+    "venue": "SportRχiv",
     "url": "https://doi.org/10.31236/osf.io/rgywq",
     "full_text": "",
     "open_access": true
@@ -1796,7 +2028,10 @@
     "authors": "Emily Budzynski‐Seymour, James Steele, David S. Jessop, Louis Langdown",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
+    "topics": [
+      "Sports performance"
+    ],
+    "venue": "SportRχiv",
     "url": "https://doi.org/10.31236/osf.io/2vams",
     "full_text": "",
     "open_access": true
@@ -1808,43 +2043,46 @@
     "authors": "Wanderson Santos, Carlos Alexandre Vieira, Martim Bottaro, Vitória A. Nunes, Rodrigo Ramírez‐Campillo, James Steele, James Fisher, Paulo Gentil",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Exercise physiology",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "The Journal of Strength and Conditioning Research",
     "url": "https://doi.org/10.1519/jsc.0000000000002915",
     "full_text": "",
     "open_access": false
   },
   {
-    "year": 2019,
-    "date": "2019-01-03",
-    "title": "The ‘Lift Big-Get Big’ culture: Impact of images of hyper-muscular bodies and training information upon resistance training beliefs in males",
-    "authors": "Elio Martino, James Fisher, Brian Wink, Dave Smith, James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31236/osf.io/7pbfc",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2019,
-    "date": "2019-01-03",
+    "year": 2020,
+    "date": "2020-02-04",
     "title": "Moving Sport and Exercise Science Forward: A Call for the Adoption of More Transparent Research Practices",
-    "authors": "Aaron R. Caldwell, Andrew D. Vigotsky, Gregory Lee Nuckols, Ian D. Boardley, Julia Schmidt, Matthew S. Tenan, Jakob Škarabot, Rémi Radel, Mitchell Naughton, Brad J. Schöenfeld, Johan Lahti, Rosie Twomey, Keith R. Lohse, David Thomas Mellor, Andreas Kreutzer, Ian M. Lahart, John P. Mills, J-B Morin, Brad P. Dieter, Zad Rafi, Brooke Bouza, Zachary Zenko, Jason L. Neva, Richard Severin, Matthieu P. Boisgontier, James Steele, David Nunan, Bret Contreras, Cody T. Haun, Megan E. Rosa‐Caldwell, Brandon M. Roberts, Boris Cheval, Matthew W. Miller, Duane Victor Knudson, Sue Peters, Israel Halperin",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31236/osf.io/fxe7a",
-    "full_text": "/publications/caldwell-et-al-2019-transparent-research-practices-preprint.pdf",
-    "full_text_label": "Preprint PDF",
+    "authors": "Aaron R. Caldwell, Andrew D. Vigotsky, Matthew S. Tenan, Rémi Radel, David T. Mellor, Andreas Kreutzer, Ian M. Lahart, John P. Mills, Matthieu P. Boisgontier, Consortium for Transparency in Exercise Science (COTES) Collaborators",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Metascience & open science"
+    ],
+    "venue": "Sports Medicine",
+    "url": "https://doi.org/10.1007/s40279-019-01227-1?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle",
+    "full_text": "",
+    "preprint_url": "https://doi.org/10.31236/osf.io/fxe7a",
     "open_access": true
   },
   {
     "year": 2019,
-    "date": "2019-01-02",
+    "date": "2019-02-01",
+    "date_precision": "month",
     "title": "The Effect of In-Season Traditional and Explosive Resistance Training Programs on Strength, Jump Height, and Speed in Recreational Soccer Players",
     "authors": "Brad Griffiths, James Grant, Louis Langdown, Paulo Gentil, James Fisher, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Resistance training",
+      "Sports performance",
+      "Strength & power"
+    ],
     "venue": "Research Quarterly for Exercise and Sport",
     "url": "https://doi.org/10.1080/02701367.2018.1563276",
     "full_text": "",
@@ -1857,6 +2095,11 @@
     "authors": "Estêvão Rios Monteiro, James Steele, Jefferson da Silva Novaes, Amanda Brown, Mark Tyler Cavanaugh, Jakob L. Vingren, David G. Behm",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Exercise physiology",
+      "Strength & power",
+      "Women & sex differences"
+    ],
     "venue": "The Journal of Sports Medicine and Physical Fitness",
     "url": "https://doi.org/10.23736/s0022-4707.17.08062-8",
     "full_text": "",
@@ -1869,6 +2112,11 @@
     "authors": "Estêvão Rios Monteiro, Jakob L. Vingren, Victor Gonçalves Corrêa Neto, Eduardo Borba Neves, James Steele, Jefferson da Silva Novaes",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Measurement & reliability",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "International journal of exercise science",
     "url": "https://doi.org/10.70252/rypo6126",
     "full_text": "",
@@ -1881,6 +2129,13 @@
     "authors": "Samuel Tuvey, James Steele, Elizabeth Horton, Xián Mayo, Gary Liguori, Stephen Mann, Nadja Willinger, Alfonso Jiménez",
     "type": "review",
     "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Exercise physiology",
+      "Physical activity & public health",
+      "Research methods & statistics",
+      "Youth"
+    ],
     "venue": "Pure (Coventry University)",
     "url": "https://pureportal.coventry.ac.uk/en/publications/9a20dc33-911a-45fb-8ae4-6859ad86cfb3",
     "full_text": "",
@@ -1888,14 +2143,17 @@
   },
   {
     "year": 2018,
-    "date": "2018-11-28",
-    "title": "Effects of Adding Single Joint Exercises to a Resistance Training Programme in Trained Women",
-    "authors": "Matheus Barbalho, Víctor Silveira Coswig, Rodolfo Raiol, James Steele, James Fisher, Antonio Paoli, Paulo Gentil",
-    "type": "article",
-    "category": "article",
-    "venue": "Sports",
-    "url": "https://doi.org/10.3390/sports6040160",
-    "full_text": "https://www.mdpi.com/2075-4663/6/4/160/pdf?version=1543399662",
+    "date": "2018-12-01",
+    "title": "Initial designs of wheelchair rugby gloves",
+    "authors": "Sara Bragança, Miguel Carvalho, James Steele, S Passman, Simeon Gill, MIgnacio Castellucci, Pedro Arezes",
+    "type": "conference-paper",
+    "category": "other",
+    "topics": [
+      "Sports performance"
+    ],
+    "venue": "Advances in intelligent systems and computing",
+    "url": "https://doi.org/10.1088/1757-899X/459/1/012074",
+    "full_text": "https://iopscience.iop.org/article/10.1088/1757-899X/459/1/012074/pdf",
     "open_access": true
   },
   {
@@ -1905,7 +2163,10 @@
     "authors": "Craig Perrin, James Steele",
     "type": "preprint",
     "category": "preprint",
-    "venue": "",
+    "topics": [
+      "Research methods & statistics"
+    ],
+    "venue": "SportRχiv",
     "url": "https://doi.org/10.31236/osf.io/9q5hm",
     "full_text": "",
     "open_access": true
@@ -1917,45 +2178,15 @@
     "authors": "James Fisher, C Stuart, James Steele, Paulo Gentil, Jürgen Gießing",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Low back pain",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "PeerJ",
     "url": "https://doi.org/10.7717/peerj.6001",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2018,
-    "date": "2018-11-16",
-    "title": "One Year Surveillance of Body Mass Index and Cardiorespiratory Fitness in Primary School Children in North West England and the Impact of School Deprivation Level",
-    "authors": "Steven Mann, Matthew Wade, Michelle Jones, Gavin Sandercock, Chris Beedie, James Steele",
-    "type": "preprint",
-    "category": "preprint",
-    "venue": "",
-    "url": "https://doi.org/10.31236/osf.io/jd9pv",
-    "full_text": "",
-    "open_access": true
-  },
-  {
-    "year": 2018,
-    "date": "2018-11-02",
-    "title": "Does the addition of single joint exercises to a resistance training program improve changes in performance and anthropometric measures in untrained men?",
-    "authors": "Matheus Barbalho, Víctor Silveira Coswig, Rodolfo Raiol, James Steele, James Fisher, Antonio Paoli, Antonino Bianco, Paulo Gentil",
-    "type": "article",
-    "category": "article",
-    "venue": "European Journal of Translational Myology",
-    "url": "https://doi.org/10.4081/ejtm.2018.7827",
-    "full_text": "https://www.pagepressjournals.org/index.php/bam/article/download/7827/7612",
-    "open_access": true
-  },
-  {
-    "year": 2018,
-    "date": "2018-10-25",
-    "title": "Evidence for an Upper Threshold for Resistance Training Volume in Trained Women",
-    "authors": "Matheus Barbalho, Víctor Silveira Coswig, James Steele, James Fisher, Antonio Paoli, Paulo Gentil",
-    "type": "article",
-    "category": "article",
-    "venue": "Medicine & Science in Sports & Exercise",
-    "url": "https://doi.org/10.1249/mss.0000000000001818",
-    "full_text": "",
+    "full_text": "https://peerj.com/articles/6001.pdf",
     "open_access": true
   },
   {
@@ -1965,6 +2196,12 @@
     "authors": "Arthur Ferreira do Vale, Juliana Alves Carneiro, Paulo César Brandão Veiga Jardim, Thiago Veiga Jardim, James Steele, James Fisher, Paulo Gentil",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Exercise physiology",
+      "Resistance training",
+      "Women & sex differences"
+    ],
     "venue": "Journal of Translational Medicine",
     "url": "https://doi.org/10.1186/s12967-018-1615-3",
     "full_text": "https://translational-medicine.biomedcentral.com/counter/pdf/10.1186/s12967-018-1615-3",
@@ -1977,6 +2214,11 @@
     "authors": "Patroklos Androulakis‐Korakakis, James Fisher, Panagiotis Kolokotronis, Paulo Gentil, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Resistance training",
+      "Sports performance",
+      "Strength & power"
+    ],
     "venue": "Sports",
     "url": "https://doi.org/10.3390/sports6030086",
     "full_text": "https://www.mdpi.com/2075-4663/6/3/86/pdf?version=1535617063",
@@ -1984,11 +2226,16 @@
   },
   {
     "year": 2018,
-    "date": "2018-08-01",
+    "date": "2018-08-02",
     "title": "The effects of exercise referral schemes in the United Kingdom in those with cardiovascular, mental health, and musculoskeletal disorders: a preliminary systematic review",
     "authors": "Nikita Rowley, Steve Mann, James Steele, Elizabeth Horton, Alfonso Jiménez",
     "type": "review",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Evidence synthesis",
+      "Physical activity & public health"
+    ],
     "venue": "BMC Public Health",
     "url": "https://doi.org/10.1186/s12889-018-5868-9",
     "full_text": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-018-5868-9",
@@ -2001,6 +2248,12 @@
     "authors": "Luke Carlson, Brandon Jonker, Wayne L. Westcott, James Steele, James Fisher",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Body composition & nutrition",
+      "Muscle hypertrophy",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Applied Physiology Nutrition and Metabolism",
     "url": "https://doi.org/10.1139/apnm-2018-0376",
     "full_text": "",
@@ -2013,6 +2266,11 @@
     "authors": "Steven Mann, Matthew Wade, James Fisher, Jürgen Gießing, Paulo Gentil, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Measurement & reliability",
+      "Physical activity & public health"
+    ],
     "venue": "Journal of the American Medical Directors Association",
     "url": "https://doi.org/10.1016/j.jamda.2018.06.005",
     "full_text": "",
@@ -2023,8 +2281,12 @@
     "date": "2018-07-16",
     "title": "Effort, Discomfort, Group III/IV Afferents, Bioenergetics, and Motor Unit Recruitment",
     "authors": "James Steele, James Fisher",
-    "type": "article",
+    "type": "letter",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Exercise physiology"
+    ],
     "venue": "Medicine & Science in Sports & Exercise",
     "url": "https://doi.org/10.1249/mss.0000000000001605",
     "full_text": "",
@@ -2037,22 +2299,15 @@
     "authors": "Patroklos Androulakis‐Korakakis, Paulo Gentil, James Fisher, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Low back pain",
+      "Sports performance",
+      "Strength & power"
+    ],
     "venue": "The Journal of Strength and Conditioning Research",
     "url": "https://doi.org/10.1519/jsc.0000000000002722",
     "full_text": "",
     "open_access": false
-  },
-  {
-    "year": 2018,
-    "date": "2018-06-27",
-    "title": "Peer Review #1 of \"Methods matter: the relationship between strength and hypertrophy depends on methods of measurement and analysis (v0.2)\"",
-    "authors": "James Steele",
-    "type": "peer-review",
-    "category": "other",
-    "venue": "",
-    "url": "https://doi.org/10.7287/peerj.5071v0.2/reviews/1",
-    "full_text": "",
-    "open_access": true
   },
   {
     "year": 2018,
@@ -2061,6 +2316,11 @@
     "authors": "Paulo Gentil, James Fisher, James Steele, Mário Hebling Campos, Marcelo Henrique Silva, Antonio Paoli, Jürgen Gießing, Martim Bottaro",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Muscle hypertrophy",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "PeerJ",
     "url": "https://doi.org/10.7717/peerj.5020",
     "full_text": "https://peerj.com/articles/5020.pdf",
@@ -2068,23 +2328,17 @@
   },
   {
     "year": 2018,
-    "date": "2018-05-17",
-    "title": "Influence of Adding Single-Joint Exercise to a Multijoint Resistance Training Program in Untrained Young Women [RETRACTED]",
-    "authors": "Matheus Barbalho, Paulo Gentil, Rodolfo Raiol, James Fisher, James Steele, Víctor Silveira Coswig",
-    "type": "article",
-    "category": "article",
-    "venue": "The Journal of Strength and Conditioning Research",
-    "url": "https://doi.org/10.1519/jsc.0000000000002624",
-    "full_text": "",
-    "open_access": false
-  },
-  {
-    "year": 2018,
     "date": "2018-05-01",
     "title": "Male And Female Fatigue Responses To Heavier- And Lighter-load Lumbar Extension Resistance Training",
-    "authors": "James Fisher, James Steele, C Stuart",
+    "authors": "James Fisher, James Steele, Charlotte Stuart",
     "type": "conference-abstract",
     "category": "other",
+    "topics": [
+      "Exercise physiology",
+      "Low back pain",
+      "Resistance training",
+      "Women & sex differences"
+    ],
     "venue": "Medicine & Science in Sports & Exercise",
     "url": "https://doi.org/10.1249/01.mss.0000536455.64946.01",
     "full_text": "",
@@ -2092,11 +2346,15 @@
   },
   {
     "year": 2018,
-    "date": "2018-04-28",
+    "date": "2018-07-27",
     "title": "Periodization for optimizing strength and hypertrophy; the forgotten variables",
     "authors": "James Fisher, James Steele, Dave Smith, Paulo Gentil",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Muscle hypertrophy",
+      "Strength & power"
+    ],
     "venue": "Journal of Trainology",
     "url": "https://doi.org/10.17338/trainology.7.1_10",
     "full_text": "https://www.jstage.jst.go.jp/article/trainology/7/1/7_10/_pdf",
@@ -2109,10 +2367,32 @@
     "authors": "Rebecca Conway, Jessica Behennah, James Fisher, Neil Osborne, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Low back pain",
+      "Strength & power"
+    ],
     "venue": "Spine",
     "url": "https://doi.org/10.1097/brs.0000000000002701",
     "full_text": "",
     "open_access": false
+  },
+  {
+    "year": 2018,
+    "date": "2018-03-27",
+    "title": "Programming and supervision of resistance training leads to positive effects on strength and body composition: Results from two randomised trials of community fitness programmes",
+    "authors": "Steven Mann, Alfonso Jimenez, James Steele, Sarah Domone, Matthew Wade, Chris Beedie ",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Body composition & nutrition",
+      "Physical activity & public health",
+      "Resistance training",
+      "Strength & power"
+    ],
+    "venue": "BMC Public Health",
+    "url": "https://doi.org/10.1186/s12889-018-5289-9?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle",
+    "full_text": "https://link.springer.com/content/pdf/10.1186/s12889-018-5289-9.pdf",
+    "open_access": true
   },
   {
     "year": 2018,
@@ -2121,6 +2401,11 @@
     "authors": "Paulo Gentil, Vitor Alves Marques, Josaphat P. P. Neto, Anna C. G. Santos, James Steele, James Fisher, Antonio Paoli, Martim Bottaro",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Body composition & nutrition",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Applied Physiology Nutrition and Metabolism",
     "url": "https://doi.org/10.1139/apnm-2018-0011",
     "full_text": "https://utoronto.scholaris.ca/bitstreams/7b896ab0-a434-4a55-892f-f449d506d9a5/download",
@@ -2130,9 +2415,16 @@
     "year": 2018,
     "date": "2018-03-16",
     "title": "Fatigue and perceptual responses of heavier- and lighter-load isolated lumbar extension resistance exercise in males and females",
-    "authors": "C Stuart, James Steele, Paulo Gentil, Jürgen Gießing, James Fisher",
+    "authors": "Charlotte Stuart, James Steele, Paulo Gentil, Jürgen Gießing, James Fisher",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Exercise physiology",
+      "Low back pain",
+      "Research methods & statistics",
+      "Resistance training"
+    ],
     "venue": "PeerJ",
     "url": "https://doi.org/10.7717/peerj.4523",
     "full_text": "https://peerj.com/articles/4523.pdf",
@@ -2145,9 +2437,13 @@
     "authors": "James Steele, Andrew J. Butler, Zoe Comerford, Jason Dyer, Nathan Lloyd, Joshua Ward, James Fisher, Paulo Gentil, Christopher B. Scott, Hayao Ozaki",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Exercise physiology",
+      "Resistance training"
+    ],
     "venue": "PeerJ",
     "url": "https://doi.org/10.7717/peerj.4403",
-    "full_text": "",
+    "full_text": "https://peerj.com/articles/4403.pdf",
     "open_access": true
   },
   {
@@ -2157,6 +2453,14 @@
     "authors": "Daniel Souza, Ricardo Borges Viana, Víctor Silveira Coswig, James Fisher, James Steele, Paulo Gentil",
     "type": "letter",
     "category": "article",
+    "topics": [
+      "Ageing",
+      "Evidence synthesis",
+      "Muscle hypertrophy",
+      "Resistance training",
+      "Strength & power",
+      "Women & sex differences"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-018-0865-9",
     "full_text": "",
@@ -2169,6 +2473,11 @@
     "authors": "Jessica Behennah, Rebecca Conway, James Fisher, Neil Osborne, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Low back pain",
+      "Strength & power"
+    ],
     "venue": "Clinical Biomechanics",
     "url": "https://doi.org/10.1016/j.clinbiomech.2018.01.023",
     "full_text": "",
@@ -2181,9 +2490,14 @@
     "authors": "James Steele, James Fisher, Craig Perrin, Rebecca Conway, Stewart Bruce‐Low, Dave Smith",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Low back pain",
+      "Strength & power"
+    ],
     "venue": "Disability and Rehabilitation",
     "url": "https://doi.org/10.1080/09638288.2018.1424952",
-    "full_text": "https://pure.solent.ac.uk/ws/files/4620916/Does_Change_in_Lumbar_Extensor_Muscle_Function_Correlate_with_Good_Clinical_Outcome_Pre_print.pdf",
+    "full_text": "",
     "open_access": true
   },
   {
@@ -2193,6 +2507,10 @@
     "authors": "James Steele, Andreas Endres, James Fisher, Paulo Gentil, Jürgen Gießing",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Resistance training"
+    ],
     "venue": "PeerJ",
     "url": "https://doi.org/10.7717/peerj.4105",
     "full_text": "https://peerj.com/articles/4105.pdf",
@@ -2205,6 +2523,12 @@
     "authors": "Alessandro Grainer, Livio Zerbini, Carlo Reggiani, Giuseppe Marcolin, James Steele, Gaspare Pavei, Antonio Paoli",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Body composition & nutrition",
+      "Exercise physiology",
+      "Physical activity & public health"
+    ],
     "venue": "International Journal of Environmental Research and Public Health",
     "url": "https://doi.org/10.3390/ijerph14101235",
     "full_text": "https://www.mdpi.com/1660-4601/14/10/1235/pdf",
@@ -2217,6 +2541,12 @@
     "authors": "James Steele, James Fisher, Stewart Bruce‐Low, Dave Smith, Neil Osborne, David Newell",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Low back pain",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Healthcare",
     "url": "https://doi.org/10.3390/healthcare5040075",
     "full_text": "https://www.mdpi.com/2227-9032/5/4/75/pdf?version=1508152282",
@@ -2229,9 +2559,29 @@
     "authors": "Cauê Vazquez La Scala Teixeira, Yuri Lopes Motoyama, Paulo Henrique Silva Marques de Azevedo, Alexandre Lopes Evangelista, James Steele, Danilo Sales Bocalini",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Muscle hypertrophy",
+      "Resistance training"
+    ],
     "venue": "Clinical Physiology and Functional Imaging",
     "url": "https://doi.org/10.1111/cpf.12476",
     "full_text": "",
+    "open_access": false
+  },
+  {
+    "year": 2017,
+    "date": "2017-10-11",
+    "title": "Brace yourselves, winter is coming: a pilot study of the effects of brief, infrequent cold water immersion upon body composition in young adult males",
+    "authors": "Kieran Wash, Scott Burnet, James Steele",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Body composition & nutrition"
+    ],
+    "venue": "Journal of Evolution and Health",
+    "url": "https://doi.org/10.15310/2334-3591.1067",
+    "full_text": "https://escholarship.org/content/qt49f509s2/qt49f509s2.pdf",
     "open_access": false
   },
   {
@@ -2241,20 +2591,12 @@
     "authors": "James Fisher, James Steele, Paulo Gentil, Jürgen Gießing, Wayne L. Westcott",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Ageing",
+      "Resistance training"
+    ],
     "venue": "Experimental Gerontology",
     "url": "https://doi.org/10.1016/j.exger.2017.09.012",
-    "full_text": "",
-    "open_access": false
-  },
-  {
-    "year": 2017,
-    "date": "2017-09-14",
-    "title": "There are no no-responders to low or high resistance training volumes among older women",
-    "authors": "Matheus Barbalho, Paulo Gentil, Míkel Izquierdo, James Fisher, James Steele, Rodolfo Raiol",
-    "type": "article",
-    "category": "article",
-    "venue": "Experimental Gerontology",
-    "url": "https://doi.org/10.1016/j.exger.2017.09.003",
     "full_text": "",
     "open_access": false
   },
@@ -2265,6 +2607,10 @@
     "authors": "James Fisher, Adele Sales, Luke Carlson, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Resistance training"
+    ],
     "venue": "The Journal of Sports Medicine and Physical Fitness",
     "url": "https://doi.org/10.23736/s0022-4707.16.06434-3",
     "full_text": "",
@@ -2277,6 +2623,9 @@
     "authors": "Sara Bragança, James Steele, Simeon Gill, Miguel Carvalho, Pedro Arezes",
     "type": "conference-paper",
     "category": "other",
+    "topics": [
+      "Sports performance"
+    ],
     "venue": "Advances in intelligent systems and computing",
     "url": "https://doi.org/10.1007/978-3-319-60597-5_36",
     "full_text": "https://pure.solent.ac.uk/en/publications/7faf5489-00ff-4ca2-8e87-e20f704a2f0c",
@@ -2284,11 +2633,18 @@
   },
   {
     "year": 2017,
-    "date": "2017-06-01",
+    "date": "2017-06-22",
     "title": "Intra-Subject Variability of 5 Km Time Trial Performance Completed by Competitive Trained Runners",
     "authors": "James Fisher, Thomas J. Clark, Katherine Newman-Judd, Josh T. Arnold, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Exercise physiology",
+      "Measurement & reliability",
+      "Research methods & statistics",
+      "Sports performance"
+    ],
     "venue": "Journal of Human Kinetics",
     "url": "https://doi.org/10.1515/hukin-2017-0055",
     "full_text": "https://content.sciendo.com/downloadpdf/journals/hukin/57/1/article-p139.pdf",
@@ -2301,6 +2657,11 @@
     "authors": "Paulo Gentil, James Steele, James Fisher",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Body composition & nutrition",
+      "Clinical exercise & rehabilitation",
+      "Resistance training"
+    ],
     "venue": "Clinical Nutrition",
     "url": "https://doi.org/10.1016/j.clnu.2017.05.024",
     "full_text": "https://pure.solent.ac.uk/ws/files/4334958/Why_intensity_is_not_a_bad_word_benefits_and_practical_aspects_of_high_effort_resistance_training_to_the_older_Pre_print.pdf",
@@ -2309,10 +2670,14 @@
   {
     "year": 2017,
     "date": "2017-04-21",
-    "title": "Effects of Exercise Modality During Additional “High-Intensity Interval Training” on Aerobic Fitness and Strength in Powerlifting and Strongman Athletes",
+    "title": "Effects of Exercise Modality During Additional \"High-Intensity Interval Training\" on Aerobic Fitness and Strength in Powerlifting and Strongman Athletes",
     "authors": "Patroklos Androulakis‐Korakakis, Louis Langdown, Adam Lewis, James Fisher, Paulo Gentil, Antonio Paoli, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Sports performance",
+      "Strength & power"
+    ],
     "venue": "The Journal of Strength and Conditioning Research",
     "url": "https://doi.org/10.1519/jsc.0000000000001809",
     "full_text": "",
@@ -2325,6 +2690,11 @@
     "authors": "Paulo Gentil, Claudio André Barbosa de Lira, Suedi Gonçalves Cardoso Filho, Cauê Vazquez La Scala Teixeira, James Steele, James Fisher, Juliana Alves Carneiro, Mário Hebling Campos",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Resistance training",
+      "Strength & power",
+      "Women & sex differences"
+    ],
     "venue": "European Journal of Applied Physiology",
     "url": "https://doi.org/10.1007/s00421-017-3614-0",
     "full_text": "",
@@ -2337,6 +2707,10 @@
     "authors": "James Steele, James Fisher, Martin Skivington, Chris Dunn, Josh T. Arnold, Garry A. Tew, Alan M. Batterham, David Nunan, Jamie M. O’Driscoll, Steven Mann, Chris Beedie, Simon Jobson, Dave Smith, Andrew D. Vigotsky, Stuart M. Phillips, Paul A. Estabrooks, Richard A. Winett",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Physical activity & public health",
+      "Resistance training"
+    ],
     "venue": "BMC Public Health",
     "url": "https://doi.org/10.1186/s12889-017-4209-8",
     "full_text": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-017-4209-8",
@@ -2344,11 +2718,17 @@
   },
   {
     "year": 2017,
-    "date": "2017-03-21",
+    "date": "2017-05-09",
     "title": "Acute fatigue, and perceptual responses to resistance exercise",
     "authors": "James Fisher, Joshua Farrow, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Exercise physiology",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Muscle & Nerve",
     "url": "https://doi.org/10.1002/mus.25645",
     "full_text": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mus.25645",
@@ -2361,6 +2741,10 @@
     "authors": "Craig Perrin, Kazunori Nosaka, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Exercise physiology"
+    ],
     "venue": "Journal of sport and health science/Journal of Sport and Health Science",
     "url": "https://doi.org/10.1016/j.jshs.2017.03.003",
     "full_text": "https://www.sciencedirect.com/science/article/pii/S2095254617300315/pdf",
@@ -2368,11 +2752,19 @@
   },
   {
     "year": 2017,
-    "date": "2017-01-18",
+    "date": "2017-01-03",
     "title": "Is There Any Practical Application of Meta-Analytical Results in Strength Training?",
     "authors": "Paulo Gentil, Antonio Arruda, Daniel Souza, Jürgen Gießing, Antonio Paoli, James Fisher, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Exercise physiology",
+      "Muscle hypertrophy",
+      "Research methods & statistics",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Frontiers in Physiology",
     "url": "https://doi.org/10.3389/fphys.2017.00001",
     "full_text": "https://www.frontiersin.org/articles/10.3389/fphys.2017.00001/pdf",
@@ -2380,23 +2772,31 @@
   },
   {
     "year": 2017,
-    "date": "2017-01-03",
+    "date": "2017-04-01",
+    "date_precision": "month",
     "title": "Clarity in reporting terminology and definitions of set endpoints in resistance training",
     "authors": "James Steele, James Fisher, Jürgen Gießing, Paulo Gentil",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Metascience & open science",
+      "Resistance training"
+    ],
     "venue": "Muscle & Nerve",
     "url": "https://doi.org/10.1002/mus.25557",
     "full_text": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mus.25557",
     "open_access": true
   },
   {
-    "year": 2017,
-    "date": "2017-01-01",
+    "year": 2018,
+    "date": "2018-01-12",
     "title": "The ‘Slingshot’ can enhance volume-loads during performance of bench press using unaided maximal loads",
     "authors": "Jordan Niblock, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Strength & power"
+    ],
     "venue": "Journal of Trainology",
     "url": "https://doi.org/10.17338/trainology.6.2_47",
     "full_text": "https://www.jstage.jst.go.jp/article/trainology/6/2/6_47/_pdf",
@@ -2409,18 +2809,29 @@
     "authors": "James Steele, Kristin Raubold, Wolfgang Kemmler, James Fisher, Paulo Gentil, Jürgen Gießing",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Ageing",
+      "Body composition & nutrition",
+      "Physical activity & public health",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "BioMed Research International",
     "url": "https://doi.org/10.1155/2017/2541090",
     "full_text": "http://downloads.hindawi.com/journals/bmri/2017/2541090.pdf",
     "open_access": true
   },
   {
-    "year": 2017,
-    "date": "2017-01-01",
+    "year": 2018,
+    "date": "2018-01-12",
     "title": "Six weeks of knee extensor isometric training improves soccer related skills in female soccer players",
     "authors": "Leah Bimson, Louis Langdown, James Fisher, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Sports performance",
+      "Women & sex differences"
+    ],
     "venue": "Journal of Trainology",
     "url": "https://doi.org/10.17338/trainology.6.2_52",
     "full_text": "https://www.jstage.jst.go.jp/article/trainology/6/2/6_52/_pdf",
@@ -2430,9 +2841,15 @@
     "year": 2017,
     "date": "2017-01-01",
     "title": "Letter to the Editor; Resistance training and its impact on psychological health in participants of corporate wellness programs",
-    "authors": "Discover Strength, 10160 6th Avenue North, Suite A, Plymouth, Minnesota 55441, USA, Laurie A. Carlson, Pip Fisher, James Steele",
+    "authors": "Luke Carlson, James Fisher, James Steele",
     "type": "letter",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Research methods & statistics",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "International Journal of Sport Exercise and Health Research",
     "url": "https://doi.org/10.31254/sportmed.1201",
     "full_text": "https://doi.org/10.31254/sportmed.1201",
@@ -2445,6 +2862,9 @@
     "authors": "Paulo Gentil, Fabrício Boscolo Del Vecchio, James Steele",
     "type": "editorial",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation"
+    ],
     "venue": "BioMed Research International",
     "url": "https://doi.org/10.1155/2017/1460262",
     "full_text": "http://downloads.hindawi.com/journals/bmri/2017/1460262.pdf",
@@ -2457,18 +2877,26 @@
     "authors": "James Steele",
     "type": "article",
     "category": "article",
-    "venue": "Journal of Evolution and Health An Ancestral Health Society Publication",
+    "topics": [
+      "Low back pain"
+    ],
+    "venue": "Journal of Evolution and Health",
     "url": "https://doi.org/10.15310/2334-3591.1007",
     "full_text": "https://escholarship.org/content/qt12x3g0qs/qt12x3g0qs.pdf?t=q3qtr7",
     "open_access": true
   },
   {
-    "year": 2016,
-    "date": "2016-12-24",
+    "year": 2017,
+    "date": "2017-04-17",
     "title": "Heavier and lighter load resistance training to momentary failure produce similar increases in strength with differing degrees of discomfort",
-    "authors": "James Fisher, James Steele",
+    "authors": "James Fisher, Max Ironside, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Muscle & Nerve",
     "url": "https://doi.org/10.1002/mus.25537",
     "full_text": "",
@@ -2479,8 +2907,13 @@
     "date": "2016-12-20",
     "title": "Dose-Response of 1, 3, and 5 Sets of Resistance Exercise on Strength, Local Muscular Endurance, and Hypertrophy",
     "authors": "Paulo Gentil, James Fisher, James Steele, Antonio Arruda",
-    "type": "article",
+    "type": "letter",
     "category": "article",
+    "topics": [
+      "Muscle hypertrophy",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "The Journal of Strength and Conditioning Research",
     "url": "https://doi.org/10.1519/jsc.0000000000001231",
     "full_text": "",
@@ -2489,10 +2922,18 @@
   {
     "year": 2016,
     "date": "2016-12-19",
-    "title": "Authors’ Reply to Ribeiro et al.: “A Review of the Acute Effects and Long-Term Adaptations of Single- and Multi-Joint Exercises During Resistance Training”",
+    "title": "Authors’ Reply to Ribeiro et al.: \"A Review of the Acute Effects and Long-Term Adaptations of Single- and Multi-Joint Exercises During Resistance Training\"",
     "authors": "Paulo Gentil, James Steele, James Fisher",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Exercise physiology",
+      "Muscle hypertrophy",
+      "Research methods & statistics",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-016-0665-z",
     "full_text": "",
@@ -2503,8 +2944,13 @@
     "date": "2016-11-04",
     "title": "Reliability of meta-analyses to evaluate resistance training programmes",
     "authors": "Antonio Arruda, Daniel Souza, James Steele, James Fisher, Jürgen Gießing, Paulo Gentil",
-    "type": "article",
+    "type": "letter",
     "category": "article",
+    "topics": [
+      "Evidence synthesis",
+      "Measurement & reliability",
+      "Resistance training"
+    ],
     "venue": "Journal of Sports Sciences",
     "url": "https://doi.org/10.1080/02640414.2016.1243799",
     "full_text": "",
@@ -2517,6 +2963,13 @@
     "authors": "James Steele, James Fisher, Ari R. Assunção, Martim Bottaro, Paulo Gentil",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Body composition & nutrition",
+      "Research methods & statistics",
+      "Resistance training",
+      "Strength & power",
+      "Youth"
+    ],
     "venue": "Applied Physiology Nutrition and Metabolism",
     "url": "https://doi.org/10.1139/apnm-2016-0418",
     "full_text": "https://utoronto.scholaris.ca/bitstreams/396223fe-1863-4fb5-a60c-943ea301e464/download",
@@ -2529,6 +2982,13 @@
     "authors": "Paulo Gentil, James Fisher, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Exercise physiology",
+      "Low back pain",
+      "Muscle hypertrophy",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-016-0627-5",
     "full_text": "",
@@ -2541,6 +3001,10 @@
     "authors": "Rebecca Conway, Jessica Behennah, James Fisher, Neil Osborne, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Low back pain",
+      "Strength & power"
+    ],
     "venue": "Healthcare",
     "url": "https://doi.org/10.3390/healthcare4030070",
     "full_text": "https://www.mdpi.com/2227-9032/4/3/70/pdf?version=1474276626",
@@ -2553,9 +3017,30 @@
     "authors": "James Fisher, James Steele, Dave Smith",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Exercise physiology",
+      "Measurement & reliability",
+      "Muscle hypertrophy",
+      "Resistance training"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-016-0602-1",
     "full_text": "https://pure.solent.ac.uk/ws/files/11195894/Sports_medicine_2016_symplectic.pdf",
+    "open_access": true
+  },
+  {
+    "year": 2016,
+    "date": "2016-08-18",
+    "title": "Pokémon Go: Mobile app user guides",
+    "authors": "Nash Anderson, James Steele, Lise-Ann O'Neill, Lesley A. Harden",
+    "type": "article",
+    "category": "article",
+    "topics": [
+      "Physical activity & public health"
+    ],
+    "venue": "British Journal of Sports Medicine",
+    "url": "https://doi.org/10.1136/bjsports-2016-096762",
+    "full_text": "",
     "open_access": true
   },
   {
@@ -2565,22 +3050,15 @@
     "authors": "James Fisher, Luke Carlson, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Body composition & nutrition",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Applied Physiology Nutrition and Metabolism",
     "url": "https://doi.org/10.1139/apnm-2016-0180",
     "full_text": "https://utoronto.scholaris.ca/bitstreams/9e84bf34-4b43-442b-b8be-1def55b2e330/download",
     "open_access": true
-  },
-  {
-    "year": 2016,
-    "date": "2016-06-01",
-    "title": "How hot is it? A survey of temperatures inside medium-voltage electrical enclosure across North America",
-    "authors": "James Steele, Mark A. Newton, Chris Campion",
-    "type": "conference-paper",
-    "category": "other",
-    "venue": "",
-    "url": "https://doi.org/10.1109/eic.2016.7548666",
-    "full_text": "",
-    "open_access": false
   },
   {
     "year": 2016,
@@ -2589,6 +3067,10 @@
     "authors": "Jürgen Gießing, Björn Eichmann, James Steele, James Fisher",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Body composition & nutrition",
+      "Resistance training"
+    ],
     "venue": "Biology of Sport",
     "url": "https://doi.org/10.5604/20831862.1201813",
     "full_text": "",
@@ -2601,8 +3083,11 @@
     "authors": "Jùrgen Gieβsing, James Fisher, James Steele, Frank Rothe, Kristin Raubold, Björn Eichmann",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Resistance training"
+    ],
     "venue": "PubMed",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/25303171",
+    "url": "https://www.minervamedica.it/en/journals/sports-med-physical-fitness/article.php?cod=R40Y2016N03A0249",
     "full_text": "",
     "open_access": false
   },
@@ -2613,6 +3098,11 @@
     "authors": "Paulo Gentil, James Steele, Maria C. Pereira, Rafael Castanheira, Antonio Paoli, Martim Bottaro",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Resistance training",
+      "Strength & power",
+      "Women & sex differences"
+    ],
     "venue": "PeerJ",
     "url": "https://doi.org/10.7717/peerj.1627",
     "full_text": "",
@@ -2620,23 +3110,34 @@
   },
   {
     "year": 2016,
-    "date": "2016-01-01",
+    "date": "2016-11-16",
     "title": "Surface electromyography and force production ofa novel strength training method suitable for microgravity",
     "authors": "James Fisher, James Steele, David Jessop",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Exercise physiology",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Journal of Trainology",
     "url": "https://doi.org/10.17338/trainology.5.2_46",
     "full_text": "https://www.jstage.jst.go.jp/article/trainology/5/2/5_46/_pdf",
     "open_access": true
   },
   {
-    "year": 2016,
-    "date": "2016-01-01",
+    "year": 2017,
+    "date": "2017-03-22",
     "title": "Differentiation between perceived effort and discomfort during resistance training in older adults:Reliability of trainee ratings of effort and discomfort,and reliability and validity of trainer ratings of trainee effort",
     "authors": "James Steele, James Fisher, Stephen McKinnon, Pat McKinnon",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Ageing",
+      "Behaviour & perception",
+      "Measurement & reliability",
+      "Resistance training"
+    ],
     "venue": "Journal of Trainology",
     "url": "https://doi.org/10.17338/trainology.6.1_1",
     "full_text": "https://www.jstage.jst.go.jp/article/trainology/6/1/6_1/_pdf",
@@ -2644,11 +3145,15 @@
   },
   {
     "year": 2016,
-    "date": "2016-01-01",
+    "date": "2016-05-20",
     "title": "A neck strengthening protocol in adolescent males and females for athletic injury prevention",
     "authors": "James Fisher, Mark Asanovich, Ralph Eddie Cornwell, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Youth"
+    ],
     "venue": "Journal of Trainology",
     "url": "https://doi.org/10.17338/trainology.5.1_13",
     "full_text": "https://www.jstage.jst.go.jp/article/trainology/5/1/5_13/_pdf",
@@ -2661,6 +3166,11 @@
     "authors": "Andrew D. Vigotsky, Chris Beardsley, Bret Contreras, James Steele, Dan Ogborn, Stuart M. Phillips",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Exercise physiology",
+      "Muscle hypertrophy",
+      "Strength & power"
+    ],
     "venue": "The Journal of Strength and Conditioning Research",
     "url": "https://doi.org/10.1519/jsc.0000000000001249",
     "full_text": "",
@@ -2673,6 +3183,12 @@
     "authors": "James Fisher, Dominic Blossom, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Body composition & nutrition",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Applied Physiology Nutrition and Metabolism",
     "url": "https://doi.org/10.1139/apnm-2015-0421",
     "full_text": "https://utoronto.scholaris.ca/bitstreams/170b42bd-65f4-4ffe-82cc-bf695bcbdb3c/download",
@@ -2685,6 +3201,10 @@
     "authors": "James Steele, Stewart Bruce‐Low, Dave Smith, David Jessop, Neil Osborne",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Low back pain",
+      "Measurement & reliability"
+    ],
     "venue": "Applied Ergonomics",
     "url": "https://doi.org/10.1016/j.apergo.2015.10.001",
     "full_text": "",
@@ -2697,6 +3217,12 @@
     "authors": "James Fisher, Luke Carlson, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Body composition & nutrition",
+      "Resistance training",
+      "Strength & power",
+      "Women & sex differences"
+    ],
     "venue": "The Journal of Strength and Conditioning Research",
     "url": "https://doi.org/10.1519/jsc.0000000000001222",
     "full_text": "",
@@ -2709,6 +3235,10 @@
     "authors": "Luke Edinborough, James Fisher, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Low back pain",
+      "Strength & power"
+    ],
     "venue": "The Journal of Strength and Conditioning Research",
     "url": "https://doi.org/10.1519/jsc.0000000000001215",
     "full_text": "",
@@ -2721,6 +3251,9 @@
     "authors": "James Steele, Stewart Bruce‐Low, Dave Smith, Neil Osborne, A Thorkeldsen",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Low back pain"
+    ],
     "venue": "The Spine Journal",
     "url": "https://doi.org/10.1016/j.spinee.2014.08.446",
     "full_text": "https://e-space.mmu.ac.uk/595364/2/Steele%20et%20al.%20%282015%29%20TSJ.pdf",
@@ -2729,26 +3262,18 @@
   {
     "year": 2015,
     "date": "2015-08-01",
-    "title": "Reply to “Discussion of ‘The effects of pre-exhaustion, exercise order, and rest intervals in a full-body resistance training intervention’ – Pre-exhaustion exercise and neuromuscular adaptations: an inefficient method?”",
+    "title": "Reply to \"Discussion of ‘The effects of pre-exhaustion, exercise order, and rest intervals in a full-body resistance training intervention’ – Pre-exhaustion exercise and neuromuscular adaptations: an inefficient method?\"",
     "authors": "James Fisher, Luke Carlson, James Steele, Dave Smith",
     "type": "letter",
     "category": "article",
+    "topics": [
+      "Body composition & nutrition",
+      "Resistance training"
+    ],
     "venue": "Applied Physiology Nutrition and Metabolism",
     "url": "https://doi.org/10.1139/apnm-2015-0194",
     "full_text": "https://www.nrcresearchpress.com/doi/pdf/10.1139/apnm-2015-0194",
     "open_access": true
-  },
-  {
-    "year": 2015,
-    "date": "2015-07-27",
-    "title": "El Entrenamiento de la Fuerza Hasta el Fallo Mejora la Aptitud Cardiovascular en Humanos: Revisión de las Respuestas Fisiológicas Agudas y Adaptaciones Fisiológicas Crónicas",
-    "authors": "James Steele, James Fisher, Doug McGuff, Stewart Bruce‐Low, D. W. Smith",
-    "type": "article",
-    "category": "article",
-    "venue": "PubliCE Premium",
-    "url": "https://g-se.com/es/fisiologia-del-ejercicio/articulos/el-entrenamiento-de-la-fuerza-hasta-el-fallo-mejora-la-aptitud-cardiovascular-en-humanos-revision-de-las-respuestas-fisiologicas-agudas-y-adaptaciones-fisiologicas-cronicas-1818",
-    "full_text": "",
-    "open_access": false
   },
   {
     "year": 2015,
@@ -2757,6 +3282,10 @@
     "authors": "James Steele, Stewart Bruce‐Low, Dave Smith, David Jessop, Neil Osborne",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Low back pain",
+      "Resistance training"
+    ],
     "venue": "PM&R",
     "url": "https://doi.org/10.1016/j.pmrj.2015.06.012",
     "full_text": "",
@@ -2769,6 +3298,11 @@
     "authors": "Henrique França, Paulo Alexandre Nordeste Branco, Dilmar Pinto Guedes, Paulo Gentil, James Steele, Cauê Vazquez La Scala Teixeira",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Body composition & nutrition",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Applied Physiology Nutrition and Metabolism",
     "url": "https://doi.org/10.1139/apnm-2015-0109",
     "full_text": "",
@@ -2781,6 +3315,10 @@
     "authors": "James Steele, Adam Fitzpatrick, Stewart Bruce‐Low, James Fisher",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Low back pain",
+      "Resistance training"
+    ],
     "venue": "PeerJ",
     "url": "https://doi.org/10.7717/peerj.878",
     "full_text": "",
@@ -2791,32 +3329,26 @@
     "date": "2015-02-01",
     "title": "Isolated lumbar extension exercise as an intervention for chronic low back pain",
     "authors": "James Steele",
-    "type": "dissertation",
+    "type": "thesis",
     "category": "other",
+    "topics": [
+      "Low back pain"
+    ],
     "venue": "Southampton Solent University Digital Library",
     "url": "https://openalex.org/W904340721",
-    "full_text": "http://ssudl.solent.ac.uk/3173/1/James%20Steele%20-%20Full%20Thesis.pdf",
+    "full_text": "https://www.researchgate.net/profile/James-Steele-14/publication/274704537_Isolated_lumbar_extension_exercise_as_an_intervention_for_chronic_low_back_pain/links/5530fb910cf2f2a588ab7012/Isolated-lumbar-extension-exercise-as-an-intervention-for-chronic-low-back-pain.pdf?origin=publicationDetail&_sg%5B0%5D=q0xk664jz3DJtPYQMKbSuDzFpd9yLzYf2eVeGjq2UaCJ82y138r4q8lA6CVWwmVw4o-ciCLAAtSuliBGiTr8Hg.NHO9cKQppQEGPhDNlVPUIsXNjB6MYD5yVO2SjgU4uIoMpBGmzrABM1FCpxLlnUl62e3xvk9qwAIC4FmUgEQyBg&_sg%5B1%5D=aBMxyOZjTDjlOES36AYNhkcZDXqWBNaJG-4kQ2lZowC4733pqR5IJMzn8i9J_QE-hfOPXOx6Mr5IZy6ZFcUcrBGWSxsPAT1IYCcpeXdNrSpJ.NHO9cKQppQEGPhDNlVPUIsXNjB6MYD5yVO2SjgU4uIoMpBGmzrABM1FCpxLlnUl62e3xvk9qwAIC4FmUgEQyBg&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIiwicHJldmlvdXNQYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUhlYWRlciJ9fQ",
     "open_access": true
   },
   {
-    "year": 2015,
-    "date": "2015-01-01",
-    "title": "El Entrenamiento de la Fuerza Hasta el Fallo Mejora la Aptitud Cardiovascular en Humanos: Revisión de las Respuestas Fisiológicas Agudas y Adaptaciones Fisiológicas Crónicas - International Endurance Group",
-    "authors": "James Steele, James Fisher, Doug McGuff, Stewart Bruce‐Low, Dave Smith",
-    "type": "article",
-    "category": "article",
-    "venue": "PubliCE",
-    "url": "https://g-se.com/el-entrenamiento-de-la-fuerza-hasta-el-fallo-mejora-la-aptitud-cardiovascular-en-humanos-revision-de-las-respuestas-fisiologicas-agudas-y-adaptaciones-fisiologicas-cronicas-1818-sa-257cfb272537fd",
-    "full_text": "",
-    "open_access": false
-  },
-  {
     "year": 2014,
-    "date": "2014-12-01",
+    "date": "2014-12-30",
     "title": "Questioning the Resistance/Aerobic Training Dichotomy: A Commentary on Physiological Adaptations Determined by Effort Rather than Exercise Modality",
     "authors": "James Fisher, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Exercise physiology"
+    ],
     "venue": "Journal of Human Kinetics",
     "url": "https://doi.org/10.2478/hukin-2014-0119",
     "full_text": "https://sciendo.com/pdf/10.2478/hukin-2014-0119",
@@ -2829,6 +3361,12 @@
     "authors": "James Steele, Stewart Bruce‐Low, Dave Smith",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Clinical exercise & rehabilitation",
+      "Low back pain",
+      "Resistance training"
+    ],
     "venue": "PM&R",
     "url": "https://doi.org/10.1016/j.pmrj.2014.10.009",
     "full_text": "",
@@ -2841,6 +3379,11 @@
     "authors": "James Steele, Stewart Bruce‐Low, Dave Smith, David Jessop, Neil Osborne",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Low back pain",
+      "Strength & power"
+    ],
     "venue": "Clinical Biomechanics",
     "url": "https://doi.org/10.1016/j.clinbiomech.2014.09.013",
     "full_text": "https://e-space.mmu.ac.uk/582924/1/Lumbar%20Kinematic%20Variability%20during%20Gait%20in%20CLBP.pdf",
@@ -2853,6 +3396,11 @@
     "authors": "James Fisher, Luke Carlson, James Steele, Dave Smith",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Body composition & nutrition",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Applied Physiology Nutrition and Metabolism",
     "url": "https://doi.org/10.1139/apnm-2014-0162",
     "full_text": "",
@@ -2865,6 +3413,13 @@
     "authors": "James Fisher, James Steele, Pat McKinnon, Stephen McKinnon",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Ageing",
+      "Body composition & nutrition",
+      "Resistance training",
+      "Strength & power",
+      "Women & sex differences"
+    ],
     "venue": "Journal of Sports Medicine",
     "url": "https://doi.org/10.1155/2014/731890",
     "full_text": "https://downloads.hindawi.com/journals/jsm/2014/731890.pdf",
@@ -2872,50 +3427,68 @@
   },
   {
     "year": 2014,
-    "date": "2014-01-01",
-    "title": "Regarding to the Article 'Effect of Lumbar Stabilization and Dynamic Lumbar Strengthening Exercises in Patients With Chronic Low Back Pain'",
+    "date": "2014-12-24",
+    "title": "Regarding to the Article \"Effect of Lumbar Stabilization and Dynamic Lumbar Strengthening Exercises in Patients With Chronic Low Back Pain\"",
     "authors": "James Steele",
-    "type": "article",
+    "type": "letter",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Low back pain"
+    ],
     "venue": "Annals of Rehabilitation Medicine",
     "url": "https://doi.org/10.5535/arm.2014.38.6.876",
     "full_text": "https://www.e-arm.org/upload/pdf/arm-38-876.pdf",
     "open_access": true
   },
   {
-    "year": 2014,
-    "date": "2014-01-01",
+    "year": 2015,
+    "date": "2015-05-04",
     "title": "Primum non nocere: A commentary on avoidable injuries and safe resistance training techniques",
     "authors": "James Fisher, James Steele, Matthew Brzycki, Bill DeSimone",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Resistance training"
+    ],
     "venue": "Journal of Trainology",
     "url": "https://doi.org/10.17338/trainology.3.1_31",
     "full_text": "https://www.jstage.jst.go.jp/article/trainology/3/1/3_31/_pdf",
     "open_access": true
   },
   {
-    "year": 2013,
-    "date": "2013-12-16",
+    "year": 2014,
+    "date": "2014-01-17",
     "title": "A reappraisal of the deconditioning hypothesis in low back pain: review of evidence from a triumvirate of research methods on specific lumbar extensor deconditioning",
     "authors": "James Steele, Stewart Bruce‐Low, Dave Smith",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Low back pain"
+    ],
     "venue": "Current Medical Research and Opinion",
     "url": "https://doi.org/10.1185/03007995.2013.875465",
-    "full_text": "/publications/steele_et_al_2013_reappraisal_deconditioning_clbp.pdf",
+    "full_text": "",
     "open_access": true
   },
   {
-    "year": 2014,
-    "date": "2014-01-01",
+    "year": 2013,
+    "date": "2013-10-25",
     "title": "Scientific Rigour: a Heavy or Light Load to Carry?",
     "authors": "James Steele, James Fisher",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Exercise physiology",
+      "Metascience & open science",
+      "Muscle hypertrophy",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "Sports Medicine",
     "url": "https://doi.org/10.1007/s40279-013-0113-2",
-    "full_text": "/publications/steele_fisher_2014_scientific_rigour_heavy_light_load.pdf",
+    "full_text": "",
     "open_access": false
   },
   {
@@ -2925,9 +3498,12 @@
     "authors": "James Steele, Stewart Bruce‐Low, Dave Smith",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Low back pain"
+    ],
     "venue": "British Journal of Sports Medicine",
     "url": "https://doi.org/10.1136/bjsports-2013-092197",
-    "full_text": "/publications/steele_et_al_2013_review_specificity_lumbar_extensors.pdf",
+    "full_text": "",
     "open_access": false
   },
   {
@@ -2935,11 +3511,15 @@
     "date": "2013-04-10",
     "title": "Controlling Resistance Training Variables in Interventions for Chronic Nonspecific Low Back Pain",
     "authors": "James Steele, Stewart Bruce‐Low, Dave Smith",
-    "type": "article",
+    "type": "letter",
     "category": "article",
+    "topics": [
+      "Low back pain",
+      "Resistance training"
+    ],
     "venue": "Spine",
     "url": "https://doi.org/10.1097/brs.0b013e318294ed8c",
-    "full_text": "/publications/steele_et_al_2013_controlling_resistance_training_variables_clbp.pdf",
+    "full_text": "",
     "open_access": false
   },
   {
@@ -2949,9 +3529,12 @@
     "authors": "James Steele, Stewart Bruce‐Low, Dave Smith, David Jessop, Neil Osborne",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Low back pain"
+    ],
     "venue": "Spine",
     "url": "https://doi.org/10.1097/brs.0b013e318291b526",
-    "full_text": "/publications/steele_et_al_2013_rct_limited_rom_ilex_clbp.pdf",
+    "full_text": "",
     "open_access": true
   },
   {
@@ -2961,9 +3544,12 @@
     "authors": "James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Resistance training"
+    ],
     "venue": "British Journal of Sports Medicine",
     "url": "https://doi.org/10.1136/bjsports-2012-092127",
-    "full_text": "/publications/steele_2013_intensity_noun.pdf",
+    "full_text": "",
     "open_access": false
   },
   {
@@ -2973,6 +3559,10 @@
     "authors": "James Fisher, James Steele, Dave Smith",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Muscle hypertrophy",
+      "Resistance training"
+    ],
     "venue": "Medicina Sportiva",
     "url": "https://openalex.org/W2289146380",
     "full_text": "/publications/fisher_et_al_2013_evidence_based_resistance_training_hypertrophy.pdf",
@@ -2980,11 +3570,18 @@
   },
   {
     "year": 2012,
-    "date": "2012-07-25",
+    "date": "2012-07-26",
     "title": "Steiger et al. 2011: relationships and specificity in CLBP rehabilitation through exercise",
     "authors": "James Steele, Stewart Bruce‐Low",
-    "type": "article",
+    "type": "letter",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Clinical exercise & rehabilitation",
+      "Low back pain",
+      "Resistance training",
+      "Strength & power"
+    ],
     "venue": "European Spine Journal",
     "url": "https://doi.org/10.1007/s00586-012-2449-y",
     "full_text": "https://link.springer.com/content/pdf/10.1007/s00586-012-2449-y.pdf",
@@ -2997,6 +3594,13 @@
     "authors": "James Steele, James Fisher, Doug McGuff, Stewart Bruce‐Low, Dave Smith",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Exercise physiology",
+      "Research methods & statistics",
+      "Resistance training",
+      "Sports performance",
+      "Strength & power"
+    ],
     "venue": "Journal of Exercise Physiology Online",
     "url": "http://www.asep.org/asep/asep/JEPonlineJUNE2012_Steele.pdf",
     "full_text": "http://www.asep.org/asep/asep/JEPonlineJUNE2012_Steele.pdf",
@@ -3009,6 +3613,11 @@
     "authors": "James Fisher, James Steele",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Behaviour & perception",
+      "Exercise physiology",
+      "Metascience & open science"
+    ],
     "venue": "Journal of Exercise Physiology Online",
     "url": "http://www.asep.org/asep/asep/JEPonlineFebruary2012Fisher.pdf",
     "full_text": "http://www.asep.org/asep/asep/JEPonlineFebruary2012Fisher.pdf",
@@ -3021,6 +3630,12 @@
     "authors": "James Fisher, James Steele, Stewart Bruce‐Low, Dave Smith",
     "type": "article",
     "category": "article",
+    "topics": [
+      "Clinical exercise & rehabilitation",
+      "Resistance training",
+      "Sports performance",
+      "Strength & power"
+    ],
     "venue": "Medicina Sportiva",
     "url": "",
     "full_text": "/publications/fisher_et_al_2011_evidence_based_resistance_training.pdf",
