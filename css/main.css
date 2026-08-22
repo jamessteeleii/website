@@ -114,6 +114,8 @@ h1 { margin-bottom: 0; font-size: clamp(3.25rem, min(7.4vw, 11vh), 8rem); }
 .writing-item p { max-width: 720px; margin: 0; color: var(--muted); }
 .empty-state { padding: 36px 0; border-bottom: 1px solid var(--line); color: var(--muted); }
 .quarto-listing .list:empty + .listing-no-matching { display: block !important; padding: 36px 0; border-bottom: 1px solid var(--line); color: var(--muted); }
+.reading-metrics { margin: 0 0 1.8rem; color: var(--muted); font-size: 0.82rem; font-weight: 650; letter-spacing: 0.02em; }
+.reading-metrics p { margin: 0; }
 
 html[data-theme="dark"] .quarto-listing .quarto-post .listing-title a { color: var(--ink); }
 html[data-theme="dark"] .quarto-listing .quarto-post .listing-description,

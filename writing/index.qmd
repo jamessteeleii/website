@@ -13,7 +13,7 @@ listing:
     - "!../essays/index.qmd"
   type: default
   sort: "date desc"
-  fields: [date, title, description, kind]
+  fields: [date, title, description, kind, word-count, reading-time]
   feed: true
 ---
 

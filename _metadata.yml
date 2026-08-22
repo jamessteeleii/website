@@ -1,2 +1,4 @@
 lang: en-GB
 date-format: "D MMMM YYYY"
+filters:
+  - filters/reading-metrics.lua
