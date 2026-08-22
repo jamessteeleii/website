@@ -26,11 +26,11 @@ website:
   title: "Steele Research"
   site-url: "https://steele-research.com"
   description: "Research, writing, and educational resources from James Steele."
-  favicon: images/icon.png
+  favicon: images/icon-on-light.png
   search: false
   open-graph: true
   navbar:
-    logo: images/icon.png
+    logo: images/icon-on-light.png
     logo-alt: ""
     title: "Steele Research"
     background: white
@@ -55,7 +55,9 @@ format:
     anchor-sections: false
     smooth-scroll: true
     link-external-newwindow: true
-    include-in-header: includes/feed-link.html
+    include-in-header:
+      - includes/feed-link.html
+      - includes/theme-head.html
     include-after-body:
       - includes/site-footer.html
       - includes/cloudflare-analytics.html
