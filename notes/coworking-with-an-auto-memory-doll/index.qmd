@@ -1,0 +1,155 @@
+---
+title: "Coworking with an Auto Memory Doll"
+description: "On learning to work alongside AI agents, grappling with retaining ownership of my work, and the unexpected freedom of letting go."
+date: 2026-08-30
+kind: "Note"
+categories: [AI, Agents, Coding, Writing, Work, Violet Evergarden]
+draft: false
+---
+
+## *Preface* 
+
+*In this post I attempt to convey some thoughts and feelings that have been sat with me recently. The first half of this post is almost word for word the stream of consciousness prompt that I provided to ChatGPT which then provided its retelling of this in the second half. I say "almost" for the first part because I did ask it to provide me a grammar and spelling check for obvious errors and then I provided a final editorial pass before deciding to publish (mostly dropping the damned em dashes it decided to add which I don't think I have ever used in my own writing). This is perhaps a little disingenuous given I want to, in some sense, emulate the process of a person sitting with a Doll to write a letter. But, I do tend to proof my stream of consciousness written communication all the time anyway prior to ever hitting send, publish etc. My writing has often followed this method, which certainly isn't unique. Well, actually, usually I start to "write" what I want to say in my head, often in some detail, before every taking up a pen or striking a key (if you really want to know, I was lying in the bath listening to Evan Call's fantastic soundtrack to Violet Evergarden, Automemories, about an hour prior to publishing this, when I started to flesh out this idea for a post). Nonetheless, even when my first written draft starts in some sense as a stream of consciousness piece of writing, it will still receive some level of editing before that written form is communicated. I felt it was necessary to be clear about that for this post. What follows my somewhat edited stream of consciousness is what ChatGPT, the "Doll", produced from it in this instance.*
+
+*I do want to make it clear that I do not intend to use agents for writing for this site, nor for my scientific writing, outside of the smaller tasks I note in the post body. Checking spelling, grammar, syntax. Taking bullet points of ideas I am struggling to coherently express and helping to "flesh them out" for me to then put back into my own words. Summarising my stream of consciousness writing for me to help sharpen its ideas I can then re-write myself. Cutting things down to dumb word limits imposed by journals. And everything with my final editorial pass.*
+---
+
+## My Stream of Consciousness
+
+For a while, I was not using agents at all. I remember it feeling so alien to me when speaking with others whose first instincts seemingly had shifted to "ask ChatGPT" for almost every problem they encountered, even ones that were literally just informational recall. I wasn't even really using agents for coding outside of a few forays until perhaps a year and a half ago. I was still largely googling and then trawling places like stackoverflow and stackexchange when I encountered problems. Then I began to shift towards using agents mostly in chat mode: to debug problems with my code, suggest better ways of doing things, or quickly supply example code that I could adapt and use.
+
+Where possible, I avoided using them for writing. Aside from administrative tasks such as creating summaries or abstracts, particularly for the latter reducing them to fit journal word limits, I wanted to retain ownership of my writing. Even then though, I had started to sometimes use them for more creative tasks. For example, developing ideas for RPG scenarios from a seed that had popped into my head from somewhere, and particularly handling the tiresome tasks of creating NPCs, stat sheets etc. Very, very occasionally I would use them for certain writing tasks, typically providing my stream of consciousness writing and then asking for a summary, or examples developed from this, to help me get started or drafts that I could then edit. A bit like I am doing now.
+
+It was only recently that something one of our technical founders at MacroFactor said gave me the kick I needed to move towards using agents in a coworking mode. He said that he simply does not code himself anymore, because Claude (or any sufficiently capable agent) does it better and with fewer mistakes. Instead, he knows what he wants the code to do. He can set prompts, provide context and guardrails, and then review the result.
+
+I am not the best coder. I have terrible workflows and, although I try to work reproducibly and transparently and think I am relatively good at doing so compared with many people in my field, I mess things up all the time. What I do have is substantive expertise in the ideas, models, analyses, and inferential targets that I want to work towards, develop, or achieve.
+
+I think this is where having the expertise required to use tools like these agents properly becomes essential. Given the complexity of some of the things I currently work on, I can readily imagine that it would be difficult for many people in my field even to know where to begin in order to get the most from these tools.
+
+It has been an interesting experience.
+
+For several years, I have been carefully trying to prune my to-do list and reduce my work-related obligations. While I was in academia, I found myself in the position familiar to many people: struggling to say “no” to anything that seemed interesting and becoming involved in far too many projects.
+
+There was always an element of the incentive structures at work, even if I do not like admitting it. For me though, the incentive was not just conventional career advancement. It was also the urge to take on projects and continue playing my role in trying to raise the quality of things, “push the field forward” methodologically, and in terms of transparency, reproducibility and so on.
+
+Eventually, however, I began saying “no” more often. I shifted towards wanting to do less, but to do it with greater quality. I had come to recognise that even my own work was not up to scratch, despite probably being far above the average in the field.
+
+That shift was also partly born of how much this work consumed my spare time. I would work early in the morning and late in the evening. I would work at weekends. I would become obsessive about whatever I was doing. This was part of the reason I recently deleted social media.[^social-media]
+
+[^social-media]: Mostly because I wanted to stop it encroaching on my headspace in the way it tends to do. Even after having it back on my phone for only a couple of hours having reinstalled it on returning from holiday (so that I could export my data and make one final post), I found myself scrolling again and feeling that horrible buzzing sensation in my mind. I have tried to explain to my “normie” family and friends that it is not even ordinary social-media stuff. It is the niche subcultures related to my work and academic interests, sometimes in their worst forms. Even when it is the really good stuff, when things are discussed sensibly and cordially, and people share things of genuine value from which I learn or which prompt my own thinking and reflection, I find that the topics towards which I gravitate are precisely the kind that sit in my head afterwards. I cannot stop thinking about them. And I do not want to be thinking about them while spending time with loved ones or trying to engage in other hobbies and interests. I want to spend more time enjoying my life outside work, rather than having work remain the primary thing towards which my attention is drawn. For roughly the past five years, whenever I have gone on holiday I have uninstalled social media, and even messaging apps, so that I can properly switch off. Deleting social media was an attempt to create more of that separation in my ordinary life.
+
+This past week, I started watching [*Violet Evergarden*](https://en.wikipedia.org/wiki/Violet_Evergarden). While this is probably not a new reading of it (and is perhaps one that I suspect would upset many fans if there were a comment section to complain in here) I saw in it some themes that touched upon things I have recently been feeling and thinking about.
+
+There is perhaps an irony here, if I am using that term correctly which I am sure I, like most people, often do not. Nowadays, people seem in many respects to use agents like Auto Memory Dolls.
+
+I am not suggesting that this was an intended theme of the anime, nor that it was somehow prophetic. It almost certainly was not. The story is about much more... recovery, learning about emotions and how to express them, connecting with people and understanding how to understand them. The show is considerably deeper than the simple observation that Auto Memory Dolls resemble AI agents.
+
+Nevertheless, I am sitting here now, writing to an agent and asking it to help shape my ideas. I cannot help thinking that this is, in large part, what the industry of Dolls was created to do: to help people express themselves.
+
+Over the past couple of weeks, I have begun to realise just how damned good these frontier agents are at coworking, and in many respects it has left me reeling.
+
+They are simply better than I am at coding and at many of the workflows surrounding it. Provided that I give them the necessary scientific and statistical guidance, they can often do the work faster and with fewer errors than I can.
+
+Even in writing tasks, they are becoming better and better at identifying simple mistakes in my own work. I have begun delegating to them a task that I used to do quite frequently myself. Much of my writing begins with seeds that I set down as bullet points, then return to and cultivate over time. For the website[^website], for example, I supplied an agent with my social-media history and asked it to draft notes around the key topics I had posted about, which I could eventually write out in full myself.
+
+[^website]: I should note, that one of the first coworking tasks I used an agent for was updating my website. It was previously all in hugo and I wanted to change it all to quarto. It was also hosted through netlify and I wanted to shift to github pages. Sure, I could have done it all myself, but it probably would have taken me sometime and several errors. The agent did in all in next to no time relatively speaking.
+
+In this case, I am writing a long stream of consciousness essay into ChatGPT and asking it to reproduce what I have written as a draft note for my website, retaining as much of my wording as possible while correcting the grammar, spelling and syntax. At the same time, I am asking it to offer its own interpretation and rewriting of the piece, just as a Doll might interpret the true feelings that someone wishes to express in a letter.
+
+I am not sure how to end this.
+
+The sheer capability of these tools has left me reeling somewhat in terms of their capabilites now that I have begun to lean into their use for particular tasks. I also genuinely feel a sense of discomfort about what the future might look like as they continue to develop. I certainly do not know enough to have any confident view of that future. I am neither a doomsayer nor someone who believes that these systems are going to be our saviours. Maybe that discomfort I feel just comes from the usual feeling of ageing and seeing the world changing around you. 
+
+But I do have this sudden feeling of… freedom.
+
+Tasks that would previously have taken me a considerable amount of time now seem far easier to work through. I can see things that once occupied enormous amounts of headspace, and fed the obsessive tendencies that contribute to my longstanding insomnia, beginning to melt away.
+
+Why has that model not converged? Why does that code keep producing an error? What is the right estimator for this estimand? Which assumptions am I missing?
+
+Perhaps, in their place, I can find the headspace simply to relax. To sit with empty thoughts. To enjoy moments and actually be present within them with friends and family, or while pursuing other interests.
+
+Or to watch *Violet Evergarden* and find myself moved to tears during pretty much every episode so far.
+
+I am only on episode six.
+
+---
+
+## The Doll's retelling
+
+Over the past couple of weeks, I have had the disorienting experience of discovering that AI agents can do many of the things I struggle with better than I can.
+
+This is not quite the admission it might initially appear to be. I am not conceding that an agent understands the scientific questions I care about better than I do, or that it can decide which models, analyses or inferential targets are worth pursuing. That substantive expertise remains mine. But once I can explain what I want, supply the relevant context, and impose the necessary scientific and statistical guardrails, an agent can often turn those intentions into working code more quickly, more systematically, and with fewer mistakes than I can.
+
+It has taken me some time to become comfortable with that.
+
+For a while, I did not use these tools at all. It felt alien to watch other people's first instinct become “ask ChatGPT”, even when the problem was little more than informational recall. I was not really using agents for coding either, beyond a few experiments. When I ran into a problem, I still googled it and trawled through Stack Overflow or Stack Exchange in search of someone who had encountered something similar.
+
+That began to change perhaps a year and a half ago. I started using agents in chat mode, asking them to debug code, suggest a better approach, or supply a small example that I could adapt. I treated them as advisers rather than coworkers.
+
+I was particularly reluctant to use them for writing. Aside from administrative tasks, such as producing summaries or forcing an abstract beneath a journal's word limit, I wanted to preserve a strong sense of authorship and ownership. I wanted the words to remain mine.
+
+That boundary was never absolute. I sometimes used agents for more creative work, developing an RPG scenario from an idea that had occurred to me, or delegating the tiresome business of producing NPCs and stat sheets. Very occasionally, I would give an agent a piece of stream of consciousness writing and ask it to summarise what I was saying, suggest examples, or produce a draft that I could then edit. Much of my writing has always begun as scattered seeds: thoughts rehearsed in my head, fragments recorded in the moment, or bullet points returned to and cultivated over time. Asking an agent to help arrange those seeds was not entirely alien to that process. Still, I remained apprehensive.
+
+The change came after a conversation with one of our technical founders at MacroFactor. He told me that he no longer really codes himself. Claude, or another sufficiently capable agent, does it better, he said, and makes fewer mistakes.
+
+His role has shifted. He knows what the software needs to do. He provides the context, defines the task, establishes the guardrails, and reviews what comes back.
+
+That observation gave me the push I needed to try working with agents in much the same way.
+
+I am not an especially good programmer. My workflows are terrible. I care a great deal about transparency and reproducibility, and I think I achieve more of both than the average person in my field, yet I still make mistakes constantly. I lose time to errors, poorly organised processes, and problems whose solutions I lack the technical fluency to see quickly.
+
+What I do have is substantive knowledge. I know the ideas I want to develop, the models I want to construct, the analyses I want to conduct, and the inferential targets I am trying to reach. Increasingly, I suspect that this combination, domain expertise together with the ability to direct and scrutinise an agent, will be enormously valuable. Without the expertise needed to specify a problem, recognise faulty assumptions, and judge an answer, it may be difficult even to know where to begin.
+
+My first substantial experience of this kind of coworking was the rebuilding of this website. It had been built with Hugo and hosted through Netlify. I wanted to move it to Quarto and GitHub Pages. I could have done that myself, but it would have taken time and, almost certainly, involved several errors along the way. An agent did nearly all of it in next to no time, at least relative to how long it would have taken me.
+
+That experience forms part of a much longer effort to make my working life smaller.
+
+For several years, I have been trying to prune my to-do list and reduce my obligations. In academia, I had fallen into the familiar habit of saying yes to almost anything that seemed interesting. I joined too many projects and accepted too many commitments. There was an element of academic incentive in this, although I do not especially like to admit it. But there was also something more sincere and, in its own way, more dangerous: the conviction that I ought to help raise the quality of the work around me and push the field forward, both methodologically and through greater transparency and reproducibility.
+
+Eventually, I began saying no. I wanted to do less and to do it better. Even if my work was far above the prevailing standard in some respects, I knew how often it still fell short of the standard I wanted for it.
+
+I also knew what the work was taking from me.
+
+It filled early mornings, late evenings, and weekends. Problems followed me away from my desk. I became obsessive. A model that would not converge or an error I could not explain would occupy space in my mind long after I had stopped actively working on it. Questions about estimators, estimands, and unexamined assumptions would accompany me to bed, feeding into the insomnia with which I have struggled for years.
+
+Deleting social media was part of an attempt to reclaim that mental space. The problem was not ordinary social media distraction so much as the intensely specialised worlds connected to my work and academic interests. Sometimes those spaces contained the worst forms of those subcultures. But even at their best, when people were thoughtful and cordial, shared valuable work, and prompted genuine learning, they filled my mind with precisely the subjects from which I needed occasional distance.
+
+Within hours of briefly reinstalling social media after a holiday, I found myself scrolling and felt that familiar, horrible buzzing in my head. These were interesting ideas, but I did not want to be involuntarily thinking about them while spending time with people I loved. I did not want work, however valuable or absorbing, to remain the gravitational centre of my attention.
+
+For years, I have uninstalled social media and even messaging apps whenever I go on holiday so that I can properly switch off. Deleting social media altogether was an attempt to create more of that separation in ordinary life. I wanted the headspace to taste more of life.
+
+Then, this past week, I began watching *Violet Evergarden*.
+
+It would be reductive to say that the Auto Memory Dolls are analogous to AI agents. The series is concerned with recovery, emotion, connection, and the difficult process of learning to understand both oneself and other people. I do not imagine it was secretly anticipating ChatGPT.
+
+Still, it is hard to miss the resonance while sitting here, pouring an unfinished essay into an agent and asking it to help me discover the shape of what I am trying to say.
+
+The Dolls help people translate thoughts and feelings into words. Their task is not merely transcription. They listen, interpret, and attempt to express something that the person themselves cannot yet articulate. Increasingly, people are asking agents to perform a related role, not only to produce text, but to help them find an expression for ideas that remain scattered, incomplete, or obscure even to themselves.
+
+There is an obvious irony in asking an agent to help me write about my discomfort with agents. The irony deepens because “Coworking with an Auto Memory Doll” was the first title that occurred to me, before I asked the agent to suggest any. It returned the same phrase to me among its ideas, unaware that the thought had already been mine.
+
+But perhaps that is also the point. I supplied the experiences, the judgements, the uncertainty, and the feeling. The agent helps me arrange them into a form that I can inspect, reject, correct, and ultimately make my own. The originating thought remains mine, as does the judgement that recognises which expression is right.
+
+I still care about ownership of my writing. I do not want to outsource the process of knowing what I think. But I am becoming more open to the possibility that a tool can help me express those thoughts without replacing them, and that it can take on some of the work surrounding my substantive expertise without diminishing that expertise.
+
+My apprehension has not disappeared. The capabilities of frontier agents have left me reeling, and I feel genuine discomfort when I try to imagine where their continued development might lead. I know too little to make confident predictions. I am neither convinced that they will destroy us nor persuaded that they will save us. Perhaps some of the discomfort is simply the familiar experience of ageing and watching the world change around you.
+
+What I had not anticipated was the feeling of freedom.
+
+Tasks that once demanded a considerable amount of time now seem far easier to work through. Problems that occupied enormous amounts of headspace, and fed the obsessive tendencies behind my longstanding insomnia, have begun to feel as though they might melt away.
+
+Why has that model not converged? Why does that code keep producing an error? What is the right estimator for this estimand? Which assumptions am I missing?
+
+Perhaps the model that will not converge can remain at my desk rather than following me into bed. Perhaps an error can be diagnosed without consuming a weekend. Perhaps the machinery needed to carry an idea into practice can become less burdensome, leaving me with more energy for the part that actually requires my judgement.
+
+And perhaps the time returned to me does not have to become more productive time.
+
+That is what has surprised me most. After years of trying to reduce my obligations and resist the tendency to fill every available space with work, my first thought is not that agents will allow me to add everything back again. I hope I can resist that temptation.
+
+Instead, the time can remain empty.
+
+It can become time spent with friends and family while actually being present with them. Time for hobbies that have nothing to do with work. Time to relax without some unresolved technical problem buzzing beneath the surface of thought.
+
+Or time to watch *Violet Evergarden* and be unexpectedly moved to tears, episode after episode.
+
+I am only six episodes in. But for the moment, that feels like a glimpse of the life I have been trying to make room for.
