@@ -1,0 +1,58 @@
+---
+title: "Today I hate effect heterogeneity worse than everything"
+description: "After chasing individual causal effects through assumptions all the way down, I am done with this damned topic."
+date: 2026-10-04
+kind: "Note"
+categories: [Causal inference, Effect heterogeneity, Individual response, Resistance training]
+draft: false
+---
+
+The more I work on and try to understand effect heterogeneity, the more I hate it.
+
+I have been substantially revising a meta-analysis of variation in resistance-training outcomes as an invited submission. The apparently simple question motivating the work was whether people differ meaningfully in their causal responses to resistance training. Not whether their observed changes differ (of course they do... just look around) but whether the underlying causal effect of training itself differs from person to person.
+
+I've been interested in this topic for some time and the tldr for this particular analysis was as follows: Comparing post-intervention variability in resistance-training and non-training control groups across 102 studies, 295 eligible arms and 3,784 participants, accounting for the relationship between outcome means and standard deviations, training groups were no more variable than control groups for either strength or hypertrophy. At face value, this provides little support for a simple model in which training introduces substantial, independent variation in individual effects.
+
+That sounds like an answer. It is not an answer.
+
+## Turtles all the way down
+
+The *fundamental problem of causal inference* is that an individual's causal effect is the difference between two potential outcomes: what happens if they train and what happens, at the same time, if they do not. We can only ever observe one of them.
+
+Randomisation allows us to estimate an average effect by comparing groups. A conventional parallel-group trial can also identify the separate distributions of outcomes under training and control. What it cannot identify is the joint distribution of those potential outcomes within the same people. We do not *know* how the outcome somebody would have under training relates to the outcome that same person would have under control, because nobody can occupy both conditions at once.
+
+This means that the variance of individual causal effects depends on a correlation we cannot observe. Similar variances in the training and control groups are compatible with homogeneous effects, but they can in certain circumstances also coexist with meaningful effect heterogeneity. For example, people who would otherwise have had lower outcomes might experience larger effects from training. The marginal outcome distributions could look much the same while concealing quite different individual causal effects.
+
+So we add an assumption about that correlation. Or we try to bound it in some way (say using pre-post correlations and positive semidefiniteness). Then we need assumptions about how well those correlations tell us anything about the relationship between the relevant potential outcomes. We need to decide what magnitude of heterogeneity would matter. We need to separate stable differences from measurement error and within-person variation. We need to decide whether effects should be defined on an additive or proportional scale. We need to ask whether an effect is even a stable property of a person, rather than something conditional on time, context, dose, adherence and the person's history up to that point.
+
+Every attempt to extract a more useful answer exposes another layer of assumptions. It is assumptions all the way down, like bloody turtles.
+
+And yes, all empirical inference depends on assumptions... that's something I've banged on about in many regards. I am not infuriated by their existence *per se*. What is infuriating in this particular instance though is the distance between the confidence of claims about “responders”, “non-responders” and personalised exercise prescription, and the fragility of the designs and data supposedly supporting them. Substantive researchers seem intensely interested in individual effects while often understanding sweet f#ck all about what would be required to identify them.
+
+## Even the answer would not answer the question
+
+Suppose we somehow dealt with all of this. Suppose we could establish beyond reasonable doubt that people really do differ in their causal responses to resistance training compared with doing nothing. Who cares?
+
+That is not what people actually want to know.
+
+People want to know what *they should do*. They want to know whether they would respond better to one programme than another: high or low volume, heavy or light loads, training to failure or stopping short, two sessions per week or four *et cetera*, *et cetera*. Demonstrating heterogeneity in the effect of training versus a non-training control would not answer any of those questions... and yet that's the exact case where most would agree the assumptions are in fact reasonable enough to make even in the parallel trial case to say *something* about the damned thing.
+
+To get at the thing people really care about though, we would first need to demonstrate heterogeneity in the causal contrast between active interventions. We would then need to identify reliable predictors of those individual-level differences so that we could decide, before assigning an intervention, which option would be better for a particular person. We'd maybe even begin to develop a more formalised causal theory of individual effects based on these predictors. Finding variation is not enough. It has to be predictable, and corroborated, variation in the treatment contrast that matters for the decision.
+
+The field can barely tie its own shoes so what hope does it have in solving this problem? It struggles to run studies large and rigorous enough to estimate the relevant *average* intervention effects with adequate precision. The prospect that it will reliably identify individual causal effects, discover their moderators and validate a useful treatment-selection rule is not merely distant. Given the usual sample sizes, measurements and study designs, it is fantasy.
+
+The closest thing to a serious route forward would probably involve replicated randomised crossover designs or similarly intensive longitudinal studies. Each person would need to receive each intervention repeatedly, under conditions in which period, carryover, learning, detraining and time-varying effects could somehow be handled. This is exceptionally difficult for resistance training, where interventions alter the person and their subsequent capacity to respond. And, naturally, such designs bring still more assumptions.
+
+Turtles all the way down.
+
+## I am done
+
+The meta-analysis mentioned can constrain some simple models of heterogeneity. That is useful, in a narrow sense. It tells us that the familiar picture in which training adds a large amount of independent person-to-person variation is not supported by the aggregate data. The simplest position to take then being that effects are reasonably similar between individuals so the average intervention effect is a reasonable thing to assume. But it cannot determine whether meaningful individual causal effects do in fact exist. Even if it could, the answer would tell us very little about how to choose between programmes for an individual.
+
+I have followed the question far enough to see both how technically and logistically intractable it is and how little the original answer would ultimately give us. I no longer want to follow it any further. Consider this note a final exorcism.
+
+No more working on this damned topic. No more writing about it, including the aforementioned invited submission. No more talking about it, except perhaps to tell people that they are wasting their time.
+
+To paraphrase Darwin:
+
+> I am very poorly today, and very stupid, and hate everybody and everything. One lives only to make blunders. I am going to write a little paper on effect heterogeneity, and today I hate it worse than everything---so farewell.
