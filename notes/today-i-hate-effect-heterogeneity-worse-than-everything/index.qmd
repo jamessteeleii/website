@@ -7,6 +7,12 @@ categories: [Causal inference, Effect heterogeneity, Individual response, Resist
 draft: false
 ---
 
+## *Edit: 16th October 2026*
+
+*At the end of this post I say I am done with writing on this topic... I thought it would be remiss of me not to say up front that, whilst I decided to not complete the meta-analytic work mentioned in the post, I am involved in at least one other project as a collaborator which concern this topic and they will be available shortly. But after that... I am done.*
+
+---
+
 The more I work on and try to understand effect heterogeneity, the more I hate it.
 
 I have been substantially revising a meta-analysis of variation in resistance-training outcomes as an invited submission. The apparently simple question motivating the work was whether people differ meaningfully in their causal responses to resistance training. Not whether their observed changes differ (of course they do... just look around) but whether the underlying causal effect of training itself differs from person to person.
