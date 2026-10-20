@@ -2,7 +2,7 @@
 title: ""
 title-block-style: none
 pagetitle: "Writing"
-description: "Short notes, longer essays, project updates, and developing ideas."
+description: "Notes capture observations, connections, project updates, and ideas in progress. Essays develop sustained arguments and reflections intended to stand on their own."
 page-layout: full
 listing:
   id: writing-listing
@@ -21,7 +21,7 @@ listing:
 <header class="page-header shell">
   <p class="eyebrow">Notes &amp; essays</p>
   <h1>Writing</h1>
-  <p class="lede">Short notes, longer essays, project updates, and developing ideas.</p>
+  <p class="lede">Notes capture observations, connections, project updates, and ideas in progress. Essays develop sustained arguments and reflections intended to stand on their own.</p>
   <div class="profile-links">
     <a href="/writing/index.xml">Subscribe via RSS</a>
   </div>

@@ -138,9 +138,9 @@ python scripts/render_quarto_data.py
 
 The GitHub deployment also runs this generator automatically, but running it locally lets you inspect the updated archive in preview before publishing.
 
-## Write a short note
+## Write a note
 
-Notes are intended for short observations, links, working ideas, research updates, or compact commentary. Create a dated page bundle, for example:
+Notes capture something worth noticing: an observation, connection, project update, response to a source, or developing idea. Length is only a guide; the defining feature is that a note records or extends an idea rather than building a sustained, standalone case. Create a dated page bundle, for example:
 
 ```text
 notes/2026/08/my-note/index.qmd
@@ -155,9 +155,9 @@ Copy-Item "templates/note.qmd" "notes/2026/08/my-note/index.qmd"
 
 Replace the template title, description, and `YYYY-MM-DD` date. Leave `kind: "Note"` and `draft: true` while writing.
 
-## Write a long-form essay
+## Write an essay
 
-Essays use the same page-bundle approach, for example:
+Essays develop a central claim, question, or tension through multiple intellectual or narrative moves and are intended to stand on their own after the immediate occasion has passed. Essays use the same page-bundle approach, for example:
 
 ```text
 essays/2026/my-essay/index.qmd

@@ -1,11 +1,9 @@
 ---
 title: "Essays"
-description: "Longer-form writing essays."
+description: "Developed arguments and reflections intended to stand on their own."
 page-layout: article
 listing:
-  contents:
-    - "**/index.qmd"
-    - "!index.qmd"
+  contents: "."
   sort: "date desc"
   feed: true
 ---

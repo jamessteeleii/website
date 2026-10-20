@@ -2,7 +2,9 @@
 title: "From cases to principles: reflections on ethics in forensic peer review"
 description: "Notes on error detection, the relationship between sleuthing and metascience, and how values guide forensic peer review."
 date: 2026-10-16
-kind: "Note"
+kind: "Essay"
+aliases:
+  - "/notes/ethical-forensic-peer-review/index.html"
 categories: [Research Integrity, Metascience, Philosophy of Science, Peer Review, Ethics]
 draft: false
 ---

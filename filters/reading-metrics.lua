@@ -39,13 +39,14 @@ local function rendered_word_count(blocks)
 end
 
 function Pandoc(document)
-  if metadata_text(document.meta.kind):lower() ~= "note" then
+  local kind = metadata_text(document.meta.kind):lower()
+  if kind ~= "note" and kind ~= "essay" then
     return document
   end
 
   -- Quarto's listing pages estimate word count by splitting the source body on
   -- literal spaces. Repeating that method keeps the article and listing values
-  -- identical while leaving the note source itself untouched.
+  -- identical while leaving the writing source itself untouched.
   local words = source_word_count() or rendered_word_count(document.blocks)
   local minutes = math.max(1, math.ceil(words / 200))
   local word_label = words == 1 and "word" or "words"

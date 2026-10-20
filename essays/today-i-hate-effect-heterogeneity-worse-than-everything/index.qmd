@@ -2,7 +2,9 @@
 title: "Today I hate effect heterogeneity worse than everything"
 description: "After chasing individual causal effects through assumptions all the way down, I am done with this damned topic."
 date: 2026-10-04
-kind: "Note"
+kind: "Essay"
+aliases:
+  - "/notes/today-i-hate-effect-heterogeneity-worse-than-everything/index.html"
 categories: [Causal inference, Effect heterogeneity, Individual response, Resistance training]
 draft: false
 ---

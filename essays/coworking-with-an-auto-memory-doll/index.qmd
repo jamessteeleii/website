@@ -2,7 +2,9 @@
 title: "Coworking with an Auto Memory Doll"
 description: "On learning to work alongside AI agents, grappling with retaining ownership of my work, and the unexpected freedom of letting go."
 date: 2026-08-30
-kind: "Note"
+kind: "Essay"
+aliases:
+  - "/notes/coworking-with-an-auto-memory-doll/index.html"
 categories: [AI, Agents, Coding, Writing, Work, Violet Evergarden]
 draft: false
 ---
