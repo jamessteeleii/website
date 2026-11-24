@@ -2,7 +2,7 @@
 title: "When meta-analyses become headlines"
 subtitle: "What our new protein dose-response review illustrates about science communication"
 description: "A new evidence synthesis is often less a final verdict than a prompt to improve the research that feeds our recommendations."
-date: 2026-11-18
+date: 2026-11-24
 kind: "Essay"
 categories: [Science communication, Meta-science, Evidence synthesis, Nutrition]
 draft: false
